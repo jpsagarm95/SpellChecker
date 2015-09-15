@@ -1,5 +1,7 @@
 import generatingCandidates as gc
 import time
+import string
+
 def filterByEditDistance(typo, cands, dis):
 	newcands = set()
 	for i in cands:
@@ -29,3 +31,46 @@ def all(word, nvalue, tol = 3, dis = 2):
 	end = time.clock()
 	print(end - start)
 	return edcands
+
+def readXY():
+    path1 = 'data/addXY.txt'
+    path2 = 'data/delXY.txt'
+    path3 = 'data/subXY.txt'
+    path4 = 'data/revXY.txt'
+
+    addXY = []
+    delXY = []
+    subXY = []
+    revXY = []
+
+    f1 = open(path1, 'r')
+    f2 = open(path2, 'r')
+    f3 = open(path3, 'r')
+    f4 = open(path4, 'r')
+
+    data = f1.read()
+    data = data.split('\n')
+    del data[-1]
+    for i in data:
+        addXY.append(i.split())
+    
+    data = f2.read()
+    data = data.split('\n')
+    del data[-1]
+    for i in data:
+        delXY.append(i.split())
+
+    data = f3.read()
+    data = data.split('\n')
+    del data[-1]
+    for i in data:
+        subXY.append(i.split())
+
+    data = f4.read()
+    data = data.split('\n')
+    del data[-1]
+    for i in data:
+        revXY.append(i.split())
+
+    return addXY, delXY, subXY, revXY
+
