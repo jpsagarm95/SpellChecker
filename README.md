@@ -1,5 +1,6 @@
 # SpellChecker
 
+
 Initial Idea:
 
  We used assumption that the trigrams from the typo will also be a trigram in the correct word. With this assumption, we created a dictionary of trigrams and listed all the words with the trigrams. 
