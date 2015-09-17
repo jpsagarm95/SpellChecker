@@ -11,10 +11,19 @@ with open('count_1edit.txt') as openfileobj:
     for line in openfileobj:
         a = line.replace('\n','')
         a = re.split('\t|\|', a)
+        if a[0] == ' ' or a[1] == ' ':
+            a[0].replace(' ','')
+            a[1].replace(' ','')
+            
         len1 = len(a[0])
         len2 = len(a[1])
         count = a[2]
-        if len1 == 1 and len2 == 1:
+        
+        if len1 == 0:
+            dict_del[a[1]] = count
+        elif len2 == 0:
+            dict_add[a[0]] = count
+        elif len1 == 1 and len2 == 1:
             dict_sub[a[0]+a[1]] = count
         elif len1 == 1 and len2 == 2:
             dict_del[a[1]] = count
