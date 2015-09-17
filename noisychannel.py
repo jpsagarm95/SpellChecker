@@ -14,39 +14,45 @@ def ed(a, b, i, j, mat, prob):
 		if min(i, j) == 0:
 			mat[i][j] = max(i, j)
 		elif (i > 1) and (j > 1) and (a[i - 1] == b[j - 2]) and (a[i - 2] == b[j - 1]):
-			temp = ed(a, b, i - 1, j, mat) + 1
+			temp = ed(a, b, i - 1, j, mat, prob) + 1
 			m = i - 1
 			n = j
-			change = add(a[i], a[i - 1])
-			if temp > (ed(a, b, i, j - 1, mat) + 1):
+			# change = add(a[i - 1], a[i - 2])
+			if temp > (ed(a, b, i, j - 1, mat, prob) + 1):
 				m = i
 				n = j - 1
-				change = del(b[j], b[j - 1])
-			elif temp > (ed(a, b, i - 1, j - 1, mat) + (1 if (a[i - 1] != b[j - 1]) else 0)):
+				temp = ed(a, b, i, j - 1, mat, prob) + 1
+				# change = del(b[j - 1], b[j - 2])
+			if temp > ((ed(a, b, i - 1, j - 1, mat, prob) + (1 if (a[i - 1] != b[j - 1]) else 0))):
 				m = i - 1
 				n = j - 1
-				change = (subs(a[i], b[j]) if (a[i - 1] != b[j - 1]) else 1)
-			elif temp > (ed(a, b, i - 2, j - 2, mat) + 1):
+				temp = (ed(a, b, i - 1, j - 1, mat, prob) + (1 if (a[i - 1] != b[j - 1]) else 0))
+				# change = (subs(a[i - 1], b[j - 1]) if (a[i - 1] != b[j - 1]) else 1)
+			if temp > (ed(a, b, i - 2, j - 2, mat, prob) + 1):
 				m = i - 2
 				n = j - 2
-				change = revr(a[i], a[i - 1])
+				print "HI"
+				temp = (ed(a, b, i - 2, j - 2, mat, prob) + 1)
+				# change = revr(a[i - 1], a[i - 2])
 			mat[i][j] = temp
-			prob[i][j] = prob[m][n] * change
+			# prob[i][j] = prob[m][n] * change
 		else:
-			temp = ed(a, b, i - 1, j, mat) + 1
+			temp = ed(a, b, i - 1, j, mat, prob) + 1
 			m = i - 1
 			n = j
-			change = add(a[i])
-			if temp > (ed(a, b, i, j - 1, mat) + 1):
+			# change = add(a[i - 1], a[i - 2])
+			if temp > (ed(a, b, i, j - 1, mat, prob) + 1):
 				m = i
 				n = j - 1
-				change = del(b[j])
-			elif temp > (ed(a, b, i - 1, j - 1, mat) + (1 if (a[i - 1] != b[j - 1]) else 0)):
+				temp = (ed(a, b, i, j - 1, mat, prob) + 1)
+				# change = del(b[j - 1], b[j - 2])
+			if temp > ((ed(a, b, i - 1, j - 1, mat, prob) + (1 if (a[i - 1] != b[j - 1]) else 0))):
 				m = i - 1
 				n = j - 1
-				change = (subs(a[i], b[j]) if (a[i - 1] != b[j - 1]) else 1)
+				temp = (ed(a, b, i - 1, j - 1, mat, prob) + (1 if (a[i - 1] != b[j - 1]) else 0))
+				# change = (subs(a[i - 1], b[j - 1]) if (a[i - 1] != b[j - 1]) else 1)
 			mat[i][j] = temp
-			prob[i][j] = prob[m][n] * change
+			# prob[i][j] = prob[m][n] * change
 	return mat[i][j]
 
 def editDistance(a, b):
@@ -55,14 +61,14 @@ def editDistance(a, b):
 	for i in range(0, len(a) + 1):
 		if i == 0:
 			prob[i][0] = 1
-		else:
-			prob[i][0] = prob[i - 1][0] * add(a[i])
+		# else:
+			# prob[i][0] = prob[i - 1][0] * add(a[i])
 
 	for j in range(0, len(b) + 1):
 		if j == 0:
 			prob[0][j] = 1
-		else:
-			prob[0][j] = prob[0][j - 1] * del(b[j])
+		# else:
+			# prob[0][j] = prob[0][j - 1] * del(b[j])
 
 	return ed(a, b, len(a), len(b), mat, prob)
 
