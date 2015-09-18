@@ -10,8 +10,6 @@ revXY = {}
 norms1 = {}
 norms2 = {}
 
-
-
 def filterByEditDistance(typo, cands, dis):
 	newcands = set()
 	total = 0
@@ -31,8 +29,8 @@ def add(a, b):
 	if str in addXY:
 		count = (addXY[str] + 1) * 1.0
 	else:
-		count = 1.0
-	return (count / norms1[a])
+		count = 1.0	
+	return (count / (norms1[a] + 26))
 
 def dele(a, b):
 	global delXY
@@ -41,7 +39,12 @@ def dele(a, b):
 		count = (delXY[str] + 1) * 1.0
 	else:
 		count = 1.0
-	return (count / norms2[str])
+	value = 0
+	if len(str) == 1:
+		value = 26
+	else:
+		value = 676
+	return (count / (norms2[str] + value) )
 
 def subs(a, b):
 	global subXY
@@ -51,7 +54,7 @@ def subs(a, b):
 		count = (subXY[str] + 1) * 1.0
 	else:
 		count = 1.0
-	return (count / norms1[b])
+	return (count / (norms1[b] + 26))
 
 def revr(a, b):
 	global addXY
@@ -60,7 +63,12 @@ def revr(a, b):
 		count = (revXY[str] + 1) * 1.0
 	else:
 		count = 1.0
-	return (count / norms2[a + b])
+	value = 0
+	if len(str) == 1:
+		value = 26
+	else:
+		value = 676
+	return (count / (norms2[a + b] + value))
 
 def ed(a, b, i, j, mat, prob):
 	if mat[i][j] == -1:

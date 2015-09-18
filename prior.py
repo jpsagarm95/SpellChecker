@@ -24,11 +24,20 @@ numOfWords = len(splitdata) - 1
 for i in range(0, numOfWords):
 	temp = splitdata[i].split('\t')
 	count = int(temp[1])
-	counts[temp[0]] = count
+	counts[temp[0].upper()] = int(count)
+	# print temp
+	# print count
 	total += count
+
+# for i in prior:
+# 	if i in counts:
+# 		print "HI"
+
 print "Prior len " + str(len(prior))
 for i in prior:
+	# print i
 	prior[i] = (counts[i] + 0.5) / (total + 0.5 * len(prior))
+	# print counts[i]
 
 string = "data/prior.txt"
 with open(string, 'wb') as f:
