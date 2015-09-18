@@ -123,7 +123,7 @@ def editDistance(a, b):
 		if i == 0:
 			prob[i][0] = 1
 		elif i == 1:
-			prob[i][0] = prob[i - 1][0]# * add("", a[i - 1])
+			prob[i][0] = prob[i - 1][0] / (norms1[a[i - 1]] * 1.0)
 		else:
 			prob[i][0] = prob[i - 1][0] * add(a[i - 2], a[i - 1])
 
@@ -132,7 +132,7 @@ def editDistance(a, b):
 		if j == 0:
 			prob[0][j] = 1
 		elif j == 1:
-			prob[0][j] = prob[0][j - 1]# * dele("", b[j - 1])
+			prob[0][j] = prob[0][j - 1] / (norms1[b[j - 1]] * 1.0)
 		else:
 			prob[0][j] = prob[0][j - 1] * dele(b[j - 2], b[j - 1])
 

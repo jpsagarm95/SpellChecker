@@ -19,7 +19,7 @@ def ngrams(word, nvalue, dic):
 def main():
 	print "Give the value of n:"
 	n = int(raw_input())
-	fp = open("data/count_1w100k.txt", 'r')
+	fp = open("data/all-words-cleaned.txt", 'r')
 	data = fp.read()
 	fp.close()
 	dic = {}

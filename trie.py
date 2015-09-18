@@ -30,7 +30,7 @@ class TrieNode:
 
 # read dictionary file into a trie
 trie = TrieNode()
-fp = open("data/count_1w100k.txt", 'r')
+fp = open("data/all-words-cleaned.txt", 'r')
 data = fp.read()
 fp.close()
 dic = {}
@@ -39,7 +39,7 @@ numOfWords = len(splitdata) - 1
 words = []
 
 for i in range(0, numOfWords):
-    temp = splitdata[i].split('\t')
+    temp = splitdata[i].upper().split('\t')
     words.append(temp[0])
 for word in words:
     WordCount += 1
