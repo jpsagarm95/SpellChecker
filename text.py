@@ -18,7 +18,7 @@ while True:
 		dis, pro = nc.editDistance(input, i[0])
 		if dis < 4:
 			edit[i[0]] = dis
-			prob[i[0]] = pro * prior[i[0]]
+			prob[(i[0], pro, prior[i[0]])] = pro * prior[i[0]]
 
 	print "Got the probs"
 	sorted_x = sorted(prob.items(), key=operator.itemgetter(1), reverse = True)
