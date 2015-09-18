@@ -15,6 +15,7 @@ print "Read Data"
 for i in range(0, datalen):
 	words = splitdata[i].split('\t')
 	str = words[0]
+	str = str.upper()
 	count = int(words[1])
 	norms2[str] = count
 	if str[0] in norms1:
