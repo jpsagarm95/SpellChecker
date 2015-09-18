@@ -2,16 +2,18 @@ import noisychannel as nc
 import operator
 import trie
 import pickle
+import time
 
 string = 'data/prior.txt'
 with open(string, 'rb') as f:
 	prior = pickle.load(f)
 while True:
-	print "Please give the word:"
+	# print "Please give the word:"
 	input = raw_input()
 	input = input.upper()
+	start = time.time()
 	cands = trie.search(input, 4)
-	print "Got results from trie" + str(len(cands))
+	# print "Got results from trie" + str(len(cands))
 	edit = {}
 	prob = {}
 	for i in cands:
@@ -20,10 +22,18 @@ while True:
 			edit[i[0]] = dis
 			prob[(i[0], pro, prior[i[0]])] = pro * prior[i[0]]
 
-	print "Got the probs"
+	# print "Got the probs"
 	sorted_x = sorted(prob.items(), key=operator.itemgetter(1), reverse = True)
+	end = time.time()
+	print input + '\t',
+	normalization = 0
 	for i in range(min(10, len(sorted_x))):
-		print sorted_x[i]
+		normalization += sorted_x[i][1]
+
+	for i in range(min(10, len(sorted_x))):
+		print sorted_x[i][0][0] + '\t' + str(sorted_x[i][1]/ normalization) + '\t',
+	print 
+	# print "TIME TAKEN: " + str(end - start)
 	# whole_list = {}
 	# value = sorted_x[0][1]
 	# for i in range(len(sorted_x)):

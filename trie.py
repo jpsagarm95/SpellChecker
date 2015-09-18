@@ -45,7 +45,7 @@ for word in words:
     WordCount += 1
     trie.insert( word )
 
-print "Read %d words into %d nodes" % (WordCount, NodeCount)
+# print "Read %d words into %d nodes" % (WordCount, NodeCount)
 
 # The search function returns a list of all words that are less than the given
 # maximum distance from the target word
