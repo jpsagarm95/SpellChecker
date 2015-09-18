@@ -9,6 +9,7 @@ dict_rev = {}
 #Typo|Correction
 with open('count_1edit.txt') as openfileobj:
     for line in openfileobj:
+        line = line.upper()
         a = line.replace('\n','')
         a = re.split('\t|\|', a)
         if a[0] == ' ' or a[1] == ' ':
@@ -17,8 +18,7 @@ with open('count_1edit.txt') as openfileobj:
             
         len1 = len(a[0])
         len2 = len(a[1])
-        count = a[2]
-        
+        count = int(a[2])
         if len1 == 0:
             dict_del[a[1]] = count
         elif len2 == 0:
