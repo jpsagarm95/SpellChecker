@@ -1,5 +1,5 @@
 import pickle
-fp = open("data/count_1w100k.txt", 'r')
+fp = open("data/all-words-cleaned.txt", 'r')
 data = fp.read()
 fp.close()
 dic = {}
@@ -10,10 +10,12 @@ counts = {}
 total = 0
 words = []
 for i in range(0, numOfWords):
-	temp = splitdata[i].split('\t')
-	words.append(temp[0])
-	prior[temp[0]] = 0
-	counts[temp[0]] = 0
+	temp = splitdata[i].upper()
+	words.append(temp)
+	prior[temp] = 0
+	counts[temp] = 0
+
+print len(prior)
 
 fp = open("data/count_1w.txt", 'r')
 data = fp.read()
@@ -22,7 +24,7 @@ splitdata = data.split('\n')
 numOfWords = len(splitdata) - 1
 
 for i in range(0, numOfWords):
-	temp = splitdata[i].split('\t')
+	temp = splitdata[i].upper().split('\t')
 	count = int(temp[1])
 	counts[temp[0].upper()] = int(count)
 	# print temp

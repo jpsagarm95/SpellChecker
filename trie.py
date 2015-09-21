@@ -30,7 +30,7 @@ class TrieNode:
 
 # read dictionary file into a trie
 trie = TrieNode()
-fp = open("data/count_1w100k.txt", 'r')
+fp = open("data/all-words-cleaned.txt", 'r')
 data = fp.read()
 fp.close()
 dic = {}
@@ -39,13 +39,13 @@ numOfWords = len(splitdata) - 1
 words = []
 
 for i in range(0, numOfWords):
-    temp = splitdata[i].split('\t')
+    temp = splitdata[i].upper().split('\t')
     words.append(temp[0])
 for word in words:
     WordCount += 1
     trie.insert( word )
 
-print "Read %d words into %d nodes" % (WordCount, NodeCount)
+# print "Read %d words into %d nodes" % (WordCount, NodeCount)
 
 # The search function returns a list of all words that are less than the given
 # maximum distance from the target word
