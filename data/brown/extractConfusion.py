@@ -82,7 +82,7 @@ for cSet in confusionSet:
 
 
         #print("Arrived at: " + ctxWord)
-        if (counts[ctxWord] < 5) or (counts[ctxWord] > (sum_set - 5)):
+        if (counts[ctxWord] < 10) or (counts[ctxWord] > (sum_set - 10)):
             for cWord in confusionSet[cSet]:
                 contextWords[cWord].pop(ctxWord, None)
             #print(counts[ctxWord])
@@ -101,7 +101,7 @@ for cSet in confusionSet:
                     entropy += 0
             #print("Entropy of %s: %f"%(ctxWord, entropy))
             
-            if entropy > 0.7:
+            if entropy > 0.9:
                 for cWord in confusionSet[cSet]:
                     contextWords[cWord].pop(ctxWord,None)
             
