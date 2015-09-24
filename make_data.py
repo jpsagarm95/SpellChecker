@@ -35,9 +35,14 @@ for terms in sent_list:
     
     
 for conf in confusion_sets:
+        
+    file_name = 'data/brown_test/' + conf[0]+'_80'+'.occs'
+    file_name1 = 'data/brown_test/' + conf[0]+'_20'+'.occs'
+
+    f = open(file_name,'w')
+    f1 = open(file_name1,'w')
+
     for cword in conf:
-        file_name = cword+'_train'+'.txt'
-    	f = open(file_name,'w')
     	list_len = len(sent_list[cword])
     	train_size = int(math.ceil(0.8*list_len))
     	  	
@@ -45,18 +50,11 @@ for conf in confusion_sets:
     	    f.write(sent_list[cword][c])
     	    f.write('\n')
     	
-    	f.close()    
-    	
-    	file_name = cword+'_test'+'.txt'
-    	f = open(file_name,'w')
-    	    	
     	for c in range(train_size,list_len,1):
-    	    f.write(sent_list[cword][c])
-    	    f.write('\n')
+    	    f1.write(sent_list[cword][c])
+    	    f1.write('\n')
     	
-    	f.close()    
-    	    
-
-    	    
+    f.close()    
+    f1.close()	    
                 
 
