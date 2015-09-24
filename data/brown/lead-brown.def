@@ -1,0 +1,833 @@
+-1p=Prep 0.956522 21 0
+-1p=Md 0.947368 17 0
+-1w=to 0.941176 15 0
+-1p=Det 0.933333 13 0
+-2p=Ns -1p=Md 0.928571 12 0
+1p=Np 0.916667 10 0
+-1p=Md 1p=Prep 0.916667 10 0
+-1w=the 0.916667 10 0
+-1p=Prep 1p=Adv 0.909091 9 0
+-2p=Ns -1p=Prep 0.909091 9 0
+-1p=Has 0.909091 0 9
+-1p=Prep 1p=Prep 0.909091 9 0
+-1p=Md 1p=Adv 0.909091 9 0
+-1p=Conj 1p=Pro 0.909091 0 9
+1p=Np 2p=Adv 0.9 8 0
+-1p=Md 1w=to 0.9 8 0
+-1w=and 1p=Pro 0.9 0 8
+-1p=Prep 1p=Pro 0.9 8 0
+-1p=Vpp 0.9 0 8
+-1p=Prep 1p=Ns 0.9 8 0
+-2p=Pro -1p=Md 0.888889 7 0
+-1p=Adj 1p=Adj 0.888889 0 7
+-2p=Ns -1w=to 0.888889 7 0
+-1p=Det 1p=Ns 0.888889 7 0
+-1p=Vpp 1p=Adv 0.888889 0 7
+1p=Np 2p=Adj 0.875 6 0
+will 0.875 6 0
+-1w=to 1p=Adv 0.875 6 0
+-2p=Prep -1p=Adv 0.875 6 0
+1w=by 0.875 0 6
+-2p=V -1p=Md 0.875 6 0
+-1p=Md 1p=Pro 0.875 6 0
+-1w=to 1p=Pro 0.875 6 0
+back 0.875 0 6
+-2p=Ns -1p=Has 0.875 0 6
+-1p=Ns 1p=Np 0.875 6 0
+1p=Adj 2w=to 0.875 0 6
+-1w=to 1p=Prep 0.875 6 0
+-1p=Has 1p=Adv 0.875 0 6
+-1w=which 0.875 0 6
+-1w=the 1p=Ns 0.857143 5 0
+1w=, 2p=Ns 0.857143 5 0
+-1w=has 0.857143 0 5
+-2p=Ns -1p=Det 0.857143 5 0
+-1p=Vpp 1p=Prep 0.857143 0 5
+1p=Punc 2p=Ns 0.857143 5 0
+-2p=V -1p=Prep 0.857143 5 0
+-1w=which 1p=Adv 0.857143 0 5
+-1w=had 0.857143 0 5
+1w=him 2w=to 0.857143 0 5
+1p=Np 2p=Prep 0.857143 5 0
+-2p=Adv -1p=Prep 0.857143 5 0
+1p=Conj 0.857143 5 0
+-1p=Det 1p=Prep 0.857143 5 0
+-2p=Ns -1w=the 0.857143 5 0
+-1p=Ns 1p=Det 0.857143 0 5
+-1p=Conj 1p=Adj 0.857143 0 5
+1w=them 2p=Adv 0.857143 0 5
+more 0.857143 0 5
+-2p=Adv -1w=to 0.857143 5 0
+-2p=Prep -1p=Det 0.857143 5 0
+-1p=Had 0.857143 0 5
+1w=the 0.846154 1 10
+-1p=Has 1w=to 0.833333 0 4
+-1w=to 1w=to 0.833333 4 0
+-2p=Adj -1w=to 0.833333 4 0
+-1p=Had 1p=Adv 0.833333 0 4
+1p=V 2w=to 0.833333 0 4
+lead 0.833333 4 0
+-1p=Prep 1w=to 0.833333 4 0
+1p=Ns 2p=Det 0.833333 0 4
+-1w=that 1p=Adj 0.833333 0 4
+1w=by 2p=Ns 0.833333 0 4
+-1p=Ns 1w=the 0.833333 0 4
+-2p=Md -1p=Adv 0.833333 4 0
+-1p=V 1p=Ns 0.833333 0 4
+-1p=Det 1p=V 0.833333 4 0
+-2p=Adv -1w=the 0.833333 4 0
+-2p=V -1p=Adv 0.833333 9 1
+might 0.833333 4 0
+-2p=Adj -1p=Prep 0.833333 4 0
+-2p=Adv -1p=Det 0.833333 4 0
+-1w=the 1p=Punc 0.833333 4 0
+-1p=Ns 1w=them 0.833333 0 4
+-1w=which 1p=Prep 0.833333 0 4
+1w=the 2p=Ns 0.833333 1 9
+-2p=Ns -1p=Punc 0.833333 0 4
+1p=Adj 2p=Adv 0.833333 2 14
+-2p=Ns -1w=, 0.833333 0 4
+-1p=Vpp 1w=to 0.833333 0 4
+-2p=Ns -1w=has 0.833333 0 4
+-1p=Det 1p=Adv 0.833333 4 0
+-1w=had 1p=Adv 0.833333 0 4
+-2p=Adj -1p=Md 0.833333 4 0
+-1w=have 0.833333 0 4
+-2p=V -1p=Punc 0.833333 0 4
+-1p=Pro 1p=V 0.833333 0 4
+1p=Conj 2p=Adv 0.833333 4 0
+been 0.833333 0 4
+-2p=Prep -1p=Adj 0.833333 4 0
+-1p=Pro 1p=Ns 0.833333 0 4
+-1w=and 1w=them 0.833333 0 4
+1w=us 0.833333 4 0
+how 0.833333 4 0
+-2p=Prep -1w=the 0.833333 4 0
+-1p=Conj 1w=them 0.833333 0 4
+-1p=Has 1p=Prep 0.833333 0 4
+1w=the 2p=V 0.833333 0 4
+-1p=Det 1p=Punc 0.833333 4 0
+-1p=Adj 1p=V 0.833333 0 4
+-2p=V -1w=to 0.833333 4 0
+-1p=Det 1p=Adj 0.833333 4 0
+-2p=V -1w=, 0.833333 0 4
+1p=V 2p=Adv 0.818182 1 8
+does 0.8 3 0
+-1p=Vpp 1p=Det 0.8 0 3
+off 0.8 0 3
+children 0.8 3 0
+-1p=Adj 1p=Np 0.8 3 0
+-1p=Punc 1p=Adv 0.8 0 3
+-2p=Adj -1w=the 0.8 3 0
+can 0.8 3 0
+-1w=will 1p=Adv 0.8 3 0
+-1w=has 1p=Adv 0.8 0 3
+-1w=been 1w=to 0.8 0 3
+-1p=Md 1p=Ns 0.8 3 0
+-1w=that 1p=Ns 0.8 0 3
+first 0.8 0 3
+-2w=in -1w=the 0.8 3 0
+-1p=Prep 1p=V 0.8 3 0
+1p=Ns 2w=the 0.8 0 3
+assured 0.8 3 0
+-1w=the 1p=Prep 0.8 3 0
+1p=Adv 2p=Ving 0.8 3 0
+-1w=of 0.8 3 0
+-1w=the 1p=V 0.8 3 0
+-1p=Adv 1w=by 0.8 0 3
+-2p=Punc -1p=Conj 0.8 0 3
+-2p=V -1p=Det 0.8 3 0
+-2w=in -1p=Adv 0.8 3 0
+ago 0.8 0 3
+-1p=Ns 1w=us 0.8 3 0
+-2p=Adv -1p=V 0.8 0 3
+-1w=have 1p=Adv 0.8 0 3
+-1p=Prep 1p=Np 0.8 3 0
+-1w=which 1w=to 0.8 0 3
+then 0.8 0 3
+hill 0.8 0 3
+1w=of 2w=the 0.8 3 0
+-1w=might 1p=Prep 0.8 3 0
+-1p=Md 1p=Np 0.8 3 0
+-1w=the 1p=Adj 0.8 3 0
+-1w=been 1p=Adv 0.8 0 3
+-1p=Conj 1w=him 0.8 0 3
+must 0.8 3 0
+1w=of 2p=Adv 0.8 3 0
+-1w=not 1p=Prep 0.8 3 0
+-1w=and 1w=him 0.8 0 3
+-1w=that 1p=V 0.8 0 3
+possible 0.8 3 0
+-1w=had 1p=Det 0.8 0 3
+1w=us 2p=Adv 0.8 3 0
+1w=them 2p=Adj 0.8 0 3
+desire 0.8 0 3
+-2p=V -1w=the 0.8 3 0
+1w=of 2p=Det 0.8 3 0
+-1w=not 1p=Adv 0.8 3 0
+-1w=to 1p=Ns 0.8 3 0
+-2p=Ns -1w=can 0.8 3 0
+1w=of 0.8 3 0
+-1w=might 1w=to 0.8 3 0
+-1w=been 0.8 0 3
+1w=us 2p=Prep 0.8 3 0
+-2w=in -1p=Det 0.8 3 0
+-1w=, 1p=Adv 0.8 0 3
+-1p=Conj 1p=Ns 0.8 0 3
+-1p=Ns 1p=Conj 0.8 3 0
+-2p=End -1p=Ns 0.8 0 3
+-1w=might 0.8 3 0
+-2p=Ns -1p=Vpp 0.8 0 3
+-1w=a 0.8 3 0
+-1w=will 0.8 3 0
+-1p=Conj 1p=V 0.8 0 3
+-1w=not 0.8 3 0
+-1w=of 1p=Ns 0.8 3 0
+-2p=Ns -1w=which 0.8 0 3
+-1w=might 1p=Adv 0.8 3 0
+-2p=Adj -1p=Det 0.8 3 0
+-2p=Adv -1p=Pro 0.8 0 3
+-1w=can 0.8 3 0
+1p=Punc 2p=Pro 0.8 3 0
+peace 0.8 3 0
+-1w=not 1w=to 0.8 3 0
+1w=, 2p=Pro 0.8 3 0
+-1p=Had 1p=Det 0.8 0 3
+-1p=Md 1w=us 0.8 3 0
+1p=Prep 2p=Vpp 0.8 3 0
+-1w=been 1p=Prep 0.8 0 3
+were 0.8 0 3
+1p=Np 2p=Ns 0.8 3 0
+1p=Adj 2p=Ns 0.8 1 7
+market 0.8 3 0
+-1p=Adj 1p=Adv 0.791667 4 18
+1p=Prep 2p=Pro 0.785714 2 10
+also 0.777778 6 1
+not 0.777778 6 1
+-1p=Adj 1p=Ns 0.777778 1 6
+1p=Ns 2p=V 0.777778 6 1
+-1p=Adv 1p=Punc 0.777778 6 1
+-2p=Ns -1w=that 0.777778 1 6
+1p=Det 2p=Ns 0.769231 2 9
+1p=Adj 2p=Prep 0.769231 2 9
+-2p=Adv -1p=Adv 0.769231 9 2
+1w=to 2w=the 0.764706 3 12
+1p=Adv 2w=the 0.761905 4 15
+long 0.75 2 0
+1p=Pro 2p=Punc 0.75 2 0
+-2w=acts -1p=Adv 0.75 2 0
+-2w=acts -1p=Adj 0.75 2 0
+-2p=Ns -1w=might 0.75 2 0
+-2w=and -1p=Ns 0.75 0 2
+1p=Adv 2w=such 0.75 0 2
+-2w=will -1p=Adv 0.75 2 0
+sometimes 0.75 0 2
+1w=as 0.75 2 0
+-2p=Is -1p=Adv 0.75 0 2
+since 0.75 0 2
+-1p=Det 1w=. 0.75 2 0
+-1w=of 1p=V 0.75 2 0
+-2w=will -1w=not 0.75 2 0
+1w=them 2w=to 0.75 0 2
+-2p=Adj -1w=, 0.75 0 2
+-1w=had 1p=Ns 0.75 0 2
+-2p=Pro -1p=Prep 0.75 2 0
+-2p=Md -1w=not 0.75 2 0
+states 0.75 2 0
+-1w=be 0.75 0 2
+-1p=Adv 1w=them 0.75 2 0
+-2p=Punc -1w=had 0.75 0 2
+-1p=Punc 0.75 1 5
+serve 0.75 2 0
+-1w=be 1p=Adv 0.75 0 2
+-2p=Punc -1p=Adv 0.75 0 2
+1w=them 2p=Ns 0.75 0 2
+-1w=can 1p=Pro 0.75 2 0
+-2w=was -1p=Adv 0.75 2 0
+-1w=the 1w=, 0.75 2 0
+-2w=as -1p=Pro 0.75 0 2
+-2p=Adj -1w=might 0.75 2 0
+-1p=Pro 1w=up 0.75 0 2
+-1p=Adv 1w=in 0.75 2 0
+sense 0.75 2 0
+-1w=to 1w=them 0.75 2 0
+-1p=Np 1p=Ns 0.75 0 2
+role 0.75 0 2
+-2p=End -1p=Adv 0.75 0 2
+-2w=which -1p=Md 0.75 2 0
+-1p=V 1w=by 0.75 0 2
+-2w=one -1p=Ns 0.75 0 2
+-1w=will 1w=to 0.75 2 0
+road 0.75 0 2
+-1p=Ns 1w=by 0.75 0 2
+river 0.75 2 0
+-2w=road -1p=Adj 0.75 0 2
+1p=Prep 2w=such 0.75 0 2
+research 0.75 0 2
+sure 0.75 2 0
+-2p=Pro -1p=Vpp 0.75 0 2
+-2p=Md -1p=V 0.75 0 2
+-2p=Pro -1p=Vs 0.75 0 2
+1p=Np 2p=V 0.75 2 0
+-2w=which -1p=Ns 0.75 2 0
+-1w=a 1p=Ns 0.75 2 0
+-2p=Vpp -1p=Pro 0.75 2 0
+-1w=, 0.75 1 5
+-2w=a -1p=Adj 0.75 2 0
+1p=Ns 2w=out 0.75 2 0
+1w=as 2p=Adv 0.75 2 0
+1w=down 2p=Prep 0.75 0 2
+taken 0.75 2 0
+relatively 0.75 2 0
+-2w=acts -1p=Pro 0.75 2 0
+-1p=Conj 1w=her 0.75 0 2
+price 0.75 2 0
+-1p=Prep 1w=them 0.75 2 0
+-2p=Vpp -1w=the 0.75 2 0
+1p=Conj 2w=to 0.75 2 0
+-1p=Was 0.75 0 2
+1w=back 0.75 0 2
+-1w=has 1w=to 0.75 0 2
+-2p=Ns -1w=of 0.75 2 0
+1w=them 2w=into 0.75 2 0
+-2w=acts -1p=Conj 0.75 2 0
+1w=by 2p=Adj 0.75 0 2
+policy 0.75 0 2
+this 0.75 2 8
+-1w=a 1p=Adv 0.75 2 0
+policies 0.75 2 0
+1w=us 2p=Adj 0.75 2 0
+-1p=Had 1p=Prep 0.75 0 2
+1w=back 2p=Adv 0.75 0 2
+-1p=V 1p=Det 0.75 0 2
+-2p=Np -1p=Prep 0.75 2 0
+pitchers 0.75 0 2
+those 0.75 2 0
+-1p=V 1p=Np 0.75 2 0
+-1p=Had 1w=the 0.75 0 2
+pipe 0.75 2 0
+physical 0.75 2 0
+-2w=acts -1w=that 0.75 2 0
+people 0.75 0 2
+1w=it 0.75 2 0
+1w=down 2w=to 0.75 0 2
+three 0.75 0 2
+1p=Ns 2p=Pro 0.75 0 2
+or 0.75 5 1
+-2p=Vpt -1p=Det 0.75 2 0
+-1w=the 1w=in 0.75 2 0
+-2p=Ns -1w=not 0.75 2 0
+-2p=V -1w=might 0.75 2 0
+only 0.75 2 0
+-1w=had 1w=the 0.75 0 2
+-2p=Ns -1w=been 0.75 0 2
+-2p=Md -1w=have 0.75 0 2
+-1p=Adv 1p=Np 0.75 2 0
+-1w=had 1p=Prep 0.75 0 2
+-1p=Has 1p=Det 0.75 0 2
+-1w=have 1p=Prep 0.75 0 2
+1w=him 2p=Prep 0.75 2 8
+turned 0.75 0 2
+-1p=Prep 1w=pipe 0.75 2 0
+-2w=road -1p=Pro 0.75 0 2
+-2p=Pro -1p=Had 0.75 0 2
+-1p=Det 1w=, 0.75 2 0
+-1w=of 1w=pipe 0.75 2 0
+us 0.75 5 1
+-2p=Pro -1w=may 0.75 2 0
+1w=down 2p=Adv 0.75 0 2
+-1p=Had 1p=Ns 0.75 0 2
+-1p=Has 1w=the 0.75 0 2
+-2w=let -1p=Pro 0.75 2 0
+-1w=may 0.75 2 0
+1w=by 2p=Adv 0.75 0 2
+-1w=the 1p=Adv 0.75 2 0
+1w=to 2p=Vpp 0.75 2 0
+-2p=Pro -1w=had 0.75 0 2
+-1p=Prep 1w=as 0.75 2 0
+down 0.75 1 5
+every 0.75 2 0
+1w=up 0.75 0 2
+community 0.75 2 0
+1p=Conj 2p=V 0.75 2 0
+-1p=Prep 1p=Conj 0.75 2 0
+-2p=Punc -1p=Pro 0.75 0 2
+old 0.75 0 2
+expression 0.75 2 0
+child 0.75 2 0
+-2p=Vpp -1p=Det 0.75 2 0
+words 0.75 2 0
+face 0.75 0 2
+century 0.75 0 2
+california 0.75 0 2
+bright 0.75 0 2
+nothing 0.75 2 0
+before 0.75 2 0
+1p=Det 2w=world 0.75 0 2
+-2p=Prep -1p=Prep 0.75 2 0
+-1w=and 0.75 2 8
+-1w=the 1w=. 0.75 2 0
+factor 0.75 0 2
+1p=Adv 2w=world 0.75 0 2
+flight 0.75 0 2
+following 0.75 2 0
+another 0.75 0 2
+1p=Ns 2w=to 0.75 1 5
+-1w=a 1p=Prep 0.75 2 0
+ground 0.75 2 0
+-1p=Pro 1p=Adj 0.75 1 5
+-2w=that -1p=Adv 0.75 0 2
+along 0.75 2 0
+he'd 0.75 2 0
+1p=Prep 2p=Punc 0.75 2 0
+against 0.75 0 2
+order 0.75 0 2
+after 0.75 0 2
+-1p=Was 1p=Prep 0.75 0 2
+acts 0.75 2 0
+highway 0.75 0 2
+400 0.75 0 2
+1w=her 2w=to 0.75 0 2
+1p=Adv 2p=Vpp 0.75 2 0
+nineteenth 0.75 0 2
+other 0.75 1 5
+-1w=must 0.75 2 0
+-2p=Ns -1w=must 0.75 2 0
+1w=by 2p=Det 0.75 0 2
+never 0.75 2 0
+1p=Adj 2p=Pro 0.75 0 2
+-1w=have 1w=to 0.75 0 2
+1p=Conj 2p=Prep 0.75 2 0
+-1p=Vpp 1p=Ns 0.75 0 2
+-2p=End -1p=Pro 0.75 0 2
+-1w=will 1p=Prep 0.75 2 0
+home 0.75 0 2
+-1p=Adv 1w=it 0.75 2 0
+-2p=Vpt -1p=Pro 0.75 2 0
+house 0.75 0 2
+-2p=Ns -1w=have 0.75 0 2
+-2p=Ns -1p=Was 0.75 0 2
+-2p=Punc -1w=and 0.75 0 2
+-1p=Prep 1w=it 0.75 2 0
+1p=Pro 2w=around 0.75 2 0
+-1w=would 0.75 2 0
+-1p=Has 1p=Ns 0.75 0 2
+1w=down 0.75 0 2
+-2p=Punc -1p=Vpp 0.75 0 2
+-1w=has 1p=Prep 0.75 0 2
+-2p=Adj -1p=Punc 0.75 0 2
+1p=Adv 2p=Pro 0.75 2 8
+you 0.75 2 0
+-2p=Md -1p=Ns 0.75 0 2
+-1p=Adv 1w=. 0.75 2 0
+-1p=Vpp 1w=the 0.75 0 2
+modes 0.75 2 0
+inevitably 0.75 0 2
+-2w=i -1p=Md 0.75 2 0
+-1w=to 1w=it 0.75 2 0
+1p=Conj 2p=Adj 0.75 2 0
+1p=Prep 2p=Vpt 0.75 2 0
+-2p=V -1w=not 0.75 2 0
+-2p=Adj -1p=Vs 0.75 0 2
+-2p=Np -1w=and 0.75 0 2
+paper 0.75 2 0
+-2p=Np -1w=which 0.75 0 2
+-1p=Adj 1w=up 0.75 0 2
+-2p=V -1p=Np 0.75 0 2
+-2p=Ns -1w=would 0.75 2 0
+1w=pipe 0.75 2 0
+1w=the 2w=world 0.75 0 2
+-2p=Adj -1w=may 0.75 2 0
+-2p=V -1w=can 0.75 2 0
+me 0.75 5 1
+-2w=took -1p=Det 0.75 2 0
+1w=him 2p=V 0.75 0 2
+-1w=, 1w=to 0.75 0 2
+-2p=Punc -1p=Had 0.75 0 2
+1w=to 2p=Ving 0.75 2 0
+1p=Np 2w=to 0.75 2 0
+like 0.75 2 0
+-1p=Punc 1w=to 0.75 0 2
+1w=them 2p=V 0.75 0 2
+years 0.75 0 2
+-1p=Adj 1w=him 0.75 0 2
+-2p=End -1p=Adj 0.75 0 2
+1w=to 2p=Punc 0.75 2 0
+-2p=Vpt -1p=Prep 0.75 2 0
+likely 0.75 2 0
+1w=up 2p=Adv 0.75 0 2
+lives 0.75 2 0
+-2w=which -1w=may 0.75 2 0
+-2p=Prep -1p=Pro 0.75 0 2
+-2p=Md -1p=Has 0.75 0 2
+-1p=Det 1w=in 0.75 2 0
+look 0.75 2 0
+1p=Punc 0.733333 10 3
+-1p=Pro 1p=Adv 0.730769 6 18
+has 0.727273 2 7
+1w=to 2p=Pro 0.727273 2 7
+-2p=Adj -1p=Adv 0.727273 7 2
+'' 0.727273 7 2
+-2p=V -1p=Ns 0.727273 7 2
+1p=Det 0.722222 4 12
+-2p=Ns -1p=Adj 0.722222 4 12
+1w=. 2p=End 0.714286 4 1
+-1p=V 1p=Adj 0.714286 1 4
+-2p=Pro -1p=Np 0.714286 1 4
+-1p=Pro 1p=Prep 0.714286 5 14
+-2p=Pro -1p=Pro 0.714286 1 4
+-1p=Adj 1p=Pro 0.714286 1 4
+-2p=Det -1p=Adj 0.714286 4 1
+1w=. 0.714286 4 1
+had 0.714286 3 9
+its 0.714286 1 4
+-1p=Ns 1w=him 0.714286 1 4
+) 0.714286 1 4
+1p=Adj 2p=Det 0.714286 1 4
+-1p=Adj 1p=Punc 0.714286 4 1
+1p=Det 2p=V 0.714286 1 4
+well 0.714286 4 1
+1p=Punc 2p=End 0.714286 4 1
+-1p=Adj 1p=Prep 0.708333 6 16
+-1p=Adj 1w=to 0.705882 4 11
+1p=Adj 0.703704 7 18
+-1p=Conj 0.703704 7 18
+-1p=Ns 1p=Adj 0.7 2 6
+-1p=Adv 1p=Pro 0.7 6 2
+up 0.7 2 6
+our 0.7 6 2
+such 0.7 2 6
+-1p=Pro 0.69697 9 22
+1w=him 2p=Adv 0.692308 3 8
+1w=him 0.692308 3 8
+-1w=that 0.6875 4 10
+1p=Adv 2p=Det 0.685714 10 23
+1p=Adv 2p=Adv 0.682927 12 27
+1w=to 2p=Adv 0.681818 6 14
+-2p=Ns -1p=Adv 0.678571 18 8
+-2p=Np -1p=Pro 0.666667 3 7
+one 0.666667 9 4
+1w=, 0.666667 5 2
+-1p=Pro 1w=to 0.666667 5 11
+1p=Adj 2w=the 0.666667 1 3
+is 0.666667 7 3
+let 0.666667 3 1
+but 0.666667 5 2
+-1p=Punc 1p=Prep 0.666667 1 3
+toward 0.666667 1 3
+-2p=Np -1p=Ns 0.666667 1 3
+-2p=Adv -1p=Ns 0.666667 3 7
+-2p=Vpp -1p=Adv 0.666667 3 1
+make 0.666667 3 1
+1p=Prep 2w=the 0.666667 7 15
+-2p=Conj -1p=Pro 0.666667 1 3
+-2p=Conj -1p=Ns 0.666667 2 5
+-2p=V -1p=V 0.666667 3 1
+-1p=Np 1p=Pro 0.666667 1 3
+-1w=, 1p=Prep 0.666667 1 3
+i 0.666667 5 2
+-2p=V -1p=Pro 0.666667 3 1
+1p=Prep 2p=Ving 0.666667 3 1
+at 0.666667 7 3
+common 0.666667 3 1
+1w=to 2p=Det 0.666667 9 19
+1p=Adv 2w=to 0.666667 3 7
+she 0.666667 3 1
+himself 0.666667 1 3
+followed 0.666667 1 3
+-2p=Punc -1p=Ns 0.666667 1 3
+1p=Adj 2p=Adj 0.666667 2 5
+-1p=Adv 1w=, 0.666667 3 1
+her 0.666667 2 5
+-2p=Ns -1p=Conj 0.666667 4 9
+1p=Pro 2w=into 0.666667 3 1
+any 0.666667 3 1
+some 0.666667 3 1
+-1w=that 1p=Adv 0.666667 4 9
+1p=Pro 2w=to 0.666667 4 9
+1p=Prep 2w=an 0.666667 3 1
+-2p=V -1p=Conj 0.666667 1 3
+-1p=Adj 0.657895 12 24
+1p=Prep 2p=V 0.642857 8 4
+-1w=that 1p=Prep 0.642857 4 8
+-1p=Adv 0.639344 38 21
+-1p=V 1p=Prep 0.636364 3 6
+their 0.636364 3 6
+-2p=Adj -1p=Np 0.636364 3 6
+-2p=Ns -1p=Pro 0.631579 6 11
+-1p=Pro 1p=Pro 0.625 2 4
+1p=Ns 2p=Adj 0.625 9 5
+1w=them 2p=Prep 0.625 2 4
+-2p=Ns -1p=Np 0.625 2 4
+( 0.625 2 4
+1p=Prep 2p=Adj 0.625 8 14
+him 0.625 5 9
+-2p=Adj -1p=Ns 0.625 5 9
+-1p=Np 0.625 5 9
+1p=Pro 2p=V 0.625 2 4
+-2p=Vs -1p=Adv 0.625 4 2
+1p=Ns 2p=Adv 0.619048 7 12
+that 0.617021 17 28
+-1p=Adv 1p=Adj 0.615385 4 7
+-1p=Ns 1p=Ns 0.615385 4 7
+1p=Prep 2p=Det 0.615385 14 23
+1p=Adv 0.611651 39 62
+by 0.611111 6 10
+with 0.611111 10 6
+1p=Prep 2p=Prep 0.611111 6 10
+1p=Prep 2p=Adv 0.609756 15 24
+-1p=V 0.608696 8 13
+-1p=Adj 1w=, 0.6 2 1
+1w=her 2p=Prep 0.6 1 2
+1w=her 2p=Adv 0.6 1 2
+-2p=Np -1p=Adj 0.6 3 5
+-2p=Np -1p=Conj 0.6 3 5
+1w=him 2p=Ns 0.6 1 2
+-2p=Adj -1p=Adj 0.6 1 2
+1p=Prep 2p=Np 0.6 2 1
+1w=in 0.6 2 1
+1p=Adv 2w=an 0.6 2 1
+1p=Adv 2p=Punc 0.6 2 1
+1w=the 2p=Adj 0.6 1 2
+-1p=Pro 1w=him 0.6 1 2
+-1p=Ns 1w=, 0.6 1 2
+-2w=of -1p=Ns 0.6 2 1
+-- 0.6 1 2
+men 0.6 1 2
+-2p=Adj -1p=V 0.6 1 2
+: 0.6 1 2
+-2w=, -1p=Ns 0.6 1 2
+-2w=the -1p=Ns 0.6 2 1
+1p=Adv 2p=Np 0.6 2 1
+about 0.6 2 1
+-1p=Vs 1p=Adv 0.6 1 2
+-1p=Pro 1w=the 0.6 1 2
+again 0.6 1 2
+1p=Punc 2p=Adv 0.6 1 2
+-2p=Vpt -1p=Ns 0.6 2 1
+-2p=Vpt -1p=Adv 0.6 2 1
+-1p=Pro 1p=Det 0.6 1 2
+1w=them 0.6 3 5
+1w=to 2p=Adj 0.6 5 8
+hand 0.6 2 1
+-2p=V -1w=and 0.6 1 2
+1w=her 0.6 1 2
+justice 0.6 1 2
+-1p=Punc 1p=Ns 0.6 1 2
+-1w=, 1p=Ns 0.6 1 2
+around 0.6 2 1
+-1p=Vs 0.6 1 2
+1p=Ns 2p=Punc 0.6 2 1
+-2p=Was -1p=Adv 0.6 2 1
+-2w=that -1p=Ns 0.6 1 2
+1p=V 2p=Prep 0.6 3 5
+1w=to 2w=an 0.6 2 1
+1w=, 2p=Adv 0.6 1 2
+because 0.6 2 1
+1w=to 2p=Np 0.6 2 1
+most 0.6 1 2
+better 0.6 2 1
+black 0.6 2 1
+-2p=Det -1p=Ns 0.6 2 1
+work 0.6 2 1
+when 0.6 2 1
+very 0.6 1 2
+through 0.6 2 1
+there 0.6 1 2
+strength 0.6 2 1
+space 0.6 2 1
+small 0.6 1 2
+if 0.6 2 1
+shall 0.6 2 1
+race 0.6 1 2
+nuclear 0.6 1 2
+little 0.6 2 1
+-2w=the -1p=Adj 0.6 2 1
+development 0.6 1 2
+1p=Adv 2p=Prep 0.6 9 14
+1p=Adv 2p=V 0.588235 6 9
+in 0.588235 20 29
+-1p=Conj 1p=Adv 0.588235 6 9
+may 0.583333 6 4
+`` 0.583333 6 4
+1p=Adv 2p=Adj 0.583333 9 13
+1p=Adv 2w=a 0.583333 4 6
+-1w=that 1w=to 0.583333 4 6
+1p=Prep 2w=a 0.583333 4 6
+an 0.583333 6 4
+all 0.583333 6 4
+-2p=Ns -1p=V 0.583333 4 6
+-1p=Ns 0.583333 24 34
+1p=Adv 2p=Ns 0.581395 17 24
+-1p=Ns 1p=Adv 0.580645 12 17
+the 0.580645 51 71
+of 0.578947 31 43
+man 0.571429 3 2
+from 0.571429 5 7
+1p=V 2p=Adj 0.571429 3 2
+are 0.571429 3 2
+1p=Prep 2w=to 0.571429 2 3
+life 0.571429 3 2
+-2p=Vs -1p=Pro 0.571429 3 2
+-2p=Pro -1p=Adj 0.571429 2 3
+-1p=V 1w=to 0.571429 3 2
+1w=him 2p=Adj 0.571429 2 3
+-2p=Adv -1p=Adj 0.571429 3 2
+-1p=Ns 1p=Pro 0.571429 8 11
+-2p=Vs -1w=that 0.571429 3 2
+who 0.571429 3 2
+-2p=Vs -1p=Adj 0.571429 3 2
+-2p=Ns -1w=and 0.571429 2 3
+his 0.571429 8 11
+-2p=Pro -1p=Adv 0.571429 3 2
+-1p=V 1p=Adv 0.571429 5 7
+-2p=Vs -1p=Conj 0.571429 3 2
+1p=Ns 2p=Ns 0.571429 7 5
+-2p=Conj -1p=Adv 0.571429 2 3
+1p=Det 2p=Adj 0.571429 2 3
+1w=a 0.571429 3 2
+-2p=Pro -1p=V 0.571429 3 2
+1p=Pro 2p=Adv 0.566667 12 16
+1w=to 2p=Ns 0.565217 12 9
+-1p=Adv 1p=Ns 0.5625 8 6
+1p=V 0.5625 6 8
+-1p=Conj 1p=Prep 0.5625 6 8
+-2p=Ns -1p=Ns 0.555556 11 14
+-1p=Adv 1w=to 0.555556 14 11
+world 0.555556 3 4
+for 0.555556 9 7
+we 0.555556 4 3
+-1p=Np 1w=to 0.555556 4 3
+was 0.55 8 10
+1p=Pro 2p=Prep 0.548387 13 16
+1w=to 0.546875 28 34
+-1p=Np 1p=Prep 0.545455 5 4
+1w=to 2p=V 0.545455 5 4
+1w=to 2p=Prep 0.545455 4 5
+1w=to 2w=a 0.545455 4 5
+than 0.545455 4 5
+1p=Pro 2p=Ns 0.545455 4 5
+-2p=Np -1p=Adv 0.545455 5 4
+to 0.544 56 67
+as 0.541667 12 10
+-1p=Adv 1p=Prep 0.540541 19 16
+-1p=Np 1p=Adv 0.538462 5 6
+have 0.538462 5 6
+1p=Prep 0.536842 43 50
+1p=Pro 2p=Adj 0.529412 8 7
+-1p=Ns 1w=to 0.526316 8 9
+1p=Pro 0.526316 19 17
+1p=Ns 0.52381 19 21
+which 0.521739 11 10
+and 0.52 35 38
+-1p=Ns 1p=Prep 0.517241 13 14
+he 0.517241 14 13
+, 0.516854 45 42
+a 0.516667 30 28
+1p=Prep 2p=Ns 0.516129 15 14
+no 0.5 2 2
+normal 0.5 1 1
+1p=Adv 2w=this 0.5 1 1
+-2p=Vpp -1p=Ns 0.5 1 1
+now 0.5 1 1
+-2p=Conj -1w=they 0.5 1 1
+number 0.5 1 1
+looking 0.5 1 1
+-1p=Adv 1p=Adv 0.5 18 18
+-2p=Prep -1p=V 0.5 1 1
+older 0.5 1 1
+on 0.5 5 5
+-2w=these -1p=Np 0.5 1 1
+-1p=Adv 1w=him 0.5 1 1
+1p=Adv 2w=, 0.5 1 1
+organization 0.5 1 1
+1p=V 2p=V 0.5 1 1
+-1p=Vs 1p=Prep 0.5 1 1
+out 0.5 4 4
+own 0.5 1 1
+less 0.5 1 1
+path 0.5 1 1
+patrol 0.5 1 1
+last 0.5 1 1
+nation 0.5 1 1
+1w=into 0.5 1 1
+piece 0.5 1 1
+-1p=V 1p=Pro 0.5 3 3
+1p=Prep 2w=this 0.5 1 1
+point 0.5 1 1
+john 0.5 1 1
+-1p=Adv 1p=V 0.5 3 3
+my 0.5 1 1
+pray 0.5 1 1
+1p=Ns 2p=Prep 0.5 7 7
+it 0.5 5 5
+1p=V 2p=Ns 0.5 2 2
+into 0.5 5 5
+-1w=they 0.5 1 1
+-2w=and -1p=Adv 0.5 1 1
+-2p=Pro -1p=Ns 0.5 7 7
+important 0.5 1 1
+-1w=john 0.5 1 1
+-1p=Conj 1w=to 0.5 6 6
+-2p=Conj -1p=Adj 0.5 2 2
+should 0.5 1 1
+much 0.5 2 2
+single 0.5 1 1
+mr. 0.5 1 1
+-2p=Ns -1w=they 0.5 1 1
+cycle 0.5 1 1
+social 0.5 1 1
+. 0.5 39 39
+; 0.5 1 1
+-2p=Ving -1p=Conj 0.5 1 1
+split 0.5 1 1
+-2p=Np -1w=that 0.5 3 3
+station 0.5 1 1
+-2p=Ving -1p=Ns 0.5 1 1
+-1p=Ns 1p=V 0.5 1 1
+-1p=Ns 1p=Punc 0.5 2 2
+take 0.5 1 1
+heroes 0.5 1 1
+allow 0.5 1 1
+1p=Ns 2p=Ving 0.5 1 1
+new 0.5 1 1
+american 0.5 1 1
+them 0.5 5 5
+themselves 0.5 1 1
+night 0.5 1 1
+-2p=Prep -1p=Ns 0.5 3 3
+these 0.5 2 2
+they 0.5 4 4
+thing 0.5 1 1
+great 0.5 1 1
+1w=a 2p=Adj 0.5 1 1
+1w=to 2w=this 0.5 1 1
+free 0.5 1 1
+time 0.5 2 2
+forces 0.5 1 1
+took 0.5 2 2
+away 0.5 1 1
+-1p=Pro 1w=her 0.5 1 1
+two 0.5 2 2
+under 0.5 2 2
+based 0.5 1 1
+be 0.5 7 7
+-2w=that -1p=Adj 0.5 1 1
+war 0.5 3 3
+finally 0.5 1 1
+charge 0.5 1 1
+church 0.5 1 1
+conclusion 0.5 1 1
+what 0.5 2 2
+control 0.5 1 1
+-1p=Vs 1w=to 0.5 1 1
+while 0.5 1 1
+europe 0.5 1 1
+estimates 0.5 1 1
+efforts 0.5 1 1
+economic 0.5 1 1
+could 0.5 1 1
+course 0.5 2 2
+would 0.5 4 4
+-2p=Ving -1w=and 0.5 1 1
+york 0.5 1 1

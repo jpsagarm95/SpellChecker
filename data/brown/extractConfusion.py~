@@ -1,0 +1,35 @@
+import re
+import commands
+import pickle
+
+lines = {}
+ite = 0
+
+files = commands.getoutput('ls | grep "80.occs"')
+files = files.split('\n')
+
+confusionSet = {}
+
+for f in files:
+	confusionSetTemp = {}
+	with open(f) as fileobj:
+	    for line in fileobj:
+		lines[ite] = line.replace('\n', '')
+		lines[ite] = re.sub('[^0-9a-zA-Z<> ]+\t', '', lines[ite])
+		a = re.search('<< (.+?) >>', lines[ite])
+		if a:
+		    if a.group(1) in confusionSetTemp:
+		        confusionSetTemp[a.group(1)] += 1
+		    else:
+		        confusionSetTemp[a.group(1)] = 1
+		ite += 1
+	b = re.search('(.+)-',f)
+	if b:
+		confusionSet[b.group(1)] = confusionSetTemp
+
+
+print(confusionSet)
+pickle.dump(confusionSet, open("ConfusionSets.dict", "wb"))
+
+
+

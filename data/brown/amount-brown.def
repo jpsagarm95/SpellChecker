@@ -1,0 +1,1618 @@
+-1p=Prep 0.990476 0 103
+-1p=Prep 1p=Prep 0.989011 0 89
+-1w=a 0.988764 0 87
+-1p=Prep 1w=of 0.988506 0 85
+-1w=a 1p=Prep 0.988235 0 83
+-1w=a 1w=of 0.987952 0 81
+-2p=Prep -1w=a 0.973684 0 36
+-2p=Prep -1p=Prep 0.973684 0 36
+-2p=Ns -1p=Prep 0.962963 0 25
+-2p=Adj -1p=Prep 0.962963 0 25
+1w=of 2p=Vs 0.960784 1 48
+1p=Prep 2p=Vs 0.960784 1 48
+-2p=Ns -1w=a 0.956522 0 21
+-2p=Adv -1p=Prep 0.954545 0 20
+who 0.952381 0 19
+-2p=Adv -1w=a 0.952381 0 19
+-2p=Adj -1w=a 0.95 0 18
+-2p=Conj -1p=Prep 0.941176 0 15
+-2p=Conj -1w=a 0.9375 0 14
+1w=of 2p=Np 0.930818 10 147
+1p=Prep 2p=Np 0.930818 10 147
+-2p=Prep -1p=Ns 0.924242 4 60
+-2w=, -1p=Prep 0.923077 0 11
+-2p=Punc -1p=Prep 0.923077 0 11
+-1p=Adv 1p=Punc 0.923077 0 11
+their 0.923077 0 11
+-2w=, -1p=Ns 0.923077 0 11
+-2p=Punc -1p=Ns 0.923077 0 11
+-2p=Punc -1w=a 0.916667 0 10
+1p=Punc 2p=Ns 0.916667 0 10
+1p=Prep 2p=Vpp 0.916667 0 10
+1w=of 2w=people 0.916667 0 10
+1w=of 2p=Vpp 0.916667 0 10
+1w=of 2p=Vpt 0.916667 0 10
+1p=Prep 2p=Vpt 0.916667 0 10
+1p=Prep 2w=people 0.916667 0 10
+-2p=End -1w=a 0.916667 0 10
+-2p=End -1p=Prep 0.916667 0 10
+-2w=, -1w=a 0.916667 0 10
+-2p=Adj -1p=Ns 0.914286 2 31
+-2w=of -1p=Ns 0.909091 0 9
+-2w=for -1w=a 0.909091 0 9
+-2w=for -1p=Prep 0.909091 0 9
+-2p=Pro -1p=Prep 0.909091 0 9
+-2w=of -1p=Prep 0.909091 0 9
+1p=Prep 2w=years 0.909091 0 9
+stations 0.909091 0 9
+-2w=for -1p=Det 0.909091 0 9
+-2w=for -1p=Ns 0.909091 0 9
+1w=of 2w=years 0.909091 0 9
+-2w=of -1w=a 0.909091 0 9
+our 0.909091 0 9
+-2p=Vpp -1p=Prep 0.909091 0 9
+-2p=Ns -1p=Ns 0.907407 4 48
+-2p=Vpp -1p=Ns 0.9 0 8
+-2p=Np -1p=Prep 0.9 0 8
+men 0.9 0 8
+-1w=in 0.9 0 8
+1w=, 2p=Ns 0.9 0 8
+thus 0.9 0 8
+-2p=Vpt -1p=Prep 0.9 0 8
+license 0.9 0 8
+-2p=Conj -1p=Ns 0.894737 1 16
+one 0.894737 1 16
+we 0.894737 1 16
+-2p=Is -1p=Prep 0.888889 0 7
+1p=Np 0.888889 0 7
+-1p=Adv 1w=, 0.888889 0 7
+shall 0.888889 7 0
+-2p=Vpp -1w=a 0.888889 0 7
+-2p=Is -1w=a 0.888889 0 7
+random 0.888889 0 7
+-1w=license 0.888889 0 7
+greater 0.888889 0 7
+first 0.888889 0 7
+-1p=Prep 1p=Ns 0.888889 0 7
+-1p=Ns 1p=Conj 0.888889 0 7
+variable 0.888889 0 7
+-2p=Is -1p=Ns 0.888889 0 7
+-2p=Vpt -1p=Ns 0.888889 0 7
+finite 0.888889 0 7
+-1p=Ns 1w=of 0.884892 15 122
+-1p=Ns 1p=Prep 0.884354 16 129
+-1p=Ns 0.881081 21 162
+-2w=a -1p=Ns 0.88 2 21
+-1p=AdjC 0.875 0 6
+1p=Prep 2w=stations 0.875 0 6
+limited 0.875 0 6
+1p=Prep 2w=successes 0.875 0 6
+-2w=a -1p=Vpp 0.875 0 6
+-2p=Det -1w=middle 0.875 0 6
+those 0.875 0 6
+always 0.875 0 6
+1w=of 2w=stations 0.875 0 6
+-2p=Np -1p=Ns 0.875 0 6
+successes 0.875 0 6
+values 0.875 0 6
+people 0.875 1 13
+last 0.875 0 6
+-2w=the -1w=middle 0.875 0 6
+middle 0.875 0 6
+1p=Vpt 2p=Adj 0.875 6 0
+-2p=Ns -1p=Vpp 0.875 0 6
+-2p=Prep -1p=Vpp 0.875 0 6
+-1p=Prep 1p=Punc 0.875 0 6
+1p=Vpp 2p=Adj 0.875 6 0
+-1w=middle 0.875 0 6
+-2w=by -1w=a 0.875 0 6
+-2p=Adj -1w=in 0.875 0 6
+number 0.875 1 13
+-2p=Adv -1w=middle 0.875 0 6
+-2w=by -1p=Ns 0.875 0 6
+years 0.875 1 13
+-2p=Ns -1w=large 0.875 2 20
+-2w=by -1p=Prep 0.875 0 6
+1w=of 2w=successes 0.875 0 6
+-2p=Vpt -1w=a 0.875 0 6
+-2w=a -1w=large 0.869565 2 19
+-2p=Prep -1w=large 0.869565 2 19
+-1p=Ns 1p=Ns 0.866667 1 12
+1p=Punc 0.861111 4 30
+are 0.859649 7 48
+-1p=AdjC 1p=Prep 0.857143 0 5
+-2w=are -1p=Ns 0.857143 0 5
+since 0.857143 0 5
+hours 0.857143 0 5
+-1w=finite 1w=of 0.857143 0 5
+-2p=Prep -1p=Vpt 0.857143 0 5
+award 0.857143 5 0
+states 0.857143 0 5
+-1p=Adv 1p=Vpp 0.857143 5 0
+-1w=finite 1p=Prep 0.857143 0 5
+employees 0.857143 0 5
+-2w=the -1w=license 0.857143 0 5
+-2p=Ns -1p=Vpt 0.857143 0 5
+-1p=Prep 1p=Pro 0.857143 0 5
+1p=Punc 2p=Adj 0.857143 0 5
+-1w=finite 0.857143 0 5
+-2p=Adv -1w=license 0.857143 0 5
+-2p=Det -1w=finite 0.857143 0 5
+-2p=Pro -1p=Ns 0.857143 1 11
+-2w=are -1p=Prep 0.857143 0 5
+-2p=V -1p=Ns 0.857143 0 5
+year 0.857143 0 5
+-2p=Det -1w=license 0.857143 0 5
+-2p=Ns -1w=finite 0.857143 0 5
+odd 0.857143 0 5
+points 0.857143 0 5
+-1p=Adv 1p=Vpt 0.857143 5 0
+with 0.857143 5 35
+-2p=Prep -1w=finite 0.857143 0 5
+-1p=Prep 1p=Conj 0.857143 0 5
+principal 0.857143 5 0
+-2p=Adv -1p=AdjC 0.857143 0 5
+-2w=are -1p=Det 0.857143 0 5
+1p=Ns 2p=Pro 0.857143 0 5
+-2w=a -1w=finite 0.857143 0 5
+-1p=AdjS 0.857143 0 5
+-2w=a -1p=Vpt 0.857143 0 5
+quite 0.857143 0 5
+-2w=are -1w=a 0.857143 0 5
+-1p=Ns 1p=Punc 0.85 2 16
+then 0.846154 1 10
+'' 0.846154 1 10
+-2p=End -1p=Ns 0.846154 1 10
+a 0.84466 31 173
+-2w=a -1p=Adv 0.84375 4 26
+1w=, 0.842105 2 15
+-2p=Prep -1w=considerable 0.833333 0 4
+-2p=Det -1w=odd 0.833333 0 4
+1p=Vpp 2p=Ns 0.833333 4 0
+-1w=considerable 1w=of 0.833333 0 4
+1p=Is 0.833333 0 4
+-1w=considerable 0.833333 0 4
+-2w=an -1p=Int 0.833333 0 4
+already 0.833333 0 4
+-1p=Det 1p=Np 0.833333 0 4
+-2p=Det -1p=AdjS 0.833333 0 4
+1w=of 2w=money 0.833333 4 0
+early 0.833333 0 4
+right 0.833333 0 4
+-1w=odd 0.833333 0 4
+-1p=AdjC 1w=of 0.833333 0 4
+radio 0.833333 0 4
+1w=on 2w=the 0.833333 0 4
+rules 0.833333 0 4
+pursuant 0.833333 4 0
+-1p=Pro 1p=Punc 0.833333 0 4
+-2w=an -1w=odd 0.833333 0 4
+costs 0.833333 0 4
+every 0.833333 0 4
+corresponding 0.833333 0 4
+experiment 0.833333 0 4
+five 0.833333 0 4
+found 0.833333 0 4
+money 0.833333 4 0
+-1p=Adv 1w=paid 0.833333 4 0
+f{t} 0.833333 0 4
+-2p=V -1p=Prep 0.833333 0 4
+greatest 0.833333 0 4
+-2p=Det -1w=great 0.833333 0 4
+car 0.833333 0 4
+here 0.833333 0 4
+present 0.833333 4 0
+1p=Vpt 2p=Ns 0.833333 4 0
+can 0.833333 1 9
+1w=, 2p=Adj 0.833333 0 4
+including 0.833333 0 4
+increasing 0.833333 0 4
+interviews 0.833333 0 4
+-2p=Ns -1w=considerable 0.833333 0 4
+-1p=Punc 1w=of 0.833333 0 4
+1w=on 2p=Det 0.833333 0 4
+-2w=a -1w=considerable 0.833333 0 4
+service 0.833333 0 4
+set 0.833333 0 4
+item 0.833333 4 0
+life 0.833333 0 4
+1w=paid 0.833333 4 0
+she 0.833333 0 4
+1w=paid 2p=Adj 0.833333 4 0
+1w=of 2w=them 0.833333 0 4
+1w=is 0.833333 0 4
+-1p=Punc 0.833333 0 4
+? 0.833333 0 4
+1w=on 0.833333 0 4
+-2p=Pro -1w=a 0.833333 0 4
+1w=on 2p=Adv 0.833333 0 4
+1p=Ns 2p=Punc 0.833333 0 4
+-2p=Adv -1p=AdjS 0.833333 0 4
+-1w=considerable 1p=Prep 0.833333 0 4
+systems 0.833333 0 4
+1p=Prep 2w=them 0.833333 0 4
+1p=Prep 2w=money 0.833333 4 0
+themselves 0.833333 0 4
+-2p=Pro -1w=in 0.833333 0 4
+-1p=Adv 1p=Np 0.833333 0 4
+-2w=the -1p=AdjS 0.833333 0 4
+times 0.833333 0 4
+-2p=Det -1p=Int 0.833333 0 4
+value 0.833333 0 4
+-1p=Punc 1p=Prep 0.833333 0 4
+activity 0.833333 4 0
+-2p=Det -1w=considerable 0.833333 0 4
+-1w=great 0.833333 0 4
+-2p=Ns -1p=Punc 0.833333 0 4
+-1p=Ns 1w=and 0.833333 0 4
+-1w=an 0.833333 4 0
+have 0.823529 5 27
+there 0.821429 4 22
+af 0.818182 1 8
+large 0.818182 5 26
+up 0.818182 1 8
+amount 0.818182 8 1
+-2p=Vpp -1p=Det 0.818182 1 8
+your 0.818182 1 8
+-2p=Is -1p=Det 0.818182 1 8
+-1p=Det 1w=of 0.816832 36 164
+-1w=large 0.814815 4 21
+-1p=Adj 1p=Punc 0.814815 4 21
+been 0.814815 4 21
+-1p=Det 1p=Prep 0.813397 38 169
+-2w=of -1p=Det 0.8125 2 12
+were 0.8125 2 12
+-1p=Adj 1w=, 0.8125 2 12
+`` 0.809524 3 16
+as 0.805556 6 28
+words 0.8 0 3
+-1w=great 1p=Prep 0.8 0 3
+-1p=Adj 1p=Is 0.8 0 3
+-1p=Adj 1w=is 0.8 0 3
+-1p=Ns 1p=Np 0.8 0 3
+1w=you 2p=V 0.8 3 0
+$1,000 0.8 3 0
+0 0.8 0 3
+-2p=Vpp -1p=Adj 0.8 0 3
+-1p=Prep 1p=Adj 0.8 0 3
+positions 0.8 0 3
+-1p=Det 1p=Punc 0.8 0 3
+policy 0.8 0 3
+serial 0.8 0 3
+114 0.8 0 3
+-2p=Ns -1w=, 0.8 0 3
+-1w=large 1w=of 0.8 4 19
+1p=Prep 2w=employees 0.8 0 3
+1w=of 2w=cylinders 0.8 0 3
+magic 0.8 0 3
+5 0.8 1 7
+lower 0.8 0 3
+process 0.8 0 3
+1p=Prep 2p=Prep 0.8 0 3
+-1w=the 1w=you 0.8 3 0
+lo 0.8 0 3
+atoms 0.8 0 3
+-1w=the 1p=Vpt 0.8 3 0
+-1w=maximum 0.8 3 0
+: 0.8 2 11
+1w=used 2p=Prep 0.8 3 0
+shu 0.8 0 3
+-2w=from -1p=Det 0.8 0 3
+awards 0.8 3 0
+-1w=principal 0.8 3 0
+back 0.8 0 3
+base 0.8 0 3
+1p=Ns 2p=Conj 0.8 0 3
+basic 0.8 0 3
+-2p=Ns -1w=limited 0.8 0 3
+-1w=, 1p=Prep 0.8 0 3
+larger 0.8 0 3
+-2w=a -1w=great 0.8 0 3
+lady-bugs 0.8 0 3
+-2w=in -1w=a 0.8 0 3
+because 0.8 0 3
+-1w=serial 0.8 0 3
+1p=Punc 2p=Adv 0.8 1 7
+just 0.8 0 3
+1w=, 2p=Pro 0.8 0 3
+-1w=large 1p=Prep 0.8 4 19
+society 0.8 0 3
+1w=of 2w=hours 0.8 0 3
+-1p=Ns 1p=Pro 0.8 0 3
+become 0.8 0 3
+-1w=this 1w=, 0.8 0 3
+-1p=AdvS 0.8 0 3
+1p=Prep 2w=other 0.8 0 3
+1w=of 2w=other 0.8 0 3
+1w=of 2w=information 0.8 3 0
+1w=, 2p=Conj 0.8 0 3
+makes 0.8 0 3
+1p=Punc 2p=Conj 0.8 0 3
+-1p=Ns 1w=, 0.8 1 7
+besides 0.8 0 3
+-1w=total 1w=of 0.8 1 7
+bull's-eyes 0.8 0 3
+man 0.8 0 3
+sound 0.8 0 3
+square 0.8 0 3
+1w=of 2w=companies 0.8 0 3
+-1w=the 1p=Np 0.8 0 3
+1p=Ns 2p=V 0.8 0 3
+1w=used 0.8 3 0
+-1w=limited 1w=of 0.8 0 3
+-1p=Prep 1w=, 0.8 0 3
+-2w=with -1p=Ns 0.8 0 3
+-1w=limited 0.8 0 3
+1w=of 2w=employees 0.8 0 3
+-1w=in 1p=Punc 0.8 0 3
+cannot 0.8 0 3
+-1w=, 1w=of 0.8 0 3
+approximate 0.8 0 3
+1p=Prep 2w=information 0.8 3 0
+-2w=in -1p=Prep 0.8 0 3
+-2p=Det -1w=large 0.8 4 19
+payments 0.8 3 0
+maximum 0.8 3 0
+-1w=this 1p=Punc 0.8 0 3
+-2w=a -1w=limited 0.8 0 3
+growing 0.8 0 3
+-2p=Det -1w=limited 0.8 0 3
+groups 0.8 0 3
+-1w=odd 1w=of 0.8 0 3
+produced 0.8 0 3
+-2w=and -1w=a 0.8 0 3
+1w=of 2p=Prep 0.8 0 3
+-2p=Prep -1w=limited 0.8 0 3
+certified 0.8 3 0
+channels 0.8 0 3
+1p=Punc 2p=Pro 0.8 0 3
+-2p=Vpt -1p=Adj 0.8 0 3
+-1p=Pro 1w=, 0.8 0 3
+classes 0.8 0 3
+-1w=in 1p=Ns 0.8 0 3
+million 0.8 0 3
+work 0.8 0 3
+companies 0.8 0 3
+-2p=Det -1w=maximum 0.8 3 0
+thereof 0.8 3 0
+over 0.8 1 7
+-2w=and -1p=Ns 0.8 0 3
+-2w=and -1p=Prep 0.8 0 3
+account 0.8 3 0
+operating 0.8 0 3
+-1w=limited 1p=Prep 0.8 0 3
+constant 0.8 0 3
+trials 0.8 0 3
+-2w=that -1p=Det 0.8 1 7
+exceeds 0.8 3 0
+-2p=Vpt -1p=Adv 0.8 0 3
+1p=Prep 2w=hours 0.8 0 3
+even 0.8 1 7
+under 0.8 3 0
+established 0.8 0 3
+-2p=Vpp -1p=Adv 0.8 0 3
+-1p=Int 1p=Prep 0.8 0 3
+-2p=Vpt -1p=Det 0.8 1 7
+1w=of 2w=rules 0.8 0 3
+-1w=license 1p=Prep 0.8 0 3
+crew 0.8 0 3
+1p=Prep 2w=rules 0.8 0 3
+cylinders 0.8 0 3
+equal 0.8 1 7
+-1p=Det 1w=you 0.8 3 0
+-1w=maximum 1w=of 0.8 3 0
+epicycles 0.8 0 3
+1p=Np 2p=Adj 0.8 0 3
+unpaid 0.8 3 0
+1p=Prep 2w=cylinders 0.8 0 3
+-2p=Ns -1w=great 0.8 0 3
+engine 0.8 0 3
+1p=Vpt 0.8 7 1
+reaction 0.8 3 0
+electronic 0.8 0 3
+determine 0.8 3 0
+n 0.8 0 3
+1p=Vpp 0.8 7 1
+divided 0.8 0 3
+-1p=Prep 1p=Adv 0.8 0 3
+using 0.8 0 3
+variables 0.8 0 3
+1p=Prep 2w=negro-appeal 0.8 0 3
+-1w=the 1p=Vpp 0.8 3 0
+variety 0.8 0 3
+often 0.8 0 3
+-2w=the -1w=maximum 0.8 3 0
+-2p=Adv -1w=principal 0.8 3 0
+-1p=Adj 1p=Np 0.8 0 3
+-1p=Int 1w=of 0.8 0 3
+also 0.8 1 7
+-1w=maximum 1p=Prep 0.8 3 0
+1p=Prep 2w=companies 0.8 0 3
+-1p=Adj 1p=Adj 0.8 3 0
+-1w=license 1p=Adv 0.8 0 3
+-1w=great 1w=of 0.8 0 3
+-1w=, 0.8 0 3
+-1p=Det 1p=Vpp 0.8 3 0
+1w=of 2w=negro-appeal 0.8 0 3
+1w=of 2w=times 0.8 0 3
+1p=Adj 2p=Prep 0.8 3 0
+allotted 0.8 3 0
+1p=Prep 2w=times 0.8 0 3
+receptionist 0.8 0 3
+-2p=Prep -1w=great 0.8 0 3
+-2p=Adv -1w=maximum 0.8 3 0
+1p=Adj 2p=Punc 0.8 0 3
+negro-appeal 0.8 0 3
+new 0.8 1 7
+-1p=AdjS 1p=Punc 0.8 0 3
+-1p=Det 1p=Vpt 0.8 3 0
+now 0.8 0 3
+-2p=Ns -1w=in 0.8 0 3
+-1w=odd 1p=Prep 0.8 0 3
+is 0.797753 17 70
+, 0.792952 46 179
+) 0.789474 3 14
+-2w=a -1p=Adj 0.787879 13 51
+1p=Ns 2p=Adj 0.785714 2 10
+but 0.785714 5 21
+this 0.78125 6 24
+great 0.777778 1 6
+many 0.777778 1 6
+paid 0.777778 6 1
+1w=, 2p=Adv 0.777778 1 6
+i 0.777778 1 6
+-1p=Ns 1p=Adj 0.777778 1 6
+-2p=Ns -1p=Adj 0.772152 17 60
+had 0.769231 2 9
+1w=. 0.769231 2 9
+1w=. 2p=End 0.769231 2 9
+must 0.769231 2 9
+1p=Punc 2p=End 0.769231 2 9
+-2p=End -1p=Det 0.769231 5 19
+1p=Prep 2p=Adv 0.767442 9 32
+1w=of 0.764873 82 269
+his 0.764706 3 12
+into 0.764706 3 12
+-2p=Det -1p=Ns 0.763889 16 54
+1p=Prep 0.762162 87 281
+for 0.761905 14 47
+-2p=Prep -1p=Det 0.761364 20 66
+1w=of 2p=Adv 0.757576 7 24
+-1p=Det 0.757322 57 180
+and 0.756944 34 108
+. 0.755682 42 132
+-2p=Adj -1p=Det 0.754098 14 45
+-2p=Adv -1p=Ns 0.753623 16 51
+1p=V 2p=Vpp 0.75 0 2
+-1p=Pro 1p=Adj 0.75 2 0
+career 0.75 0 2
+-2w=not -1p=Adv 0.75 0 2
+government 0.75 2 0
+cent 0.75 0 2
+centum 0.75 2 0
+1p=Punc 2p=Prep 0.75 0 2
+-1w=no 1w=of 0.75 2 0
+-2w=that -1p=Adv 0.75 1 5
+-1w=larger 1w=of 0.75 0 2
+-2w=from -1p=Prep 0.75 0 2
+good 0.75 0 2
+gives 0.75 0 2
+1w=paid 2w=pursuant 0.75 2 0
+give 0.75 0 2
+generous 0.75 2 0
+furthermore 0.75 0 2
+fund 0.75 2 0
+city 0.75 0 2
+-1w=same 1p=Adj 0.75 2 0
+function 0.75 0 2
+-1w=base 0.75 0 2
+-1p=AdvS 1p=Punc 0.75 0 2
+claims 0.75 2 0
+frontage 0.75 2 0
+college 0.75 2 0
+frequencies 0.75 0 2
+commercial 0.75 0 2
+forms 0.75 0 2
+common 0.75 0 2
+-1w=no 1p=Prep 0.75 2 0
+fixed 0.75 0 2
+figure 0.75 0 2
+-1w=vast 0.75 0 2
+fees 0.75 2 0
+-1p=Adj 1w=used 0.75 2 0
+1w=used 2p=Adv 0.75 2 0
+-2p=Prep -1w=disturbing 0.75 2 0
+-1w=larger 1p=Prep 0.75 0 2
+1w=of 2w=investigators 0.75 0 2
+feel 0.75 0 2
+-2w=between -1p=Adv 0.75 2 0
+complex 0.75 0 2
+components 0.75 0 2
+-2p=Np -1w=in 0.75 0 2
+computing 0.75 2 0
+far 0.75 0 2
+conclusion 0.75 0 2
+1p=Is 2p=Adv 0.75 0 2
+famous 0.75 0 2
+considerably 0.75 0 2
+considerations 0.75 0 2
+consonantal 0.75 0 2
+1p=Vpp 2w=by 0.75 2 0
+1p=Prep 2w=data 0.75 2 0
+factor 0.75 0 2
+construction 0.75 0 2
+-2p=Det -1w=base 0.75 0 2
+-2w=for -1p=Pro 0.75 0 2
+-2w=a -1w=disturbing 0.75 2 0
+expression 0.75 0 2
+explained 0.75 0 2
+-2p=Det -1w=growing 0.75 0 2
+evidence 0.75 0 2
+-2p=Det -1w=vast 0.75 0 2
+1p=Prep 2w=those 0.75 0 2
+especially 0.75 0 2
+-2w=few -1w=in 0.75 0 2
+-1w=of 1p=Prep 0.75 0 2
+equipment 0.75 0 2
+-2w=an -1p=Adj 0.75 3 11
+equation 0.75 0 2
+credited 0.75 2 0
+equals 0.75 2 0
+critical 0.75 0 2
+1w=paid 2p=Adv 0.75 2 0
+curve 0.75 0 2
+customers 0.75 0 2
+1w=: 0.75 0 2
+elements 0.75 0 2
+element 0.75 0 2
+-1p=Ns 1w=. 0.75 1 5
+decisions 0.75 0 2
+declines 0.75 0 2
+deducting 0.75 2 0
+-1w=significant 0.75 2 0
+defined 0.75 2 0
+degree 0.75 0 2
+depend 0.75 0 2
+-1w=in 1w=and 0.75 0 2
+1p=Adj 2w=. 0.75 0 2
+eighty-three 0.75 0 2
+deputies 0.75 0 2
+-1p=Adj 1p=Was 0.75 0 2
+desire 0.75 0 2
+-2p=Punc -1w=an 0.75 2 0
+desk 0.75 0 2
+-1p=Prep 1w=and 0.75 0 2
+detergent 0.75 2 0
+drawing 0.75 0 2
+determined 0.75 2 0
+determining 0.75 0 2
+-1w=the 1p=Ving 0.75 2 0
+1w=of 2w=reported 0.75 0 2
+devoted 0.75 0 2
+-1p=Ns 1p=Is 0.75 0 2
+door 0.75 0 2
+disturbing 0.75 2 0
+-2w=but -1p=Det 0.75 0 2
+1p=Vpt 2w=in 0.75 2 0
+-1p=V 1p=Vpp 0.75 2 0
+districts 0.75 0 2
+directory 0.75 0 2
+-1p=Adv 1w=on 0.75 0 2
+1p=Prep 2w=things 0.75 0 2
+discovered 0.75 0 2
+1p=Adv 2p=Pro 0.75 0 2
+-1p=Pro 1w=used 0.75 2 0
+1p=Prep 2p=AdvC 0.75 2 0
+-1w=highest 1p=Punc 0.75 0 2
+-2w=reducing -1p=Adv 0.75 0 2
+1p=Prep 2w=productivity 0.75 2 0
+-2w=is -1p=Prep 0.75 0 2
+1w=of 2w=values 0.75 0 2
+-2w=produced -1p=Prep 0.75 0 2
+-1p=Conj 1w=of 0.75 0 2
+1p=Prep 2w=more 0.75 2 0
+-2w=not -1p=Det 0.75 0 2
+1p=Vpt 2p=Prep 0.75 5 1
+1w=of 2w=activity 0.75 2 0
+-1p=Adv 1p=Vs 0.75 0 2
+1p=Adv 2p=Ving 0.75 2 0
+1p=Prep 2w=values 0.75 0 2
+1p=Was 0.75 0 2
+1w=of 2w=things 0.75 0 2
+-1w=disturbing 1w=of 0.75 2 0
+1p=Prep 2p=AdjC 0.75 2 0
+-2p=Adv -1w=greater 0.75 0 2
+-1w=license 1p=Adj 0.75 0 2
+-1w=a 1p=Pro 0.75 0 2
+-2w=together -1p=Ns 0.75 0 2
+-2w=the -1w=base 0.75 0 2
+1p=Prep 2w=reported 0.75 0 2
+-1w=an 1p=Ns 0.75 2 0
+1w=of 2w=men 0.75 0 2
+1w=being 2p=Vpp 0.75 2 0
+1p=Adv 2p=Prep 0.75 2 0
+1w=of 2w=your 0.75 0 2
+-1p=AdjS 1w=, 0.75 0 2
+-2p=Conj -1p=Det 0.75 10 32
+1w=of 2w=interviews 0.75 0 2
+-2p=Det -1w=principal 0.75 2 0
+-2p=Adj -1p=V 0.75 0 2
+1p=Ns 2p=Det 0.75 2 0
+-1w=a 1p=Conj 0.75 0 2
+1p=Ving 2w=allotted 0.75 2 0
+1w=is 2p=Adv 0.75 0 2
+-1w=greater 1p=Prep 0.75 0 2
+-2w=few -1p=Adv 0.75 0 2
+-2p=Ns -1w=disturbing 0.75 2 0
+-2w=as -1w=the 0.75 2 0
+1w=of 2w=data 0.75 2 0
+-2w=from -1w=a 0.75 0 2
+-1p=Adj 1w=: 0.75 0 2
+-2w=together -1p=Prep 0.75 0 2
+1w=used 2p=Ns 0.75 2 0
+-1w=the 1w=paid 0.75 2 0
+-2w=for -1p=Adj 0.75 0 2
+-2w=the -1p=Vpp 0.75 2 0
+1p=Ns 2p=Prep 0.75 0 2
+1w=of 2w=units 0.75 0 2
+-2w=produced -1p=Ns 0.75 0 2
+-2w=reduce -1p=Det 0.75 1 5
+-2w=determine -1p=Adv 0.75 2 0
+-2w=on -1p=Adv 0.75 1 5
+-1p=Det 1w=being 0.75 2 0
+-1w=middle 1w=, 0.75 0 2
+-2w=with -1p=Prep 0.75 0 2
+-2w=few -1p=Prep 0.75 0 2
+-2w=than -1w=the 0.75 0 2
+-1p=Pro 1p=Vpp 0.75 2 0
+-2w=that -1w=a 0.75 0 2
+-1w=increasing 1w=of 0.75 0 2
+1p=Pro 2w=want 0.75 2 0
+1p=Punc 2w=5 0.75 0 2
+-1w=total 1p=Vpt 0.75 2 0
+-1w=disturbing 0.75 2 0
+1w=( 0.75 0 2
+-1p=Ns 1w=is 0.75 0 2
+-1w=the 1p=Vs 0.75 0 2
+-2p=Adv -1p=Vpt 0.75 2 0
+-1w=same 1p=Vpp 0.75 2 0
+-1w=significant 1w=of 0.75 2 0
+-1w=middle 1w=of 0.75 0 2
+-1p=Det 1w=on 0.75 0 2
+-1w=principal 1p=Prep 0.75 2 0
+1p=Prep 2w=offspring 0.75 0 2
+1p=Punc 2p=Punc 0.75 0 2
+-2w=produced -1w=a 0.75 0 2
+1p=Vpp 2w=pursuant 0.75 2 0
+1p=Ving 2p=Vpp 0.75 2 0
+-1w=a 1p=Punc 0.75 0 2
+1w=, 2p=Prep 0.75 0 2
+-2p=Np -1w=a 0.75 0 2
+-2w=reduce -1w=the 0.75 1 5
+-1p=AdjS 1w=of 0.75 0 2
+1w=of 2w=water 0.75 2 0
+-2w=determine -1w=the 0.75 2 0
+-2w=few -1p=Ns 0.75 0 2
+1w=you 2w=want 0.75 2 0
+-1w=the 1p=Pro 0.75 5 1
+-1p=AdjS 1p=Prep 0.75 0 2
+-2w=is -1w=a 0.75 0 2
+1w=you 2p=Ns 0.75 2 0
+-2p=Det -1p=AdvS 0.75 0 2
+-2w=for -1p=Adv 0.75 0 2
+1w=paid 2p=Ns 0.75 2 0
+-1w=growing 1p=Prep 0.75 0 2
+1p=Vpt 2w=pursuant 0.75 2 0
+-1p=Adj 1w=paid 0.75 2 0
+-1p=Det 1w=. 0.75 0 2
+1p=Prep 2w=men 0.75 0 2
+-2w=than -1p=Adv 0.75 0 2
+-1p=Ns 1p=Adv 0.75 2 8
+-1p=Det 1p=Ving 0.75 2 0
+-1w=in 1w=, 0.75 0 2
+1p=Prep 2w=new 0.75 0 2
+1w=of 2w=customers 0.75 0 2
+1w=paid 2p=Prep 0.75 2 0
+-1w=license 1w=on 0.75 0 2
+1w=of 2p=AdvC 0.75 2 0
+1p=Ns 2w=the 0.75 2 0
+-2w=that -1p=Prep 0.75 0 2
+-2w=reducing -1w=the 0.75 0 2
+-1p=Adv 1w=is 0.75 0 2
+1w=of 2w=productivity 0.75 2 0
+1p=Prep 2w=bull's-eyes 0.75 0 2
+1p=Np 2p=Adv 0.75 0 2
+-1w=middle 1p=Prep 0.75 0 2
+-1w=significant 1p=Prep 0.75 2 0
+-1w=increasing 0.75 0 2
+-2p=Adv -1p=Vpp 0.75 2 0
+-2p=Adv -1w=base 0.75 0 2
+-1p=Adj 1p=Pro 0.75 0 2
+-1w=growing 1w=of 0.75 0 2
+1w=of 2w=more 0.75 2 0
+-2p=Adv -1w=this 0.75 0 2
+1w=being 2w=allotted 0.75 2 0
+-2w=reduce -1p=Adv 0.75 1 5
+1w=nine 0.75 0 2
+-1w=growing 0.75 0 2
+-1w=total 1p=Vpp 0.75 2 0
+-1w=increasing 1p=Prep 0.75 0 2
+-1p=Ns 1w=on 0.75 0 2
+1w=of 2w=offspring 0.75 0 2
+1p=Prep 2w=investigators 0.75 0 2
+1p=Ving 2p=Vpt 0.75 2 0
+1w=, 2w=5 0.75 0 2
+1p=Prep 2w=interviews 0.75 0 2
+-2w=reducing -1p=Det 0.75 0 2
+1w=of 2p=AdjC 0.75 2 0
+-1p=AdvC 0.75 0 2
+-2w=as -1p=Adv 0.75 2 0
+1p=Prep 2w=activity 0.75 2 0
+-2p=Det -1p=AdjC 0.75 0 2
+-1w=vast 1p=Prep 0.75 0 2
+-2p=Adj -1w=this 0.75 0 2
+-2w=few -1p=Adj 0.75 0 2
+1w=of 2w=his 0.75 0 2
+-1p=Ns 1w=paid 0.75 2 0
+-1p=Adv 1w=in 0.75 2 0
+-2p=Adv -1p=AdvC 0.75 0 2
+-1w=the 1w=being 0.75 2 0
+-1w=same 1p=Vpt 0.75 2 0
+1p=Prep 2w=carbon 0.75 2 0
+-1w=greater 0.75 0 2
+-2p=Adv -1w=increasing 0.75 0 2
+1p=Prep 2w=epicycles 0.75 0 2
+-2w=that -1w=the 0.75 1 5
+-2p=V -1w=a 0.75 0 2
+1p=Ns 2w=. 0.75 0 2
+1w=used 2w=in 0.75 2 0
+-2w=the -1p=Ving 0.75 1 5
+1p=Ving 0.75 2 0
+-2w=but -1w=the 0.75 0 2
+-1w=principal 1w=of 0.75 2 0
+-1p=Pro 1p=Vpt 0.75 2 0
+-2p=Adj -1w=serial 0.75 0 2
+-1w=a 1p=Adv 0.75 0 2
+-1w=serial 1p=Punc 0.75 0 2
+1w=used 2p=Adj 0.75 2 0
+1w=of 2w=epicycles 0.75 0 2
+1p=Prep 2w=his 0.75 0 2
+1w=of 2w=carbon 0.75 2 0
+1p=Conj 2p=Adj 0.75 2 8
+-2w=is -1p=Ns 0.75 0 2
+-1w=the 1w=on 0.75 0 2
+-1w=middle 1p=Punc 0.75 0 2
+-1p=Prep 1w=nine 0.75 0 2
+1p=Vpp 2w=in 0.75 2 0
+-2w=produced -1p=Det 0.75 0 2
+-1w=no 0.75 2 0
+-2p=Vs -1p=Prep 0.75 0 2
+-1w=larger 0.75 0 2
+-2w=determine -1p=Det 0.75 2 0
+-2w=on -1p=Det 0.75 1 5
+-1w=same 1w=used 0.75 2 0
+1w=of 2w=bull's-eyes 0.75 0 2
+-1p=Det 1w=paid 0.75 2 0
+1p=Prep 2w=your 0.75 0 2
+1w=of 2w=new 0.75 0 2
+1w=from 0.75 0 2
+-1w=total 1w=paid 0.75 2 0
+-2w=the -1p=Vpt 0.75 2 0
+-1p=Adv 1w=. 0.75 0 2
+1p=Vpp 2p=Prep 0.75 5 1
+-1w=vast 1w=of 0.75 0 2
+-2w=together -1w=a 0.75 0 2
+-2w=than -1p=Det 0.75 0 2
+-1w=disturbing 1p=Prep 0.75 2 0
+1p=Prep 2w=customers 0.75 0 2
+-2p=Adj -1p=Punc 0.75 0 2
+-2p=Adv -1p=AdvS 0.75 0 2
+-2p=Prep -1p=Adj 0.75 19 59
+york 0.75 0 2
+x 0.75 0 2
+written 0.75 0 2
+writing 0.75 2 0
+writes 0.75 0 2
+world 0.75 0 2
+worked 0.75 0 2
+without 0.75 0 2
+1p=Prep 2w=water 0.75 2 0
+whole 0.75 0 2
+while 0.75 0 2
+when 0.75 2 8
+1p=Ns 2p=Ns 0.75 2 8
+ways 0.75 0 2
+-2p=Ving -1p=Prep 0.75 0 2
+way 0.75 0 2
+1w=of 2w=those 0.75 0 2
+1w=being 2p=Vpt 0.75 2 0
+-1p=V 1w=paid 0.75 2 0
+-1p=Ns 1w=from 0.75 0 2
+want 0.75 2 0
+-2p=Adv -1p=Ving 0.75 1 5
+1p=Vs 0.75 0 2
+vast 0.75 0 2
+upper 0.75 0 2
+units 0.75 0 2
+trying 0.75 0 2
+treasury 0.75 2 0
+transition 0.75 0 2
+tone 0.75 0 2
+-1p=Conj 1p=Prep 0.75 0 2
+1p=Adj 2w=in 0.75 2 0
+title 0.75 2 0
+though 0.75 0 2
+1p=Prep 2w=units 0.75 0 2
+things 0.75 0 2
+-2w=as -1p=Det 0.75 2 0
+-1p=Adv 1w=being 0.75 2 0
+tetrachloride 0.75 2 0
+-1w=in 1p=Conj 0.75 0 2
+-2w=the -1w=large 0.75 2 0
+tenant 0.75 0 2
+-1w=license 1p=Ns 0.75 0 2
+technical 0.75 0 2
+tangent 0.75 0 2
+taking 0.75 0 2
+taken 0.75 0 2
+t 0.75 1 5
+system 0.75 0 2
+symbolic 0.75 0 2
+symbol 0.75 0 2
+suppose 0.75 0 2
+-1p=V 1p=Vpt 0.75 2 0
+suite 0.75 0 2
+suggest 0.75 0 2
+successful 0.75 0 2
+1p=Ns 2w=allotted 0.75 2 0
+-2p=Det -1w=increasing 0.75 0 2
+subtracted 0.75 0 2
+student 0.75 0 2
+strong 0.75 0 2
+stall 0.75 0 2
+stairs 0.75 0 2
+-1w=serial 1w=, 0.75 0 2
+-1p=V 1w=on 0.75 0 2
+-2w=of -1p=Pro 0.75 0 2
+staining 0.75 2 0
+stages 0.75 0 2
+squares 0.75 0 2
+something 0.75 2 0
+-1w=of 0.75 0 2
+social 0.75 0 2
+-2w=the -1w=principal 0.75 2 0
+-2w=the -1w=increasing 0.75 0 2
+so-called 0.75 0 2
+-2w=the -1p=AdvS 0.75 0 2
+slightly 0.75 0 2
+similar 0.75 0 2
+significantly 0.75 0 2
+-1p=Det 1p=Vs 0.75 0 2
+significant 0.75 2 0
+-2w=that -1p=Ns 0.75 0 2
+shots 0.75 0 2
+short 0.75 0 2
+several 0.75 0 2
+-2w=from -1p=Ns 0.75 0 2
+seventeen 0.75 0 2
+served 0.75 0 2
+sense 0.75 0 2
+seem 0.75 2 0
+-1p=Prep 1w=. 0.75 0 2
+-2p=Det -1w=disturbing 0.75 2 0
+-2w=not -1w=the 0.75 0 2
+security 0.75 0 2
+-1p=Adv 1p=Ving 0.75 2 0
+1p=Vpt 2w=by 0.75 2 0
+section 0.75 2 0
+second 0.75 0 2
+score 0.75 0 2
+schools 0.75 0 2
+scholars 0.75 0 2
+1p=Ns 2w=114 0.75 0 2
+salary 0.75 0 2
+said 0.75 0 2
+room 0.75 0 2
+risen 0.75 0 2
+rhode 0.75 0 2
+represented 0.75 0 2
+-2w=together -1p=Det 0.75 0 2
+-1w=highest 0.75 0 2
+registered 0.75 0 2
+regardless 0.75 0 2
+-1p=Adv 1p=Is 0.75 0 2
+refunded 0.75 2 0
+reducing 0.75 0 2
+-2w=of -1p=Adj 0.75 0 2
+-2w=with -1w=a 0.75 0 2
+reduce 0.75 1 5
+readers 0.75 0 2
+read 0.75 0 2
+ratios 0.75 0 2
+rather 0.75 0 2
+1w=paid 2w=by 0.75 2 0
+questionnaire 0.75 0 2
+question 0.75 0 2
+-1w=a 1w=. 0.75 0 2
+queries 0.75 0 2
+provided 0.75 2 0
+1w=being 0.75 2 0
+-1p=Ns 1w=: 0.75 0 2
+-2p=Ving -1p=Ns 0.75 0 2
+proper 0.75 0 2
+prominent 0.75 0 2
+program 0.75 0 2
+productivity 0.75 2 0
+problems 0.75 0 2
+probability 0.75 0 2
+private 0.75 0 2
+principle 0.75 0 2
+previous 0.75 0 2
+possible 0.75 1 5
+possibility 0.75 0 2
+possibilities 0.75 0 2
+played 0.75 0 2
+plates 0.75 0 2
+plan 0.75 0 2
+15 0.75 0 2
+2 0.75 1 5
+place 0.75 0 2
+picnic 0.75 0 2
+persons 0.75 0 2
+personnel 0.75 0 2
+permitted 0.75 0 2
+performance 0.75 0 2
+peas 0.75 0 2
+patients 0.75 0 2
+party 0.75 0 2
+parameters 0.75 0 2
+own 0.75 0 2
+others 0.75 0 2
+organization 0.75 0 2
+ordinary 0.75 0 2
+oldsmobile 0.75 0 2
+old 0.75 0 2
+offspring 0.75 0 2
+obtained 0.75 2 0
+additional 0.75 0 2
+objectives 0.75 0 2
+numbers 0.75 0 2
+advances 0.75 0 2
+nonspecific 0.75 2 0
+nine 0.75 0 2
+next 0.75 0 2
+age 0.75 0 2
+agency 0.75 0 2
+agreed 0.75 2 0
+negligible 0.75 2 0
+allotments 0.75 2 0
+natural 0.75 0 2
+nation's 0.75 0 2
+names 0.75 0 2
+name 0.75 0 2
+myself 0.75 0 2
+music 0.75 0 2
+multiplying 0.75 0 2
+multiplies 0.75 0 2
+movements 0.75 0 2
+analysis 0.75 0 2
+mg 0.75 2 0
+metropolitan 0.75 0 2
+methods 0.75 0 2
+matter 0.75 0 2
+margenau 0.75 0 2
+approved 0.75 2 0
+major 0.75 0 2
+mainly 0.75 0 2
+mail 0.75 0 2
+areas 0.75 0 2
+argument 0.75 0 2
+machine 0.75 0 2
+arrears 0.75 2 0
+long 0.75 0 2
+artists 0.75 0 2
+arts 0.75 0 2
+loan 0.75 2 0
+assessed 0.75 2 0
+little 0.75 0 2
+list 0.75 0 2
+liquid 0.75 2 0
+levied 0.75 2 0
+letters 0.75 0 2
+letter 0.75 0 2
+bachelors 0.75 0 2
+let 0.75 0 2
+bad 0.75 0 2
+least 0.75 0 2
+learned 0.75 0 2
+late 0.75 0 2
+jyj 0.75 0 2
+bear 0.75 2 0
+island 0.75 0 2
+involves 0.75 0 2
+investigators 0.75 0 2
+internal 0.75 0 2
+interference 0.75 0 2
+inscribed 0.75 0 2
+information 0.75 5 1
+individual-contributor 0.75 0 2
+binomial 0.75 0 2
+index 0.75 0 2
+both 0.75 1 5
+build 0.75 0 2
+bull's-eye 0.75 0 2
+independent 0.75 0 2
+important 0.75 0 2
+immediately 0.75 0 2
+identified 0.75 0 2
+hold 0.75 0 2
+calculated 0.75 2 0
+california 0.75 0 2
+called 0.75 0 2
+highest 0.75 0 2
+heard 0.75 0 2
+having 0.75 0 2
+carbon 0.75 2 0
+of 0.745592 100 295
+in 0.744966 37 110
+from 0.742857 8 25
+-2p=Det -1p=Adv 0.74 12 36
+1w=of 2p=Adj 0.736842 24 69
+-2w=by -1p=Det 0.733333 3 10
+-2p=Adv -1p=Det 0.72973 19 53
+-1p=Adj 1p=Ns 0.727273 2 7
+-2w=, -1p=Det 0.727273 5 15
+-1w=total 1p=Prep 0.727273 2 7
+only 0.727273 2 7
+through 0.727273 2 7
+these 0.727273 2 7
+( 0.727273 5 15
+1p=Prep 2p=Adj 0.72549 27 73
+that 0.723077 17 46
+plus 0.714286 1 4
+together 0.714286 1 4
+-1p=V 1w=of 0.714286 5 14
+them 0.714286 3 9
+upon 0.714286 4 1
+-2p=Np -1p=Adj 0.714286 1 4
+water 0.714286 4 1
+-2w=with -1p=Det 0.714286 1 4
+-2w=in -1p=Ns 0.714286 1 4
+1p=Adj 2p=Det 0.714286 1 4
+1p=Adj 2w=the 0.714286 1 4
+form 0.714286 1 4
+-1p=Int 0.714286 1 4
+few 0.714286 1 4
+1p=Vpp 2p=Adv 0.714286 4 1
+considerable 0.714286 1 4
+-1p=Adj 1w=and 0.714286 1 4
+1w=and 2p=Adj 0.714286 1 4
+1p=Vpt 2p=Adv 0.714286 4 1
+-1p=Adj 1p=Vpt 0.714286 4 1
+reported 0.714286 1 4
+left 0.714286 1 4
+reduced 0.714286 4 1
+-1p=Conj 0.714286 1 4
+any 0.714286 5 14
+divide 0.714286 1 4
+-1p=Adj 1p=Conj 0.714286 1 4
+come 0.714286 1 4
+-2w=on -1w=the 0.714286 1 4
+order 0.714286 1 4
+per 0.714286 1 4
+-1p=Adv 1w=of 0.714286 49 124
+-1p=Adj 1p=Vpp 0.714286 4 1
+other 0.714286 3 9
+the 0.711048 101 250
+not 0.710526 10 26
+-2p=Adj -1p=Adv 0.709091 15 38
+-1p=V 1p=Prep 0.708333 6 16
+-2p=Adj -1p=Adj 0.708333 6 16
+they 0.705882 4 11
+-1p=Adv 1p=Prep 0.704918 53 128
+-2p=Adv -1p=V 0.703704 7 18
+at 0.703704 7 18
+to 0.702479 35 84
+-1w=the 1w=of 0.7 35 83
+-1w=the 1p=Prep 0.696 37 86
+-2p=Punc -1p=Det 0.695652 6 15
+-1p=V 0.694444 10 24
+time 0.692308 3 8
+-2w=the -1p=V 0.692308 7 17
+-2p=Prep -1p=Adv 0.688172 28 63
+-1p=Adj 0.6875 54 120
+-2p=Np -1p=Adv 0.6875 4 10
+-2p=Det -1p=Adj 0.686567 41 91
+1p=Ns 0.685714 10 23
+-2w=the -1p=Ns 0.681818 13 29
+-2p=Ns -1p=Det 0.68 23 50
+or 0.678571 8 18
+-2p=Det -1p=V 0.677419 9 20
+-2p=Ns -1p=Adv 0.677419 29 62
+-1p=Adv 0.675325 74 155
+an 0.674419 13 28
+on 0.673077 16 34
+-2p=Ving -1p=Det 0.666667 3 7
+-2w=is -1p=Det 0.666667 1 3
+-1p=Adj 1p=Adv 0.666667 3 1
+-2w=of -1p=Adv 0.666667 2 5
+green-bugs 0.666667 1 3
+group 0.666667 1 3
+1w=of 2w=such 0.666667 5 2
+sufficient 0.666667 3 1
+-1p=Vpp 0.666667 3 7
+state 0.666667 1 3
+so 0.666667 7 3
+-2p=Ns -1w=small 0.666667 1 3
+-2p=Pro -1p=Adj 0.666667 3 7
+small 0.666667 4 9
+-2p=Prep -1w=small 0.666667 1 3
+length 0.666667 1 3
+results 0.666667 1 3
+-1p=Adv 1w=you 0.666667 3 1
+-1p=V 1p=Punc 0.666667 1 3
+himself 0.666667 1 3
+-1p=V 1p=Adj 0.666667 1 3
+-2p=Ving -1p=Adv 0.666667 3 7
+1p=Adv 2p=Det 0.666667 2 5
+1p=Ns 2p=Adv 0.666667 2 5
+-2w=with -1p=Adv 0.666667 1 3
+purposes 0.666667 1 3
+produce 0.666667 1 3
+-1w=any 0.666667 2 5
+ideal 0.666667 1 3
+c 0.666667 1 3
+-2p=Prep -1p=V 0.666667 1 3
+1 0.666667 3 1
+available 0.666667 1 3
+1p=Pro 2p=V 0.666667 3 1
+although 0.666667 1 3
+10 0.666667 3 1
+increased 0.666667 1 3
+local 0.666667 1 3
+according 0.666667 1 3
+pay 0.666667 1 3
+out 0.666667 1 3
+-1p=V 1p=Ns 0.666667 1 3
+body 0.666667 1 3
+-2w=a -1w=small 0.666667 1 3
+1p=V 0.666667 1 3
+around 0.666667 1 3
+four 0.666667 1 3
+1w=you 0.666667 3 1
+-2p=Conj -1p=Pro 0.666667 1 3
+does 0.666667 3 1
+make 0.666667 1 3
+-2p=Adj -1w=the 0.666667 13 27
+all 0.666667 3 7
+1p=Conj 2p=Pro 0.666667 1 3
+before 0.666667 2 5
+1p=Adv 2w=the 0.666667 2 5
+against 0.666667 2 5
+1p=Prep 2w=such 0.666667 5 2
+-2w=an -1p=Ns 0.666667 1 3
+given 0.666667 3 1
+-2p=Det -1p=Vpp 0.666667 3 7
+tax 0.666667 3 1
+may 0.666667 5 11
+-1p=Adj 1w=of 0.664 41 82
+which 0.659574 15 30
+-1p=Adj 1p=Prep 0.658915 43 84
+1p=Prep 2p=V 0.657895 12 24
+-2p=V -1p=Det 0.65625 10 20
+-2p=Pro -1p=Adv 0.652174 7 14
+-2p=Pro -1p=Det 0.65 6 12
+1w=of 2p=V 0.648649 12 23
+-2p=Adv -1w=the 0.648148 18 34
+1p=Conj 0.647059 5 10
+he 0.647059 5 10
+its 0.647059 5 10
+more 0.647059 5 10
+-2w=and -1p=Det 0.642857 4 8
+-2p=Conj -1p=Adv 0.638889 12 22
+-2p=Ving -1w=the 0.636364 3 6
+-1p=Det 1p=Pro 0.636364 6 3
+-1p=Ving 0.636364 3 6
+-1p=Vpp 1w=of 0.636364 3 6
+-1p=Vpp 1p=Prep 0.636364 3 6
+-1p=Vpt 0.636364 3 6
+1p=Adj 2p=Adv 0.636364 3 6
+has 0.636364 7 13
+if 0.636364 3 6
+it 0.636364 11 20
+-2p=Det -1p=Ving 0.636364 3 6
+-1p=Ving 1p=Prep 0.636364 3 6
+-2p=Det -1p=Vpt 0.636364 3 6
+-1w=the 0.635135 53 93
+-2p=V -1w=the 0.633333 10 18
+-2p=Conj -1w=the 0.633333 10 18
+be 0.632653 17 30
+total 0.631579 6 11
+1p=Prep 2w=the 0.62963 9 16
+was 0.628572 12 21
+-2p=Vs -1p=Det 0.625 2 4
+-2p=End -1w=the 0.625 5 9
+very 0.625 2 4
+-2w=in -1p=Det 0.625 5 9
+-1w=any 1p=Prep 0.625 2 4
+-1w=this 0.625 2 4
+general 0.625 2 4
+-1w=any 1w=of 0.625 2 4
+1p=Adj 0.625 8 14
+will 0.625 5 9
+-1p=Adj 1w=. 0.625 2 4
+use 0.625 2 4
+-1w=the 1p=Conj 0.625 4 2
+-2p=Prep -1w=any 0.625 2 4
+each 0.625 5 9
+-2p=V -1p=Adv 0.625 11 19
+-2p=Conj -1p=Adj 0.625 2 4
+-2p=Adv -1p=Adv 0.623529 31 52
+-1w=total 0.615385 4 7
+-1p=Adv 1p=Adv 0.615385 7 4
+-2p=Det -1w=total 0.615385 4 7
+you 0.615385 4 7
+1p=Adv 2p=Adv 0.615385 4 7
+-2w=the -1w=total 0.615385 4 7
+-2p=Adv -1w=total 0.615385 4 7
+1p=Prep 2p=Pro 0.612903 11 18
+-2p=End -1p=Adv 0.611111 6 10
+by 0.609375 24 38
+-2p=Prep -1w=the 0.607843 19 30
+1p=Prep 2p=Det 0.607143 10 16
+1w=of 2p=Pro 0.607143 10 16
+cases 0.6 1 2
+1p=Conj 2p=Adv 0.6 1 2
+-1p=Ving 1w=of 0.6 3 5
+after 0.6 2 1
+-2p=Ns -1p=Ving 0.6 2 1
+-2p=Det -1w=equal 0.6 1 2
+1w=and 0.6 3 5
+hogs 0.6 1 2
+1w=to 0.6 2 1
+-2p=Prep -1w=this 0.6 1 2
+1p=Conj 2p=Np 0.6 1 2
+-1p=Ns 1p=Vpt 0.6 2 1
+hand 0.6 1 2
+-2w=but -1p=Adv 0.6 1 2
+than 0.6 7 11
+terms 0.6 1 2
+1p=Ns 2p=Vpt 0.6 2 1
+-1w=equal 1p=Prep 0.6 1 2
+-1p=V 1w=. 0.6 1 2
+nature 0.6 2 1
+1w=in 0.6 2 1
+-1w=adequate 1w=of 0.6 1 2
+about 0.6 2 1
+individual 0.6 1 2
+beyond 0.6 1 2
+needed 0.6 1 2
+interest 0.6 1 2
+interested 0.6 1 2
+supply 0.6 2 1
+-2w=with -1w=the 0.6 1 2
+sum 0.6 2 1
+adequate 0.6 1 2
+-1p=Ns 1p=Vpp 0.6 2 1
+-2p=Prep -1p=Ving 0.6 2 1
+-2p=Adv -1w=any 0.6 2 1
+-2w=an -1w=adequate 0.6 1 2
+period 0.6 1 2
+-1p=Det 1p=Ns 0.6 8 5
+certain 0.6 3 5
+-2w=an -1p=V 0.6 1 2
+-1p=Adv 1p=V 0.6 1 2
+kept 0.6 1 2
+kind 0.6 2 1
+reduction 0.6 1 2
+-2p=Det -1w=adequate 0.6 1 2
+spent 0.6 2 1
+-1p=Vpt 1p=Prep 0.6 3 5
+size 0.6 2 1
+based 0.6 1 2
+-1p=Det 1w=and 0.6 2 1
+3 0.6 1 2
+commission 0.6 2 1
+-1w=the 1w=and 0.6 2 1
+-1w=equal 0.6 1 2
+see 0.6 2 1
+check 0.6 1 2
+poetry 0.6 2 1
+-2w=to -1p=Det 0.6 3 5
+required 0.6 3 5
+average 0.6 2 1
+children 0.6 1 2
+-2p=Adv -1w=small 0.6 2 1
+-1w=equal 1w=of 0.6 1 2
+secretary 0.6 1 2
+down 0.6 1 2
+dictionary 0.6 2 1
+company 0.6 2 1
+due 0.6 2 1
+comparison 0.6 1 2
+family 0.6 1 2
+factors 0.6 1 2
+-2w=an -1w=equal 0.6 1 2
+making 0.6 1 2
+exceed 0.6 2 1
+example 0.6 1 2
+-1w=adequate 1p=Prep 0.6 1 2
+data 0.6 2 1
+-1p=Adj 1p=V 0.6 1 2
+me 0.6 1 2
+means 0.6 1 2
+-2w=a -1p=Ving 0.6 2 1
+-1p=Vpt 1w=of 0.6 3 5
+yet 0.6 1 2
+-1w=adequate 0.6 1 2
+-2p=V -1p=Adj 0.6 1 2
+workers 0.6 1 2
+products 0.6 1 2
+-1w=same 0.583333 6 4
+some 0.583333 4 6
+-1w=the 1p=Ns 0.583333 6 4
+used 0.583333 4 6
+-1p=Pro 1w=of 0.583333 9 13
+-2p=Ns -1p=Pro 0.583333 4 6
+-2p=Adv -1w=same 0.583333 6 4
+-2p=Np -1p=Det 0.583333 4 6
+-2p=Prep -1p=Pro 0.578947 7 10
+made 0.578947 10 7
+1w=of 2w=the 0.578947 7 10
+less 0.571429 3 2
+-1p=Pro 0.571429 14 19
+-2p=Det -1w=small 0.571429 2 3
+depends 0.571429 2 3
+1p=Conj 2p=Ns 0.571429 2 3
+-2p=Adj -1p=Pro 0.571429 2 3
+1p=Adj 2p=Ns 0.571429 3 2
+-1p=V 1p=Adv 0.571429 2 3
+therefore 0.571429 2 3
+method 0.571429 2 3
+-2p=Vs -1w=the 0.571429 2 3
+-2w=of -1w=the 0.571429 2 3
+still 0.571429 2 3
+-2p=Vs -1p=Adv 0.571429 2 3
+1p=Adj 2p=Adj 0.571429 3 2
+1p=Adv 0.565217 9 12
+-2p=Pro -1w=the 0.5625 6 8
+1p=Pro 0.5625 6 8
+-1p=Pro 1p=Prep 0.56 10 13
+how 0.555556 4 3
+-1p=Adv 1w=and 0.555556 3 4
+-1w=small 1w=of 0.555556 3 4
+result 0.555556 3 4
+-2w=to -1p=Adv 0.555556 3 4
+increase 0.555556 3 4
+-2w=by -1w=the 0.555556 3 4
+two 0.555556 3 4
+-2p=Ns -1w=the 0.555556 23 29
+-1w=the 1p=Adv 0.555556 4 3
+-2w=to -1w=the 0.555556 3 4
+-1w=small 1p=Prep 0.555556 3 4
+-1w=small 0.555556 3 4
+1w=of 2p=Det 0.55 8 10
+-1p=Adv 1p=Ns 0.55 8 10
+such 0.55 8 10
+-2w=the -1p=Adv 0.55 8 10
+-2w=and -1p=Adv 0.545455 4 5
+-2p=Det -1w=same 0.545455 5 4
+would 0.545455 4 5
+; 0.545455 4 5
+-2w=by -1p=Adv 0.545455 4 5
+-2w=and -1w=the 0.545455 4 5
+-2w=the -1p=Pro 0.545455 5 4
+-2p=Punc -1w=the 0.545455 4 5
+-2w=the -1w=same 0.545455 5 4
+-2w=, -1w=the 0.545455 4 5
+-2w=, -1p=Adv 0.545455 4 5
+-2p=Punc -1p=Adv 0.545455 4 5
+-1w=the 1p=Adj 0.545455 5 4
+-1p=Adv 1p=Pro 0.545455 5 4
+-2w=in -1w=the 0.538462 5 6
+-1p=Adv 1p=Adj 0.538462 6 5
+-2w=in -1p=Adv 0.538462 5 6
+no 0.538462 5 6
+1p=Prep 2p=Ving 0.533333 7 6
+same 0.529412 8 7
+-2p=Det -1p=Pro 0.529412 8 7
+-2w=the -1p=Adj 0.527273 25 28
+-2p=Adv -1p=Adj 0.527027 34 38
+-2p=Adv -1p=Pro 0.526316 9 8
+1p=Prep 2p=Ns 0.508929 54 56
+-1w=that 0.5 1 1
+1p=Det 2p=Ns 0.5 1 1
+do 0.5 4 4
+almost 0.5 1 1
+-1w=sizable 0.5 1 1
+above 0.5 2 2
+particular 0.5 1 1
+able 0.5 1 1
+1p=Conj 2w=which 0.5 1 1
+1w=to 2p=Adv 0.5 1 1
+-2w=an -1w=increased 0.5 1 1
+-2p=Conj -1w=any 0.5 1 1
+-2p=Det -1w=certain 0.5 3 3
+international 0.5 1 1
+9 0.5 2 2
+phenomenon 0.5 1 1
+8 0.5 1 1
+pieces 0.5 1 1
+being 0.5 4 4
+1p=Md 2p=V 0.5 1 1
+-2w=divide -1w=the 0.5 1 1
+poems 0.5 1 1
+between 0.5 2 2
+french 0.5 1 1
+-2w=minimize -1p=Det 0.5 1 1
+necessary 0.5 2 2
+-1w=certain 1w=of 0.5 3 3
+-1p=Adj 1w=to 0.5 1 1
+indication 0.5 1 1
+-2w=an -1p=Vpp 0.5 1 1
+business 0.5 2 2
+-2p=Adj -1w=any 0.5 1 1
+says 0.5 1 1
+sba 0.5 1 1
+1p=Pro 2p=Vpt 0.5 1 1
+communication 0.5 1 1
+different 0.5 1 1
+1p=Md 0.5 1 1
+achieved 0.5 1 1
+directly 0.5 1 1
+-2w=is -1w=the 0.5 1 1
+huge 0.5 1 1
+-2w=through -1p=Det 0.5 1 1
+1w=and 2p=Adv 0.5 1 1
+-2p=Is -1p=Adv 0.5 1 1
+-1p=Np 0.5 2 2
+actives 0.5 1 1
+1w=in 2p=Adj 0.5 1 1
+-1p=Md 1p=Adv 0.5 1 1
+1p=Adv 2p=V 0.5 1 1
+-1p=Adv 1p=Conj 0.5 5 5
+however 0.5 2 2
+shift 0.5 1 1
+dr. 0.5 1 1
+-2w=by -1p=Pro 0.5 1 1
+should 0.5 1 1
+him 0.5 2 2
+-1p=Det 1p=Adv 0.5 5 5
+-2w=divide -1p=Det 0.5 1 1
+her 0.5 1 1
+preceding 0.5 1 1
+distribution 0.5 1 1
+sizable 0.5 1 1
+-1w=fair 0.5 1 1
+religious 0.5 1 1
+-2p=Adv -1w=large 0.5 2 2
+concept 0.5 1 1
+-2p=Det -1w=fair 0.5 1 1
+-1p=Adv 1w=to 0.5 1 1
+during 0.5 1 1
+-2w=a -1p=Pro 0.5 3 3
+1w=in 2p=Adv 0.5 1 1
+1w=and 2p=Np 0.5 1 1
+-1p=Pro 1p=Ns 0.5 1 1
+like 0.5 1 1
+1p=Pro 2p=Was 0.5 1 1
+reference 0.5 1 1
+-2p=Ns -1w=certain 0.5 3 3
+-1w=increased 1p=Prep 0.5 1 1
+fair 0.5 1 1
+-1p=Adv 1p=Md 0.5 1 1
+standard 0.5 1 1
+-2w=a -1p=V 0.5 1 1
+-2p=Pro -1p=Md 0.5 1 1
+1w=of 2w=which 0.5 1 1
+line 0.5 1 1
+store 0.5 1 1
+-2w=both -1p=Adv 0.5 1 1
+-1p=Md 0.5 1 1
+study 0.5 1 1
+1p=Adj 2p=Vpp 0.5 1 1
+-- 0.5 5 5
+consumer 0.5 1 1
+looked 0.5 1 1
+1p=Ns 2p=Np 0.5 2 2
+-1p=Np 1p=Prep 0.5 2 2
+adjusted 0.5 1 1
+-2p=End -1p=Adj 0.5 1 1
+1p=Pro 2p=Vpp 0.5 1 1
+-1w=sufficient 0.5 1 1
+-2w=a -1w=sufficient 0.5 1 1
+artery 0.5 1 1
+-1w=fair 1w=of 0.5 1 1
+1p=Adv 2p=Adj 0.5 3 3
+1w=the 0.5 1 1
+-2p=Is -1w=the 0.5 1 1
+1p=Adj 2p=Conj 0.5 1 1
+1w=of 2w=french 0.5 1 1
+fabrics 0.5 1 1
+-1w=fair 1p=Prep 0.5 1 1
+-1p=Np 1w=of 0.5 2 2
+extent 0.5 1 1
+-1w=same 1w=of 0.5 4 4
+1p=Md 2w=be 0.5 1 1
+-2w=by -1p=Adj 0.5 1 1
+1p=Det 2p=V 0.5 1 1
+-2w=no -1p=Adj 0.5 1 1
+-2p=Ns -1w=sufficient 0.5 1 1
+-2p=Prep -1p=Conj 0.5 1 1
+church 0.5 1 1
+1w=the 2p=Ns 0.5 1 1
+area 0.5 1 1
+-1p=Det 1p=Conj 0.5 4 4
+continuous 0.5 1 1
+1p=Pro 2p=Ns 0.5 3 3
+1p=Prep 2w=french 0.5 1 1
+-1p=Det 1p=Adj 0.5 5 5
+thorough 0.5 1 1
+-2p=Ns -1w=fair 0.5 1 1
+-2p=Prep -1w=fair 0.5 1 1
+corn 0.5 1 1
+manner 0.5 1 1
+1w=to 2w=the 0.5 1 1
+material 0.5 2 2
+appropriate 0.5 1 1
+expected 0.5 1 1
+-2w=by -1w=any 0.5 1 1
+accumulation 0.5 1 1
+-1w=increased 1w=of 0.5 1 1
+-2p=Prep -1w=certain 0.5 3 3
+operation 0.5 1 1
+-2w=minimize -1p=Adv 0.5 1 1
+-2p=Ns -1p=V 0.5 2 2
+turn 0.5 1 1
+1w=of 2p=Ns 0.5 54 54
+-2w=is -1p=Adv 0.5 1 1
+-2w=a -1w=fair 0.5 1 1
+public 0.5 1 1
+appears 0.5 1 1
+-2w=a -1w=certain 0.5 3 3
+-2p=Prep -1w=that 0.5 1 1
+-1w=certain 1p=Prep 0.5 3 3
+1w=and 2p=Ns 0.5 2 2
+-2p=Prep -1p=Np 0.5 1 1
+1p=Prep 2w=which 0.5 2 2
+might 0.5 3 3
+provide 0.5 1 1
+1p=Adv 2p=Ns 0.5 1 1
+could 0.5 3 3
+-2w=an -1p=Vpt 0.5 1 1
+minimize 0.5 1 1
+view 0.5 1 1
+-2p=Ns -1w=any 0.5 1 1
+war 0.5 1 1
+minutes 0.5 1 1
+proposed 0.5 1 1
+-1p=Pro 1p=V 0.5 1 1
+1w=of 2p=Ving 0.5 6 6
+-2w=divide -1p=Adv 0.5 1 1
+well 0.5 1 1
+-2p=Prep -1w=sufficient 0.5 1 1
+what 0.5 1 1
+-2w=from -1p=Adv 0.5 1 1
+enterprises 0.5 1 1
+-2w=minimize -1w=the 0.5 1 1
+-1w=certain 0.5 3 3
+claim 0.5 1 1
+enough 0.5 1 1
+-1w=same 1p=Prep 0.5 4 4
+analytic 0.5 1 1
+probably 0.5 2 2
+1w=the 2p=V 0.5 1 1
+1w=to 2p=Det 0.5 1 1
+-2w=in -1p=Adj 0.5 1 1
+1p=Det 0.5 1 1
+among 0.5 1 1
+-2p=Det -1w=sufficient 0.5 1 1
+-2p=Det -1w=increased 0.5 1 1
+-2p=Det -1w=sizable 0.5 1 1
+-2p=Pro -1p=Pro 0.5 1 1
+-1w=increased 0.5 1 1
+-2p=Np -1w=the 0.5 4 4
+-1w=this 1p=V 0.5 1 1
+full 0.5 1 1
+1p=Ns 2p=Vpp 0.5 2 2
+young 0.5 1 1

@@ -33,7 +33,7 @@ while True:
 	for i in range(min(10, len(sorted_x))):
 		print sorted_x[i][0][0] + '\t' + str(sorted_x[i][1]/ normalization) + '\t',
 	print 
-	# print "TIME TAKEN: " + str(end - start)
+	print "TIME TAKEN: " + str(end - start)
 	# whole_list = {}
 	# value = sorted_x[0][1]
 	# for i in range(len(sorted_x)):

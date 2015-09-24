@@ -1,0 +1,2738 @@
+-2p=Ns -1p=Prep 0.99359 154 0
+-2p=V -1p=Prep 0.990909 108 0
+-1p=Prep 0.989583 284 2
+-1w=of 0.986486 72 0
+-2p=Adj -1p=Prep 0.985714 68 0
+-1p=Prep 1p=Ns 0.984848 194 2
+1p=Vs 0.983871 60 0
+-1p=Prep 1p=V 0.983871 121 1
+-1w=in 0.983871 60 0
+-2p=Ns -1w=of 0.981818 53 0
+-1w=of 1p=Ns 0.980769 50 0
+-1p=Prep 1p=Np 0.98 48 0
+-1w=in 1p=Ns 0.976744 41 0
+-1p=V 1p=Np 0.97619 40 0
+-1p=Vpt 0.974359 37 0
+-2p=Adv -1p=Prep 0.973684 36 0
+-2p=V -1w=of 0.972973 35 0
+-2p=Pro -1p=Prep 0.972222 34 0
+-2p=Np -1p=Prep 0.971429 33 0
+-1p=Ns 1p=Vs 0.971429 33 0
+-2p=Md -1p=V 0.970588 32 0
+-1p=Adj 1p=Np 0.970588 32 0
+1p=V 2p=Np 0.970588 32 0
+-1w=in 1p=V 0.96875 30 0
+-1w=of 1p=V 0.96875 30 0
+-1p=Prep 1p=Adj 0.96875 92 2
+-1w=to 0.96875 30 0
+1p=V 2p=Ns 0.968085 90 2
+1p=Adj 2p=Np 0.967742 29 0
+-2w=to -1p=Ns 0.967742 29 0
+own 0.967742 29 0
+1p=Np 0.96748 118 3
+of 0.967442 207 6
+is 0.967391 88 2
+in 0.965909 169 5
+-1p=Np 1p=Ns 0.965517 27 0
+-1p=Prep 1p=Vs 0.965517 27 0
+1p=Ns 2w=. 0.964286 53 1
+-1p=Vpt 1p=Ns 0.964286 26 0
+1p=Np 2p=Prep 0.964286 26 0
+-2p=Ns -1w=in 0.964286 26 0
+-2p=Md -1p=Ns 0.962963 25 0
+make 0.962963 25 0
+-1w=for 0.962963 25 0
+-2p=Vpp -1p=Prep 0.962963 25 0
+-2p=Adj -1w=of 0.962963 25 0
+1w=own 0.961538 24 0
+-2w=you -1p=Ns 0.961538 24 0
+which 0.961538 24 0
+1p=Ns 2p=Np 0.960784 48 1
+1p=Ns 2p=Ns 0.960452 169 6
+-1w=of 1p=Adj 0.958333 22 0
+-2p=Vpt -1p=Prep 0.958333 22 0
+-2p=Punc -1p=V 0.958333 22 0
+-1p=Adv 1p=Vs 0.958333 22 0
+1p=Np 2p=Conj 0.958333 22 0
+1p=V 0.957895 272 11
+1p=Vs 2p=Adv 0.956522 21 0
+-1p=V 1p=Vs 0.956522 21 0
+-1w=in 1p=Adj 0.956522 21 0
+out 0.956522 21 0
+-1p=Adj 1p=Vs 0.956522 21 0
+-1w=with 0.954545 20 0
+-1w=for 1p=Ns 0.954545 20 0
+1p=Vs 2p=Punc 0.954545 20 0
+-2p=End -1p=V 0.954545 20 0
+-2p=V -1w=in 0.954545 20 0
+were 0.952381 19 0
+1p=Np 2p=Punc 0.952381 39 1
+1p=Ns 2p=Vs 0.952381 19 0
+-1p=Prep 1p=Pro 0.952381 19 0
+-1w=to 1p=Ns 0.952381 19 0
+would 0.952381 19 0
+1p=Np 2p=Ns 0.951219 38 1
+1p=Vs 2p=Prep 0.95 18 0
+-1p=Vpp 0.95 37 1
+before 0.95 18 0
+-2p=Ns -1w=to 0.95 18 0
+house 0.95 18 0
+we 0.947368 17 0
+-2w=to -1p=V 0.947368 35 1
+1p=V 2w=. 0.947368 35 1
+-2p=Vs -1p=Prep 0.947368 17 0
+1p=Vs 2p=Adj 0.947368 17 0
+1p=Ns 2p=Is 0.947368 17 0
+had 0.947368 17 0
+has 0.947368 17 0
+1p=Ns 2p=V 0.945946 69 3
+1p=V 2p=Punc 0.944954 102 5
+1p=Ns 2w=is 0.944444 16 0
+-2p=Ving -1p=Prep 0.944444 16 0
+-1w=to 1p=V 0.944444 16 0
+-1p=Prep 1w=own 0.944444 16 0
+1p=Vs 2p=Ns 0.944444 16 0
+1p=Adj 2p=Ns 0.943925 100 5
+-1p=Np 0.942857 32 1
+1p=V 2p=V 0.942857 32 1
+1w=own 2p=Ns 0.941176 15 0
+-1p=Is 0.941176 15 0
+are 0.941176 47 2
+-1w=of 1p=Np 0.941176 15 0
+at 0.941176 31 1
+-2p=V -1w=to 0.941176 15 0
+have 0.941176 63 3
+-1w=on 0.941176 15 0
+-2w=you -1p=V 0.941176 15 0
+1p=Ns 2p=Punc 0.940828 158 9
+your 0.940678 110 6
+-1p=Adj 1p=V 0.939394 61 3
+-2p=Adv -1p=V 0.938461 60 3
+-1p=Adv 1p=V 0.938272 75 4
+the 0.938224 242 15
+any 0.9375 14 0
+keep 0.9375 14 0
+life 0.9375 14 0
+see 0.9375 14 0
+-2p=Vpp -1p=Adj 0.9375 14 0
+will 0.9375 59 3
+1p=Np 2p=Adv 0.9375 29 1
+1p=Ns 2p=Md 0.9375 14 0
+all 0.9375 29 1
+1p=Ns 2p=Conj 0.936508 58 3
+-1p=Ns 1p=Np 0.936508 58 3
+-1p=Adj 1p=Ns 0.933962 98 6
+-1p=Vpt 1p=V 0.933333 13 0
+1p=V 2w=is 0.933333 13 0
+close 0.933333 13 0
+-1p=Np 1p=V 0.933333 13 0
+way 0.933333 13 0
+other 0.933333 13 0
+1p=V 2p=Is 0.933333 13 0
+-2p=Np -1w=of 0.933333 13 0
+1w=house 0.933333 13 0
+1p=Ns 2w=in 0.933333 13 0
+could 0.933333 13 0
+-2p=Vpt -1p=Adj 0.933333 13 0
+there 0.933333 13 0
+1p=Adj 2p=V 0.931818 40 2
+can 0.931818 40 2
+-1p=V 1p=V 0.931035 80 5
+-1p=V 1p=Ns 0.930556 133 9
+1p=Ns 0.928709 481 36
+-1p=Ns 1w=own 0.928571 12 0
+-2p=Ns -1w=on 0.928571 12 0
+1p=Vs 2w=, 0.928571 12 0
+-2w=, -1p=V 0.928571 12 0
+-1p=Vpp 1p=Ns 0.928571 25 1
+-2p=Ns -1p=Vpt 0.928571 12 0
+1p=Ns 2w=of 0.928571 12 0
+1p=Ns 2w=, 0.928571 51 3
+pool 0.928571 12 0
+-1p=Has 0.928571 12 0
+1p=Ving 2p=V 0.928571 12 0
+-2p=Ns -1w=for 0.928571 12 0
+-2p=Np -1p=Adj 0.928571 12 0
+for 0.927273 101 7
+-1p=Ns 1p=V 0.926829 113 8
+1p=Ns 2w=and 0.925926 24 1
+1p=Np 2p=Adj 0.925926 24 1
+from 0.925926 24 1
+1p=V 2p=Adj 0.925 36 2
+-2p=Adj -1w=in 0.923077 11 0
+pay 0.923077 11 0
+-1w=with 1p=Ns 0.923077 11 0
+only 0.923077 11 0
+her 0.923077 11 0
+company 0.923077 11 0
+-1p=Vpp 1p=V 0.923077 11 0
+1p=Np 2w=. 0.923077 11 0
+-2p=Prep -1p=Prep 0.923077 11 0
+-1p=Vpp 1p=Np 0.923077 11 0
+-1p=Vpt 1p=Np 0.923077 11 0
+-2p=Vpp -1w=in 0.923077 11 0
+through 0.923077 11 0
+-1p=Has 1p=Ns 0.923077 11 0
+-2p=Prep -1p=Ving 0.923077 11 0
+return 0.923077 11 0
+well 0.923077 11 0
+program 0.923077 11 0
+-2w=`` -1p=Ns 0.923077 11 0
+-2p=Adv -1w=of 0.923077 11 0
+-1p=V 0.921951 188 15
+-2p=V -1p=Adj 0.921569 46 3
+1p=V 2p=Prep 0.92 45 3
+as 0.918919 33 2
+and 0.918033 223 19
+to 0.918033 223 19
+you 0.917603 244 21
+name 0.916667 10 0
+back 0.916667 10 0
+1w=return 0.916667 10 0
+-2p=Ns -1p=Ving 0.916667 10 0
+-1w=in 1p=Np 0.916667 10 0
+been 0.916667 10 0
+1p=Vs 2p=Conj 0.916667 10 0
+-2p=Vpt -1w=in 0.916667 10 0
+-1p=Prep 1p=Adv 0.916667 21 1
+-2p=Ving -1p=Adv 0.916667 10 0
+number 0.916667 10 0
+-1p=Adj 1p=Pro 0.916667 10 0
+1p=Np 2w=and 0.916667 10 0
+first 0.916667 10 0
+-1w=for 1p=V 0.916667 10 0
+-2p=Vpp -1p=Adv 0.916667 21 1
+-1p=Is 1p=Ns 0.916667 10 0
+-1w=on 1p=Ns 0.916667 10 0
+day 0.916667 10 0
+-1p=Adj 0.916667 153 13
+should 0.916667 10 0
+must 0.916667 10 0
+-2p=Ns -1w=with 0.916667 10 0
+use 0.916667 10 0
+-2p=Pro -1w=of 0.916667 10 0
+-2p=Np -1w=in 0.916667 10 0
+-1p=Adv 1p=Np 0.914286 31 2
+1p=V 2p=Conj 0.914286 31 2
+this 0.914286 31 2
+! 0.913043 20 1
+time 0.913043 20 1
+be 0.910448 60 5
+-2p=Adv -1p=Vpp 0.909091 9 0
+district 0.909091 9 0
+1p=V 2w=in 0.909091 9 0
+-2p=Adv -1p=Vpt 0.909091 9 0
+1p=V 2p=Vpp 0.909091 9 0
+: 0.909091 19 1
+; 0.909091 9 0
+take 0.909091 19 1
+1p=Adj 2p=Md 0.909091 9 0
+1p=Poss 0.909091 9 0
+-1p=Adv 1w=own 0.909091 9 0
+1p=Ns 2w=? 0.909091 9 0
+hands 0.909091 9 0
+-2p=Adj -1p=Adv 0.909091 39 3
+1p=Ns 2p=Ving 0.909091 9 0
+-2p=Adj -1p=Adj 0.909091 29 2
+insurance 0.909091 9 0
+put 0.909091 9 0
+even 0.909091 9 0
+heart 0.909091 9 0
+you've 0.909091 9 0
+-1w=with 1p=Adj 0.909091 9 0
+-1w=in 1p=Vs 0.909091 9 0
+-1w=is 0.909091 9 0
+vacation 0.909091 9 0
+1p=Np 2w=, 0.909091 19 1
+no 0.909091 9 0
+-1w=to 1p=Adj 0.909091 9 0
+1p=V 2w=, 0.90625 28 2
+. 0.906061 298 30
+him 0.904762 18 1
+1p=V 2p=Adv 0.904762 37 3
+-2p=Vpt -1p=Adv 0.904762 18 1
+-2p=Prep -1p=V 0.904762 37 3
+1p=Np 2p=V 0.904762 18 1
+-2p=V -1p=Adv 0.90411 65 6
+-1p=Ns 1p=Ns 0.903226 195 20
+-1p=Pro+Is 1p=Ns 0.9 8 0
+-2p=Adv -1p=Adv 0.9 26 2
+-2p=Ving -1p=Adj 0.9 8 0
+-2p=V -1p=Np 0.9 8 0
+-1p=Adj 1w=own 0.9 8 0
+1w=going 2p=Adv 0.9 0 8
+-2p=Pro -1p=Vpt 0.9 8 0
+1w=going 0.9 0 8
+1p=V 2p=Pro 0.9 8 0
+1p=V 2w=? 0.9 8 0
+plan 0.9 8 0
+leg 0.9 8 0
+-2p=Conj -1p=Prep 0.9 8 0
+( 0.9 8 0
+-2w=`` -1p=V 0.9 8 0
+-2p=Adj -1p=Is 0.9 8 0
+upon 0.9 8 0
+-2w=you -1p=Conj 0.9 8 0
+-2p=V -1w=on 0.9 8 0
+-2p=Adj -1w=to 0.9 8 0
+a 0.9 134 14
+give 0.9 8 0
+-1w=for 1p=Adj 0.9 8 0
+marketing 0.9 8 0
+-1p=Pro+Is 0.9 8 0
+1p=Adj 2p=Vs 0.9 8 0
+-1w=have 0.9 8 0
+1p=V 2w='' 0.9 26 2
+-1w=when 1p=Adj 0.9 0 8
+1w=going 2p=Prep 0.9 0 8
+-1w=is 1p=Ns 0.9 8 0
+-2p=Conj -1p=Ving 0.9 8 0
+1p=V 2p=Vs 0.9 8 0
+-1p=Md 0.9 8 0
+-1w=on 1p=V 0.9 8 0
+-1p=Prep 1w=house 0.9 8 0
+include 0.9 8 0
+tax 0.9 8 0
+-2p=Adv -1p=Adj 0.9 26 2
+-2p=Adv -1p=Ns 0.898551 61 6
+-2p=Punc -1p=Ns 0.897436 34 3
+or 0.896552 51 5
+by 0.896552 25 2
+on 0.895522 59 6
+1p=Ns 2p=Pro 0.894737 16 1
+-2p=Np -1p=Ns 0.894737 16 1
+-2p=Ns -1p=Np 0.894737 16 1
+an 0.892857 24 2
+me 0.892857 24 2
+that 0.892857 74 8
+do 0.891892 32 3
+along 0.888889 7 0
+does 0.888889 7 0
+was 0.888889 23 2
+1p=Ving 2w=to 0.888889 0 7
+-1p=Prep 1p=Ving 0.888889 15 1
+-2p=Adj -1p=Np 0.888889 7 0
+-1w=have 1p=Ns 0.888889 7 0
+1p=V 2p=Vpt 0.888889 7 0
+long 0.888889 7 0
+-2p=Pro -1w=and 0.888889 7 0
+employees 0.888889 7 0
+1w=heart 0.888889 7 0
+-1w=and 1p=Ns 0.888889 15 1
+area 0.888889 7 0
+-1p=Np 1p=Adj 0.888889 7 0
+head 0.888889 7 0
+living 0.888889 7 0
+-1w=take 0.888889 7 0
+last 0.888889 7 0
+1p=Poss 2p=Ns 0.888889 7 0
+country 0.888889 7 0
+-1p=Md 1p=Ns 0.888889 7 0
+problems 0.888889 7 0
+cost 0.888889 7 0
+-1w=about 0.888889 7 0
+-1p=Has 1p=V 0.888889 7 0
+car 0.888889 7 0
+such 0.888889 7 0
+made 0.888889 7 0
+1w=going 2w=to 0.888889 0 7
+-2p=Pro+Md -1p=V 0.888889 7 0
+every 0.888889 7 0
+-2w=don't -1p=V 0.888889 7 0
+1p=Ns 2p=Has 0.888889 7 0
+son 0.888889 7 0
+1p=V 2p=Md 0.888889 7 0
+few 0.888889 7 0
+family 0.888889 7 0
+-2p=Vs -1p=Adj 0.888889 7 0
+1w=hands 0.888889 7 0
+-1p=Vpt 1p=Adj 0.888889 7 0
+1p=Vs 2p=V 0.888889 7 0
+1p=Np 2w='' 0.888889 7 0
+-1w=of 1p=Vs 0.888889 7 0
+-1p=Does 0.888889 7 0
+-2w=don't -1p=Ns 0.888889 7 0
+-2w=you -1w=and 0.888889 7 0
+1p=V 2w=to 0.888889 7 0
+1p=Ns 2w='' 0.886364 38 4
+may 0.885714 30 3
+-1p=Ving 0.885714 30 3
+with 0.885246 53 6
+, 0.884515 336 43
+-2p=Ns -1p=Adj 0.883117 67 8
+-1p=Adv 1p=Ns 0.882353 119 15
+you'll 0.882353 14 1
+-2p=Np -1p=Adv 0.882353 14 1
+1p=Pro 0.882353 29 3
+let 0.882353 14 1
+-1p=Adv 0.881773 178 23
+-2p=Ns -1p=Adv 0.878788 86 11
+-1p=Ns 0.877301 285 39
+? 0.876543 70 9
+1w=name 0.875 6 0
+many 0.875 6 0
+-2w=will -1p=V 0.875 6 0
+-2w=not -1p=V 0.875 6 0
+-1w=are 0.875 6 0
+-2w=may -1p=V 0.875 6 0
+-1p=Vpp 1p=Vs 0.875 6 0
+1w=feet 0.875 6 0
+-2p=Ns -1w=when 0.875 0 6
+outside 0.875 6 0
+later 0.875 6 0
+-2p=End -1p=Np 0.875 6 0
+fact 0.875 6 0
+-1w=at 0.875 6 0
+room 0.875 6 0
+course 0.875 6 0
+big 0.875 6 0
+-2w=to -1p=Vpt 0.875 6 0
+unless 0.875 6 0
+-1p=Ving 1p=Np 0.875 6 0
+1p=Ns 2w=will 0.875 6 0
+-2p=Prep -1p=Adj 0.875 13 1
+off 0.875 6 0
+business 0.875 6 0
+1w=life 0.875 6 0
+-2w=and -1p=V 0.875 6 0
+-2p=Ns -1p=Is 0.875 6 0
+-2p=Vs -1w=in 0.875 6 0
+-1w=in 1p=Pro 0.875 6 0
+-2p=Adv -1p=Np 0.875 6 0
+-1w=in 1w=own 0.875 6 0
+-2p=Adv -1w=to 0.875 6 0
+whole 0.875 6 0
+1p=Ving 2p=Prep 0.875 1 13
+eyes 0.875 6 0
+-2p=V -1w=with 0.875 6 0
+attitude 0.875 6 0
+wife 0.875 6 0
+-2w=, -1p=Adj 0.875 6 0
+drink 0.875 6 0
+1p=Ns 2p=Vpp 0.875 13 1
+-2p=Np -1w=for 0.875 6 0
+-1w=, 1p=Ns 0.875 20 2
+visit 0.875 6 0
+-2p=Prep -1p=Vpp 0.875 6 0
+-1p=V 1p=Pro 0.875 6 0
+1w=company 0.875 6 0
+-2p=Adv -1w=in 0.875 6 0
+employee 0.875 6 0
+-1w=from 0.875 6 0
+1p=Np 2p=Pro 0.875 6 0
+-2p=Ving -1p=Ns 0.875 6 0
+year 0.875 6 0
+1w=mother 0.875 6 0
+here 0.875 6 0
+-1w=and 0.875 20 2
+-2p=Prep -1p=Vpt 0.875 6 0
+-1p=Does 1p=Ns 0.875 6 0
+much 0.875 13 1
+-1p=Punc 1p=Np 0.875 6 0
+how 0.875 20 2
+group 0.875 6 0
+-2p=Pro -1p=Vpp 0.875 6 0
+-2w=to -1p=Vpp 0.875 6 0
+-1p=Vpt 1p=Vs 0.875 6 0
+-1p=Adj 1p=Adj 0.87234 40 5
+up 0.870968 26 3
+it 0.87013 66 9
+-2p=Conj -1p=V 0.866667 12 1
+what 0.866667 38 5
+also 0.866667 12 1
+-1p=Punc 1p=V 0.866667 12 1
+-2p=Punc -1p=Prep 0.866667 12 1
+come 0.866667 12 1
+-1p=Ving 1p=V 0.866667 12 1
+-1p=Ving 1p=Ns 0.863636 18 2
+1p=Pro 2p=Ns 0.863636 18 2
+-1p=Conj 1p=V 0.861111 30 4
+director 0.857143 5 0
+add 0.857143 5 0
+-2p=Ns -1p=Vpp 0.857143 11 1
+people 0.857143 11 1
+-2w=can -1p=V 0.857143 5 0
+1w=name 2p=Punc 0.857143 5 0
+-2p=Punc -1p=Vpt 0.857143 5 0
+position 0.857143 5 0
+them 0.857143 17 2
+-2p=Ns -1w=is 0.857143 5 0
+reason 0.857143 5 0
+revenue 0.857143 5 0
+-1p=Conj 1p=Conj 0.857143 0 5
+1w=time 0.857143 5 0
+size 0.857143 5 0
+-2w=`` -1p=Prep 0.857143 5 0
+1w=house 2p=Punc 0.857143 5 0
+-1w=make 0.857143 5 0
+-2p=End -1p=Md 0.857143 5 0
+-1w=make 1p=Ns 0.857143 5 0
+-1w=if 1p=V 0.857143 5 0
+-2p=V -1w=for 0.857143 5 0
+1w=head 0.857143 5 0
+-1p=V 1w=own 0.857143 5 0
+-1w=take 1p=Ns 0.857143 5 0
+-1p=Was 0.857143 5 0
+1p=Pro 2p=Np 0.857143 5 0
+hand 0.857143 5 0
+costs 0.857143 5 0
+1w=family 0.857143 5 0
+1w=own 2p=Np 0.857143 5 0
+thought 0.857143 5 0
+very 0.857143 5 0
+gross 0.857143 5 0
+great 0.857143 5 0
+choice 0.857143 5 0
+1p=Np 2w=in 0.857143 5 0
+1p=V 2w=of 0.857143 5 0
+1w=way 0.857143 5 0
+care 0.857143 5 0
+wall 0.857143 5 0
+-1p=Adv 1w=heart 0.857143 5 0
+-2p=Np -1p=Conj 0.857143 11 1
+included 0.857143 5 0
+-1w=at 1p=Ns 0.857143 5 0
+-1w=see 0.857143 5 0
+1w=insurance 0.857143 5 0
+-2p=Adj -1w=is 0.857143 5 0
+-1w=to 1p=Np 0.857143 5 0
+internal 0.857143 5 0
+1w=vacation 0.857143 5 0
+-1w=get 0.857143 5 0
+large 0.857143 5 0
+-1w=and 1p=V 0.857143 5 0
+-2p=V -1p=Vpp 0.857143 5 0
+1w=pool 0.857143 5 0
+find 0.857143 11 1
+leave 0.857143 5 0
+-1w=does 1p=Ns 0.857143 5 0
+left 0.857143 5 0
+best 0.857143 5 0
+-1w=keep 0.857143 5 0
+-2p=Pro -1w=in 0.857143 5 0
+spend 0.857143 5 0
+face 0.857143 5 0
+-1w=put 0.857143 5 0
+because 0.857143 11 1
+machine 0.857143 5 0
+-2w=you'll -1p=V 0.857143 5 0
+1p=Ns 2p=Vpt 0.857143 11 1
+-2p=Prep -1p=Ns 0.857143 35 5
+-1w=find 0.857143 5 0
+system 0.857143 5 0
+1p=Np 2p=Np 0.857143 5 0
+-1w=was 0.857143 5 0
+-1w=of 1w=house 0.857143 5 0
+turn 0.857143 5 0
+average 0.857143 5 0
+-2p=Pro+Md -1p=Ns 0.857143 5 0
+-1w=me 0.857143 5 0
+sales 0.857143 5 0
+-2p=Adv -1p=Is 0.857143 5 0
+1p=Adj 2w=will 0.857143 5 0
+1p=Ving 2p=Ns 0.857143 17 2
+square 0.857143 5 0
+-2p=V -1p=Vpt 0.857143 5 0
+1p=Adj 2w=of 0.857143 5 0
+equipment 0.857143 5 0
+money 0.857143 5 0
+-2p=Vs -1w=of 0.857143 5 0
+-1w=on 1p=Adj 0.857143 5 0
+-2p=Punc -1p=Vpp 0.857143 5 0
+-1w=does 0.857143 5 0
+-1w=with 1p=V 0.857143 5 0
+-1p=Ns 1w=hands 0.857143 5 0
+support 0.857143 5 0
+1w=father 0.857143 5 0
+new 0.857143 5 0
+-2p=Adj -1w=for 0.857143 5 0
+once 0.857143 5 0
+-1w=all 0.857143 5 0
+-1w=in 1p=Adv 0.857143 5 0
+our 0.857143 5 0
+-1p=Ns 1w=heart 0.857143 5 0
+their 0.857143 5 0
+1p=Ns 2p=Adj 0.855263 64 10
+if 0.853333 63 10
+he 0.852941 28 4
+-2p=End -1p=Ns 0.852941 28 4
+they 0.85 16 2
+1p=Adj 2w=. 0.85 16 2
+1p=Adj 2p=Ving 0.846154 10 1
+these 0.846154 10 1
+she 0.846154 10 1
+-1w=, 1p=V 0.846154 10 1
+get 0.846154 21 3
+too 0.846154 10 1
+-2p=Vs -1p=Adv 0.846154 10 1
+things 0.846154 10 1
+into 0.846154 10 1
+place 0.846154 10 1
+1p=Adv 2p=V 0.846154 10 1
+-2p=Punc -1p=Adj 0.846154 10 1
+-1p=Adv 1p=Pro 0.846154 10 1
+more 0.846154 10 1
+1p=Adj 0.842553 197 36
+one 0.84 20 3
+-2w=, -1p=Ns 0.84 20 3
+1p=Ns 2p=Prep 0.836735 81 15
+transportation 0.833333 4 0
+fingers 0.833333 4 0
+-1w=as 0.833333 4 0
+-2w=what -1p=Ns 0.833333 4 0
+fill 0.833333 4 0
+feeling 0.833333 4 0
+-2p=Np -1p=Punc 0.833333 4 0
+enjoy 0.833333 4 0
+encouragement 0.833333 4 0
+-1p=Pro+Has 1p=V 0.833333 4 0
+-2p=Punc -1p=Ving 0.833333 4 0
+sins 0.833333 4 0
+editorial 0.833333 4 0
+down 0.833333 9 1
+dog 0.833333 4 0
+did 0.833333 4 0
+deduct 0.833333 4 0
+decide 0.833333 4 0
+-2p=Np -1w=, 0.833333 4 0
+days 0.833333 9 1
+cut 0.833333 4 0
+-2p=Vpp -1w=to 0.833333 4 0
+criticism 0.833333 4 0
+considered 0.833333 4 0
+child 0.833333 4 0
+-2p=Pro -1w=about 0.833333 4 0
+building 0.833333 4 0
+spare 0.833333 4 0
+benefits 0.833333 4 0
+1w=car 0.833333 4 0
+away 0.833333 4 0
+-1p=Prep 1w=vacation 0.833333 4 0
+-1p=Conj 1p=Vs 0.833333 4 0
+attach 0.833333 4 0
+-1w=from 1p=Ns 0.833333 4 0
+-2w=i -1p=Vpt 0.833333 4 0
+application 0.833333 4 0
+-1p=Ns 1w=way 0.833333 4 0
+another 0.833333 4 0
+1p=V 2w=and 0.833333 9 1
+american 0.833333 4 0
+aids 0.833333 4 0
+afraid 0.833333 4 0
+accept 0.833333 4 0
+) 0.833333 9 1
+stand 0.833333 4 0
+start 0.833333 4 0
+-2w=and -1p=Adj 0.833333 4 0
+you'd 0.833333 4 0
+-2p=Prep -1w=of 0.833333 4 0
+statement 0.833333 4 0
+-1p=Is 1p=V 0.833333 4 0
+1p=Np 2p=Ving 0.833333 4 0
+-2p=Pro -1w=was 0.833333 4 0
+-1p=Was 1p=Ns 0.833333 4 0
+1p=Adj 2w=is 0.833333 4 0
+took 0.833333 4 0
+-2p=Pro -1w=on 0.833333 4 0
+-2p=Adj -1w=about 0.833333 4 0
+strategy 0.833333 4 0
+-1p=Adv 1w=house 0.833333 4 0
+-1w=let 0.833333 4 0
+-2w=have -1p=Vpt 0.833333 4 0
+yet 0.833333 4 0
+-1p=Adj 1w=heart 0.833333 4 0
+-2p=Ns -1w=me 0.833333 4 0
+1p=Ns 2p=Was 0.833333 4 0
+-2p=Adj -1w=with 0.833333 4 0
+-1p=Prep 1w=head 0.833333 4 0
+-1w=that's 1p=Ns 0.833333 4 0
+-2w=give -1p=Pro 0.833333 4 0
+1w=country 0.833333 4 0
+-2w=, -1p=Ving 0.833333 4 0
+1p=Vs 2w=and 0.833333 4 0
+1w=house 2p=Ns 0.833333 4 0
+-2w=you -1p=Vpp 0.833333 4 0
+-2w=may -1p=Ns 0.833333 4 0
+-2p=End -1p=Vpt 0.833333 4 0
+1w=house 2p=Prep 0.833333 4 0
+understand 0.833333 4 0
+understanding 0.833333 4 0
+-1w=was 1p=Ns 0.833333 4 0
+-2p=Ns -1p=Has 0.833333 4 0
+-1p=Vs 1p=Ns 0.833333 4 0
+until 0.833333 4 0
+-2w=you'll -1p=Ns 0.833333 4 0
+-1p=Prep 1w=return 0.833333 4 0
+workshop 0.833333 4 0
+those 0.833333 9 1
+-2p=End -1p=Pro+Is 0.833333 4 0
+-1p=Pro+Has 1p=Ns 0.833333 4 0
+-1w=hold 0.833333 4 0
+-1w=of 1p=Adv 0.833333 4 0
+used 0.833333 4 0
+-1p=Prep 1w=hands 0.833333 4 0
+1p=Vs 2w='' 0.833333 4 0
+-1p=Punc 1w=return 0.833333 4 0
+1w=own 2p=Adj 0.833333 4 0
+1p=V 2p=Has 0.833333 4 0
+-2w=will -1p=Ns 0.833333 4 0
+-1w=has 0.833333 4 0
+-1p=Pro+Is 1p=V 0.833333 4 0
+-1w=of 1p=Pro 0.833333 4 0
+-2p=V -1w=me 0.833333 4 0
+-1p=Md 1p=Adj 0.833333 4 0
+-2p=Punc -1w=for 0.833333 4 0
+-2p=Has -1p=Vpt 0.833333 4 0
+1p=Ns 2w=has 0.833333 4 0
+-1p=Punc 1p=Vs 0.833333 4 0
+-1p=Adj 1w=house 0.833333 4 0
+1w=wife 0.833333 4 0
+1p=Poss 2p=Adj 0.833333 4 0
+-1w=can 0.833333 4 0
+-2p=Has -1p=Vpp 0.833333 4 0
+-1w=me 1p=V 0.833333 4 0
+-2p=Ns -1w=at 0.833333 4 0
+-2p=Conj -1p=Adj 0.833333 9 1
+-1w=, 1p=Np 0.833333 4 0
+-1w=into 1p=Ns 0.833333 4 0
+1p=Det 2p=Ns 0.833333 0 4
+-1w=when 1p=Adv 0.833333 0 4
+-2p=End -1p=Does 0.833333 4 0
+-2w=you -1p=Prep 0.833333 4 0
+1w=way 2p=Prep 0.833333 4 0
+-1w=or 0.833333 4 0
+-1w=see 1p=Ns 0.833333 4 0
+-2w=out -1p=Prep 0.833333 4 0
+1p=Ns 2w=or 0.833333 4 0
+-2w=have -1p=Vpp 0.833333 4 0
+1w=child 0.833333 4 0
+1p=Adj 2p=Det 0.833333 0 4
+-1w=me 1p=Ns 0.833333 4 0
+-1p=Ving 1p=Vs 0.833333 4 0
+-1w=about 1p=Ns 0.833333 4 0
+-1w=, 1w=return 0.833333 4 0
+1p=Adv 2p=Conj 0.833333 4 0
+-1w=get 1p=Ns 0.833333 4 0
+ways 0.833333 4 0
+-2w=can -1p=Ns 0.833333 4 0
+1p=Adv 2p=Det 0.833333 0 4
+-1w=has 1p=Ns 0.833333 4 0
+what's 0.833333 4 0
+-2p=AdjC -1p=Prep 0.833333 4 0
+1p=Det 0.833333 0 4
+-1p=Pro+Has 0.833333 4 0
+1p=Poss 2p=V 0.833333 4 0
+-1p=Adj 1w=hands 0.833333 4 0
+-2w=out -1w=of 0.833333 4 0
+-2p=End -1p=Vpp 0.833333 4 0
+1w=insurance 2p=Ns 0.833333 4 0
+-1w=into 0.833333 4 0
+windows 0.833333 4 0
+-1w=of 1w=own 0.833333 4 0
+-1p=Adv 1w=head 0.833333 4 0
+-1p=Ns 1w=pool 0.833333 4 0
+-2p=V -1w=sure 0.833333 4 0
+product 0.833333 4 0
+prayers 0.833333 4 0
+possible 0.833333 4 0
+pick 0.833333 4 0
+-1p=Adv 1w=hands 0.833333 4 0
+1w=face 0.833333 4 0
+-1w=to 1p=Ving 0.833333 4 0
+others 0.833333 4 0
+operation 0.833333 4 0
+offer 0.833333 4 0
+night 0.833333 4 0
+neither 0.833333 4 0
+-1p=Is 1p=Adj 0.833333 4 0
+neck 0.833333 4 0
+might 0.833333 9 1
+major 0.833333 4 0
+1p=Pro 2p=Punc 0.833333 4 0
+local 0.833333 4 0
+letter 0.833333 4 0
+land 0.833333 4 0
+kitchen 0.833333 4 0
+job 0.833333 4 0
+several 0.833333 4 0
+income 0.833333 4 0
+hours 0.833333 4 0
+horn 0.833333 4 0
+hold 0.833333 4 0
+-2w=and -1p=Prep 0.833333 4 0
+heat 0.833333 4 0
+1p=Adj 2p=Is 0.833333 4 0
+-2p=Pro -1p=Was 0.833333 4 0
+got 0.833333 9 1
+future 0.833333 4 0
+front 0.833333 4 0
+friends 0.833333 4 0
+free 0.833333 4 0
+form 0.833333 4 0
+-1w=have 1p=V 0.833333 4 0
+-1w=that's 0.833333 4 0
+floor 0.833333 4 0
+fire 0.833333 4 0
+finish 0.833333 4 0
+-1p=V 1p=Adj 0.830769 53 10
+-2p=V -1p=Ns 0.830508 48 9
+1p=Adj 2p=Adj 0.829268 33 6
+-2p=Pro -1p=Adv 0.826087 18 3
+-2p=V -1p=V 0.826087 18 3
+-2p=Adj -1p=Ns 0.825 32 6
+home 0.823529 13 2
+-2p=Vpp -1p=Ns 0.823529 13 2
+-1w=that 0.823529 13 2
+-2p=Ns -1p=Punc 0.821429 22 4
+don't 0.821429 22 4
+not 0.82 40 8
+its 0.818182 8 1
+want 0.818182 8 1
+-2p=Does -1p=Ns 0.818182 8 1
+-1p=Vpp 1p=Adj 0.818182 8 1
+after 0.818182 8 1
+-2p=Vs -1p=Ns 0.818182 8 1
+over 0.818182 8 1
+good 0.818182 8 1
+1p=Ns 2w=for 0.818182 8 1
+-1w=that 1p=Ns 0.818182 8 1
+-2p=End -1w=if 0.818182 8 1
+'' 0.817647 138 30
+-1p=Conj 1p=Ns 0.816327 79 17
+-1w=, 1p=Adj 0.8125 12 2
+-1p=Pro 1p=V 0.8125 12 2
+1p=Ving 2p=Adv 0.8125 2 12
+-2p=V -1p=Punc 0.8125 12 2
+-2p=Vpt -1p=Ns 0.8125 12 2
+1p=Adj 2p=Conj 0.809524 16 3
+-1p=Conj 1p=Np 0.809524 16 3
+1p=Adj 2w=, 0.809524 16 3
+-2p=Ns -1p=V 0.807692 41 9
+`` 0.807018 137 32
+-2p=Ns -1p=Ns 0.804124 77 18
+-2p=Pro -1p=Ns 0.803571 44 10
+1p=Np 2p=Is 0.8 3 0
+-2w=give -1w=me 0.8 3 0
+-2p=Vpp -1w=from 0.8 3 0
+-1w=, 1p=Det 0.8 0 3
+trespasses 0.8 3 0
+-1w=will 0.8 3 0
+-2w=included -1p=Ns 0.8 3 0
+1w=hands 2p=Punc 0.8 3 0
+-2w=close -1p=Prep 0.8 3 0
+1p=Ns 2w=life 0.8 3 0
+tried 0.8 3 0
+-2p=Pro -1p=Is 0.8 3 0
+-1p=Is 1p=Ving 0.8 3 0
+1w=management 2p=Ns 0.8 3 0
+-2w=i -1w=think 0.8 0 3
+-1w=think 0.8 0 3
+-1p=Poss 0.8 3 0
+-2p=End -1w=has 0.8 3 0
+1w=group 0.8 3 0
+-1p=V 1w=eyes 0.8 3 0
+-1p=Ving 1p=Poss 0.8 3 0
+1w=fire 2p=Punc 0.8 3 0
+-1w=has 1p=V 0.8 3 0
+-2p=End -1w=what's 0.8 3 0
+-1w=see 1p=V 0.8 3 0
+-2w=wall -1p=Prep 0.8 3 0
+-2p=Does -1p=V 0.8 7 1
+-2p=Punc -1p=Pro+Is 0.8 3 0
+years 0.8 3 0
+-1w=was 1p=Adj 0.8 3 0
+-1p=Prep 1p=Vpp 0.8 3 0
+-1w=is 1p=Adj 0.8 3 0
+1p=Vs 2p=Ving 0.8 3 0
+-2w=it -1p=Adj 0.8 3 0
+-2w=make -1p=Adj 0.8 3 0
+-2p=V -1w=into 0.8 3 0
+1w=fire 2w='' 0.8 3 0
+-2p=Adv -1w=about 0.8 3 0
+1w=leg 2p=Punc 0.8 3 0
+-2p=End -1w=does 0.8 3 0
+1p=Prep 2p=Det 0.8 0 3
+-1w=enjoy 0.8 3 0
+1p=Adv 2p=Np 0.8 7 1
+1w=eyes 2p=Adv 0.8 3 0
+1w=problems 2p=Punc 0.8 3 0
+-1w=what 1p=Ving 0.8 0 3
+1p=Adj 2w=and 0.8 7 1
+-2w=up -1p=Adv 0.8 3 0
+-2p=Np -1w=to 0.8 3 0
+1w=friends 0.8 3 0
+-2w=wall -1p=Adv 0.8 3 0
+-1p=Is 1p=Np 0.8 3 0
+-1p=Ns 1w=house 0.8 3 0
+1w=employee 0.8 3 0
+-2p=End -1p=Pro+Has 0.8 3 0
+-2w=all -1p=Prep 0.8 3 0
+-1w=because 1p=Ns 0.8 3 0
+1w=attitude 0.8 3 0
+-1w=upon 0.8 3 0
+1p=Np 2p=Md 0.8 3 0
+worth 0.8 3 0
+stomach 0.8 3 0
+1w=dog 0.8 3 0
+-1p=Prep 1w=family 0.8 3 0
+-2w=to -1p=Adj 0.8 3 0
+-1w=find 1p=Ns 0.8 3 0
+-1w=with 1p=Np 0.8 3 0
+-2w=time -1p=Prep 0.8 3 0
+-2w=it -1p=Prep 0.8 3 0
+-1p=Prep 1w=feet 0.8 3 0
+-1p=V 1w=fire 0.8 3 0
+-1w=if 1p=Ving 0.8 0 3
+-1p=Adj 1p=Poss 0.8 3 0
+-1p=Adv 1p=Poss 0.8 3 0
+1w=program 2w=? 0.8 3 0
+1w=house 2p=Adv 0.8 3 0
+1w=editorial 0.8 3 0
+1w=management 0.8 3 0
+1p=Vs 2w=in 0.8 3 0
+-2w=one -1p=Prep 0.8 3 0
+-1w=get 1p=V 0.8 3 0
+1w=neck 0.8 3 0
+1p=Adj 2w=life 0.8 3 0
+-2p=V -1w=at 0.8 3 0
+1w=hand 0.8 3 0
+-2w=what -1p=Adv 0.8 3 0
+1w=own 2p=Punc 0.8 3 0
+1w=house 2w=. 0.8 3 0
+-1p=Prep 1w=lips 0.8 3 0
+-1p=Np 1p=Np 0.8 3 0
+-2w=for -1p=Ving 0.8 3 0
+-1w=when 1p=Prep 0.8 0 3
+-1w=enjoy 1p=Ns 0.8 3 0
+-2p=Md -1p=Adj 0.8 3 0
+1p=Ns 2w=can 0.8 3 0
+stay 0.8 3 0
+1p=Ns 2w=with 0.8 3 0
+-2p=Adj -1w=are 0.8 3 0
+-2p=Ns -1w=think 0.8 0 3
+-2w=included -1p=Prep 0.8 3 0
+-1p=Ns 1w=going 0.8 0 3
+-2w=look -1p=Prep 0.8 3 0
+-1p=Conj 1w=son 0.8 3 0
+1w=cafeteria 0.8 3 0
+-2w=make -1p=Adv 0.8 3 0
+-1w=is 1p=V 0.8 3 0
+-1w=has 1w=company 0.8 3 0
+-2w=i -1p=Adj 0.8 0 3
+state 0.8 3 0
+1p=Ns 2w=was 0.8 3 0
+-2w=it -1p=Adv 0.8 3 0
+union 0.8 3 0
+unit 0.8 3 0
+-1w=take 1p=V 0.8 3 0
+-2p=Ns -1p=Was 0.8 3 0
+-1p=Conj 1w=own 0.8 3 0
+-1p=Pro+Is 1p=Adj 0.8 3 0
+-1p=Md 1p=V 0.8 3 0
+1w=company 2p=Vpp 0.8 3 0
+-2w=one -1w=of 0.8 3 0
+-1w=put 1p=V 0.8 3 0
+1p=Punc 2p=Ns 0.8 3 0
+1p=Adj 2w=the 0.8 0 3
+1w=program 2p=Punc 0.8 3 0
+1p=Prep 2p=Adv 0.8 0 3
+-2w=him -1p=Adv 0.8 3 0
+-1p=Prep 1w=face 0.8 3 0
+-1w=up 0.8 3 0
+-2p=Pro -1w=find 0.8 3 0
+-1p=V 1w=heart 0.8 3 0
+-1p=Ns 1w=eyes 0.8 3 0
+-2w=could -1p=Ns 0.8 3 0
+1p=Vs 2w=on 0.8 3 0
+-1w=because 0.8 3 0
+-1p=Prep 1p=Prep 0.8 3 0
+-2w=included -1w=in 0.8 3 0
+-1w=cut 0.8 3 0
+-1p=Ns 1w=home 0.8 3 0
+1w=sales 2p=Ns 0.8 3 0
+15 0.8 3 0
+15th 0.8 3 0
+1961 0.8 3 0
+1962 0.8 3 0
+-2p=Ving -1w=in 0.8 3 0
+1p=V 2w=or 0.8 3 0
+-2p=Ns -1w=have 0.8 3 0
+-1w=will 1p=Ns 0.8 3 0
+-1w=are 1p=Np 0.8 3 0
+1p=Np 2w=for 0.8 3 0
+academy 0.8 3 0
+-2p=End -1p=Adj 0.8 7 1
+-1w=what's 0.8 3 0
+advice 0.8 3 0
+-1p=Prep 1p=Poss 0.8 3 0
+-1w=hold 1p=Ns 0.8 3 0
+against 0.8 3 0
+age 0.8 3 0
+agent 0.8 3 0
+-1p=Pro 1p=Vs 0.8 3 0
+-2w=what -1p=Is 0.8 3 0
+-1p=Has 1w=company 0.8 3 0
+already 0.8 3 0
+-2p=V -1p=Ving 0.8 3 0
+-1w=keep 1p=Vs 0.8 3 0
+1w=program 0.8 3 0
+-2p=Ns -1w=see 0.8 3 0
+-2w=can't -1p=V 0.8 3 0
+-1p=V 1w=way 0.8 3 0
+-2w=know -1p=Adv 0.8 0 3
+1w=vacation 2p=Ns 0.8 3 0
+1w=whole 0.8 3 0
+arm 0.8 3 0
+1w=whole 2p=Ns 0.8 3 0
+-2p=Ns -1w=into 0.8 3 0
+-1p=Conj 1w=child 0.8 3 0
+-2p=Punc -1p=Adv 0.8 11 2
+-1p=Punc 1p=Det 0.8 0 3
+attractive 0.8 3 0
+available 0.8 3 0
+1p=Conj 2p=Adj 0.8 0 3
+-2p=Prep -1w=all 0.8 3 0
+-1p=Adv 1w=return 0.8 3 0
+using 0.8 3 0
+-1p=Prep 1w=friends 0.8 3 0
+bed 0.8 3 0
+1w=home 0.8 3 0
+-2w=could -1p=V 0.8 3 0
+beg 0.8 3 0
+begin 0.8 3 0
+-1w=for 1p=Adv 0.8 3 0
+-2p=Adv -1w=have 0.8 3 0
+training 0.8 3 0
+-2p=Np -1w=and 0.8 3 0
+-2w=back -1p=Prep 0.8 3 0
+1w=marketing 2p=Ns 0.8 3 0
+blood 0.8 3 0
+both 0.8 3 0
+somewhere 0.8 3 0
+boys 0.8 3 0
+bring 0.8 3 0
+1w=plant 0.8 3 0
+yard 0.8 3 0
+-2p=End -1p=Has 0.8 3 0
+cafeteria 0.8 3 0
+calling 0.8 3 0
+-2p=Punc -1w=take 0.8 3 0
+1p=Ns 2w=as 0.8 3 0
+-1w=how's 1p=Ns 0.8 3 0
+carrying 0.8 3 0
+1p=Vs 2w=for 0.8 3 0
+-1p=Ns 1w=whole 0.8 3 0
+1p=Ns 2w=would 0.8 3 0
+childish 0.8 3 0
+-2p=Prep -1w=to 0.8 3 0
+christ 0.8 3 0
+church 0.8 3 0
+1p=Adv 2w=of 0.8 3 0
+city 0.8 3 0
+-1p=Prep 1w=heart 0.8 3 0
+various 0.8 3 0
+clothes 0.8 3 0
+clutched 0.8 3 0
+colorful 0.8 3 0
+-1w=how's 0.8 3 0
+comes 0.8 3 0
+-1w=as 1p=Ns 0.8 3 0
+conscious 0.8 3 0
+1w=name 2w=, 0.8 3 0
+cooling 0.8 7 1
+-1w=all 1p=Ns 0.8 3 0
+1w=sales 0.8 3 0
+1w=leg 0.8 3 0
+-1p=Adj 1w=feet 0.8 3 0
+respecting 0.8 3 0
+craggy 0.8 3 0
+-1p=Ns 1w=fire 0.8 3 0
+-1w=for 1p=Np 0.8 3 0
+daughter 0.8 3 0
+-2p=Ving -1p=V 0.8 3 0
+1w=not 0.8 0 3
+dealer 0.8 3 0
+dear 0.8 3 0
+-2w=make -1w=sure 0.8 3 0
+-1w=what's 1p=V 0.8 3 0
+deep 0.8 3 0
+department 0.8 3 0
+-2w=you -1w=find 0.8 3 0
+1p=Vpt 2p=Adv 0.8 0 3
+-2w=to -1p=Pro 0.8 3 0
+-2p=Ns -1w=all 0.8 3 0
+word 0.8 3 0
+-2p=Vpt -1w=from 0.8 3 0
+taking 0.8 3 0
+relation 0.8 3 0
+1p=Vpp 2p=Adv 0.8 0 3
+-2w=him -1p=Prep 0.8 3 0
+-2p=Ving -1w=with 0.8 3 0
+regular 0.8 3 0
+1p=Ns 2w=time 0.8 3 0
+1w=own 2p=Adv 0.8 3 0
+1p=Ns 2w=have 0.8 3 0
+1w=district 0.8 3 0
+enough 0.8 3 0
+-1p=Pro 1p=Prep 0.8 0 3
+estimated 0.8 3 0
+-2p=Pro -1w=think 0.8 0 3
+events 0.8 3 0
+-1w=to 1w=vacation 0.8 3 0
+experiences 0.8 3 0
+express 0.8 3 0
+extension 0.8 3 0
+-1p=Adv 1w=friends 0.8 3 0
+1p=Det 2p=Adj 0.8 0 3
+ring 0.8 3 0
+1w=hands 2p=Adv 0.8 3 0
+father 0.8 7 1
+-2p=Ns -1w=was 0.8 3 0
+feet 0.8 7 1
+felt 0.8 3 0
+-1p=Had 0.8 3 0
+file 0.8 3 0
+-1p=Vs 1p=V 0.8 3 0
+-1w=of 1p=Ving 0.8 3 0
+-1w=what 0.8 0 3
+-2p=Adv -1w=cut 0.8 3 0
+-1p=Was 1p=Adj 0.8 3 0
+1p=Ns 2w=at 0.8 3 0
+fist 0.8 3 0
+ranch 0.8 3 0
+-1p=Prep 1w=insurance 0.8 3 0
+forgive 0.8 3 0
+1w=fire 0.8 3 0
+fortune 0.8 3 0
+1w=return 2p=Prep 0.8 3 0
+1p=Vs 2w=. 0.8 3 0
+-1w=in 1w=hands 0.8 3 0
+-2p=Adv -1w=is 0.8 3 0
+simply 0.8 0 3
+furnace 0.8 3 0
+-2w=included -1p=Adj 0.8 3 0
+-2p=End -1p=Is 0.8 3 0
+girl 0.8 3 0
+-1w=to 1p=Vs 0.8 3 0
+-1w=into 1p=V 0.8 3 0
+-2w=what -1p=Prep 0.8 3 0
+1p=Punc 0.8 3 0
+government 0.8 3 0
+produce 0.8 3 0
+-2w=included -1p=Adv 0.8 3 0
+-1w=that 1p=Np 0.8 3 0
+grow 0.8 3 0
+-1p=Conj 1w=family 0.8 3 0
+hair 0.8 3 0
+-1p=Prep 1w=program 0.8 3 0
+1p=Ns 2w=if 0.8 3 0
+sick 0.8 3 0
+wanted 0.8 3 0
+than 0.8 7 1
+having 0.8 3 0
+1p=Conj 2p=Adv 0.8 0 3
+-1w=can 1p=Ns 0.8 3 0
+wants 0.8 3 0
+-2w=part -1p=Prep 0.8 3 0
+heating 0.8 3 0
+help 0.8 7 1
+-2w=can't -1p=Ns 0.8 3 0
+-2p=Pro -1w=for 0.8 3 0
+-2w=what -1w=about 0.8 3 0
+his 0.8 11 2
+-2p=Adv -1p=Has 0.8 3 0
+1w=eyes 0.8 3 0
+1w=money 0.8 3 0
+1w=people 0.8 3 0
+-2p=Pro+Has -1p=Vpp 0.8 3 0
+probably 0.8 3 0
+how's 0.8 3 0
+1w=`` 2p=Ns 0.8 3 0
+press 0.8 3 0
+1w=marketing 0.8 3 0
+i've 0.8 3 0
+ideas 0.8 3 0
+witness 0.8 3 0
+immediate 0.8 3 0
+important 0.8 3 0
+1p=Ns 2w=that 0.8 3 0
+waste 0.8 3 0
+-2p=Ns -1w=, 0.8 19 4
+present 0.8 3 0
+information 0.8 3 0
+insert 0.8 3 0
+-1w=put 1p=Ns 0.8 3 0
+intention 0.8 3 0
+interest 0.8 3 0
+watch 0.8 3 0
+1w=problems 0.8 3 0
+-1p=Poss 1p=Ns 0.8 3 0
+-1w=take 1p=Adj 0.8 3 0
+1w=mother 2p=Punc 0.8 3 0
+postponing 0.8 0 3
+-2w=what -1p=Adj 0.8 3 0
+services 0.8 3 0
+-2w=part -1w=of 0.8 3 0
+kill 0.8 3 0
+kind 0.8 3 0
+-1p=Conj 1w=going 0.8 0 3
+-1w=use 0.8 3 0
+1w=lips 0.8 3 0
+1w=car 2p=Punc 0.8 3 0
+-1w=was 1p=V 0.8 3 0
+1w=own 2p=V 0.8 3 0
+1w=way 2w=of 0.8 3 0
+-1w=keep 1p=Np 0.8 3 0
+1p=V 2w=-- 0.8 3 0
+-2w=know -1p=Pro 0.8 0 3
+-2p=Ns -1w=sure 0.8 3 0
+-2w=, -1p=Vpp 0.8 3 0
+lines 0.8 3 0
+sent 0.8 3 0
+-1p=Adv 1w=vacation 0.8 3 0
+-2p=Adj -1p=Md 0.8 3 0
+-2w=me -1p=Ns 0.8 3 0
+lose 0.8 3 0
+week 0.8 3 0
+plant 0.8 3 0
+-1p=Prep 1p=Vpt 0.8 3 0
+-1w=hold 1p=V 0.8 3 0
+-1w=is 1p=Ving 0.8 3 0
+management 0.8 3 0
+wish 0.8 3 0
+market 0.8 3 0
+-1w=from 1p=Adj 0.8 3 0
+matter 0.8 3 0
+-1p=Prep 1w=neck 0.8 3 0
+1w=feet 2p=Punc 0.8 3 0
+-2w=, -1p=Vpt 0.8 3 0
+men 0.8 7 1
+-2w=last -1p=Ns 0.8 3 0
+mind 0.8 3 0
+miss 0.8 3 0
+-1w=what's 1p=Ns 0.8 3 0
+month 0.8 3 0
+1p=Np 2w=on 0.8 3 0
+planning 0.8 3 0
+-1w=about 1p=V 0.8 3 0
+whether 0.8 3 0
+-1w=had 0.8 3 0
+national 0.8 3 0
+near 0.8 3 0
+planned 0.8 3 0
+1p=Adj 2w=in 0.8 3 0
+-1w=have 1p=Adj 0.8 3 0
+newspapers 0.8 3 0
+-2w=you -1p=Vpt 0.8 3 0
+-2p=Adj -1p=V 0.8 15 3
+-1p=Np 1p=Vs 0.8 3 0
+nothing 0.8 3 0
+1w=money 2p=Ns 0.8 3 0
+obtained 0.8 3 0
+1p=V 2w=on 0.8 3 0
+-2p=Conj -1w=if 0.8 0 3
+-1p=Was 1p=V 0.8 3 0
+office 0.8 3 0
+-2p=Adv -1p=Md 0.8 3 0
+1w=`` 0.8 3 0
+1w=son 0.8 3 0
+-2w=and -1p=Ving 0.8 3 0
+open 0.8 3 0
+-2p=Md -1w=see 0.8 3 0
+why 0.8 7 1
+1p=Ns 2w=the 0.8 0 3
+1p=Vs 2p=Pro 0.8 3 0
+personal 0.8 3 0
+1p=V 2w=if 0.8 3 0
+-1p=Has 1p=Adj 0.8 3 0
+-1p=Prep 1w=employee 0.8 3 0
+1w=child 2p=Np 0.8 3 0
+period 0.8 3 0
+part 0.8 7 1
+particular 0.8 3 0
+party 0.8 3 0
+-2w=you've -1p=Vpp 0.8 3 0
+1w=family 2p=Ns 0.8 3 0
+-- 0.795918 38 9
+-2p=Pro -1p=V 0.794872 30 7
+-1p=Punc 1p=Ns 0.793104 22 5
+so 0.793104 22 5
+-2p=Pro -1p=Adj 0.791667 18 4
+most 0.785714 10 2
+-2p=Prep -1p=Pro 0.785714 10 2
+-2p=Ns -1w=that 0.785714 10 2
+work 0.785714 10 2
+-1w=when 0.785714 2 10
+1p=Ns 2p=Adv 0.77907 66 18
+-1p=Ns 1p=Pro 0.777778 13 3
+-2w=and -1p=Ns 0.777778 6 1
+quite 0.777778 6 1
+-1w=when 1p=Ns 0.777778 1 6
+though 0.777778 6 1
+1p=V 2w=for 0.777778 6 1
+god 0.777778 6 1
+-2w=, -1p=Prep 0.777778 6 1
+-1p=Ns 1p=Adj 0.769231 79 23
+some 0.769231 9 2
+-2p=V -1w=, 0.769231 9 2
+-1p=Conj 0.767606 108 32
+about 0.764706 12 3
+like 0.761905 15 4
+-1p=Adv 1p=Adj 0.757576 49 15
+i 0.757576 49 15
+-1w=, 0.756757 27 8
+1p=Adj 2p=Punc 0.754717 39 12
+-2w=in -1p=Ving 0.75 2 0
+1w=feet 2w=. 0.75 2 0
+-2p=Pro -1p=Np 0.75 5 1
+-1p=Ns 1w=things 0.75 2 0
+1p=Ving 2w=for 0.75 0 2
+-1p=V 1w=pool 0.75 2 0
+-2p=Prep -1w=cut 0.75 2 0
+-1w=call 1p=V 0.75 2 0
+-1w=not 0.75 2 0
+-1w=include 1p=Adj 0.75 2 0
+-1w=to 1w=friends 0.75 2 0
+-2p=Md -1p=Has 0.75 2 0
+1p=Np 2w=to 0.75 2 0
+1w=ranch 2w='' 0.75 2 0
+-2p=Punc -1p=Punc 0.75 0 2
+-2p=Prep -1p=Has 0.75 2 0
+-1p=Prep 1w=`` 0.75 2 0
+-2p=Ns -1p=Vs 0.75 5 1
+-2p=End -1w=can 0.75 2 0
+1p=Adv 2w=the 0.75 0 2
+1w=mother 2w=. 0.75 2 0
+-1w=think 1p=Adv 0.75 0 2
+1w=return 2p=Is 0.75 2 0
+-1p=V 1w=house 0.75 2 0
+ye 0.75 2 0
+-1p=V 1w=pardon 0.75 2 0
+x's 0.75 2 0
+wouldn't 0.75 2 0
+workers 0.75 2 0
+-1w=when 1p=Conj 0.75 0 2
+wither 0.75 2 0
+wings 0.75 2 0
+wine- 0.75 2 0
+1w=union 0.75 2 0
+1p=V 2w=at 0.75 2 0
+widow 0.75 2 0
+-2p=Adv -1w=all 0.75 2 0
+1p=V 2w=will 0.75 2 0
+weight 0.75 2 0
+-1w=through 0.75 2 0
+yourself 0.75 5 1
+-2w=back -1w=of 0.75 2 0
+-1w=itemized 0.75 2 0
+-1w=to 1w=own 0.75 2 0
+water 0.75 5 1
+warm 0.75 2 0
+walking 0.75 2 0
+-1p=Ns 1w=name 0.75 2 0
+waiting 0.75 2 0
+wages 0.75 2 0
+views 0.75 2 0
+vending 0.75 2 0
+1w=return 2p=Md 0.75 2 0
+-1p=Ns 1w=child 0.75 2 0
+value 0.75 2 0
+-1p=Prep 1w=stomach 0.75 2 0
+usually 0.75 2 0
+uses 0.75 2 0
+upstairs 0.75 2 0
+1w=employees 0.75 2 0
+-1w=using 0.75 2 0
+under 0.75 5 1
+-1p=Punc 1w=going 0.75 0 2
+unconscious 0.75 2 0
+unbridled 0.75 2 0
+twice 0.75 2 0
+-2w=reported -1p=Adv 0.75 2 0
+-1w=because 1p=V 0.75 2 0
+trying 0.75 2 0
+tripod 0.75 2 0
+-2w=, -1p=Punc 0.75 0 2
+1w=pool 2w=is 0.75 2 0
+1w=support 0.75 2 0
+treaty 0.75 2 0
+trade 0.75 2 0
+toward 0.75 2 0
+touch 0.75 2 0
+1w=land 0.75 2 0
+tool 0.75 2 0
+1p=Ns 2w=uses 0.75 2 0
+-1p=V 1w=return 0.75 2 0
+-1p=V 1w=name 0.75 2 0
+thus 0.75 2 0
+thinking 0.75 2 0
+there's 0.75 2 0
+-2w=close -1w=of 0.75 2 0
+1w=particular 2p=V 0.75 2 0
+-2p=V -1w=is 0.75 2 0
+1p=Ving 2w=strategy 0.75 2 0
+-2p=AdvC -1p=Prep 0.75 2 0
+-1w=imagine 0.75 0 2
+-1w=off 0.75 2 0
+-2w=won't -1p=Ns 0.75 2 0
+1w=jobs 2p=Adv 0.75 2 0
+1w=face 2p=Adv 0.75 2 0
+1w=address 2w=. 0.75 2 0
+thank 0.75 2 0
+-2w=come -1w=to 0.75 2 0
+-1w=`` 1p=Ns 0.75 0 2
+-2p=Punc -1p=Np 0.75 2 0
+-2p=Prep -1w=make 0.75 2 0
+-1w=enjoy 1p=V 0.75 2 0
+-1w=have 1w=paper 0.75 2 0
+-2p=Prep -1w=rest 0.75 2 0
+-1w=include 0.75 2 0
+1w=hair 0.75 2 0
+-1p=V 1w=hands 0.75 2 0
+temperature 0.75 2 0
+1w=face 2p=Punc 0.75 2 0
+1w=arms 0.75 2 0
+tells 0.75 2 0
+-2w=`` -1p=Adv 0.75 2 0
+1w=organization 0.75 2 0
+1p=Np 2w=are 0.75 2 0
+-2w=do -1p=Prep 0.75 2 0
+-2p=Vpt -1p=Punc 0.75 2 0
+teeth 0.75 2 0
+1w=country 2p=Ns 0.75 2 0
+1p=Ns 2w=equipment 0.75 2 0
+1p=Adj 2w=as 0.75 2 0
+-2p=Pro -1w=beg 0.75 2 0
+1w=life 2p=V 0.75 2 0
+1w=cost 0.75 2 0
+-2p=Vpp -1p=Pro 0.75 2 0
+-1w=beg 1p=Ns 0.75 2 0
+-1p=Adv 1w=going 0.75 0 2
+-1w=to 1w=return 0.75 2 0
+1w=spare 0.75 2 0
+1w=hands 2p=Adj 0.75 2 0
+-1p=End 1p=Ns 0.75 2 0
+-1p=Adj 1w=problems 0.75 2 0
+-1w=insert 1p=Np 0.75 2 0
+-2p=Conj -1w=when 0.75 0 2
+-2p=Does -1w=with 0.75 2 0
+-2p=AdjC -1w=of 0.75 2 0
+-1w=before 0.75 2 0
+tall 0.75 2 0
+1p=Vs 2p=Np 0.75 2 0
+-1w=what 1w=doing 0.75 0 2
+-1p=Conj 1w=so 0.75 0 2
+1p=V 2w=that 0.75 2 0
+-1w=, 1w=life 0.75 2 0
+-1p=Adj 1w=return 0.75 2 0
+1w=newspapers 0.75 2 0
+-2p=Ns -1w=or 0.75 2 0
+-1p=Adv 1w=lips 0.75 2 0
+-1p=Prep 1w=father 0.75 2 0
+-1p=Ns 1p=Poss 0.75 2 0
+-1w=find 1p=Np 0.75 2 0
+-1w=him 1p=Ns 0.75 2 0
+1w=way 2p=Adv 0.75 2 0
+-2p=Adj -1p=Was 0.75 2 0
+-1p=Ns 1w=life 0.75 2 0
+1w=face 2p=Adj 0.75 2 0
+-1w=tell 1p=Ns 0.75 2 0
+1w=jobs 2p=Adj 0.75 2 0
+1p=Ns 2w=all 0.75 2 0
+-1w=to 1p=Pro 0.75 2 0
+1w=drink 0.75 2 0
+-1w=saw 0.75 2 0
+1w=way 2p=Adj 0.75 2 0
+-2w=, -1p=Adv 0.75 8 2
+takes 0.75 2 0
+-2p=Adj -1w=because 0.75 2 0
+-1p=Ns 1w=newspapers 0.75 2 0
+1w=life 2p=Ns 0.75 2 0
+-2w=me -1p=Conj 0.75 2 0
+-2p=Punc -1w=how's 0.75 2 0
+-1w=at 1p=V 0.75 2 0
+1w=state 0.75 2 0
+-2p=Vpt -1w=to 0.75 2 0
+-1p=Ns 1w=builder 0.75 2 0
+-1p=Punc 1w=life 0.75 2 0
+-2w=wall -1w=to 0.75 2 0
+-1w=had 1p=Ns 0.75 2 0
+1w=clothes 0.75 2 0
+1w=ranch 2p=Punc 0.75 2 0
+-1w=get 1p=Adj 0.75 2 0
+-2p=Punc -1w=that's 0.75 2 0
+-1p=Had 1p=Ns 0.75 2 0
+-2w=be -1p=Adv 0.75 2 0
+-1w=with 1p=Pro 0.75 2 0
+1w=components 2p=Prep 0.75 2 0
+1w=insurance 2p=V 0.75 2 0
+-1w=beg 1w=pardon 0.75 2 0
+1w=living 2p=V 0.75 2 0
+1w=not 2p=Ns 0.75 0 2
+1w=spare 2p=V 0.75 2 0
+-1p=V 1w=components 0.75 2 0
+-1p=V 1w=life 0.75 2 0
+-2p=Adv -1w=use 0.75 2 0
+1p=Np 2w=trembling 0.75 2 0
+1w=stomach 0.75 2 0
+-1p=Prep 1w=kitchen 0.75 2 0
+table 0.75 2 0
+-2w=fact -1p=Pro 0.75 2 0
+-1p=Conj 1w=looking 0.75 0 2
+-2p=Ns -1w=what 0.75 0 2
+-1p=Does 1p=V 0.75 2 0
+-1w=let 1p=Np 0.75 2 0
+-1w=in 1w=gross 0.75 2 0
+-1w=if 1w=child 0.75 2 0
+-1p=Ns 1w=dog 0.75 2 0
+-2w=reported -1p=Adj 0.75 2 0
+-1w=saw 1p=V 0.75 2 0
+-2w=have -1p=Adj 0.75 2 0
+-1w=what's 1p=Adj 0.75 2 0
+1p=Vpt 2p=V 0.75 5 1
+-1p=Ns 1w=return 0.75 2 0
+-1p=Prep 1w=living 0.75 2 0
+-2w=be -1p=Adj 0.75 2 0
+1w=the 2p=Adj 0.75 0 2
+-1p=Prep 1w=newspapers 0.75 2 0
+-1p=Ns 1w=brains 0.75 2 0
+-1p=V 1w=builder 0.75 2 0
+-1p=Conj 1p=Poss 0.75 2 0
+-2p=Ns -1w=from 0.75 2 0
+-1w=at 1p=Adj 0.75 2 0
+-2w=to -1w=have 0.75 2 0
+-2w=you've -1p=Vpt 0.75 2 0
+-1p=Vpp 1w=deductions 0.75 2 0
+-1p=Adv 1w=gross 0.75 2 0
+-2p=Prep -1w=have 0.75 2 0
+1w=pool 2p=Is 0.75 2 0
+-1w=over 1p=Adj 0.75 2 0
+-2w=reported -1p=Prep 0.75 2 0
+-1w=send 1p=Ns 0.75 2 0
+-1w=itemized 1p=Np 0.75 2 0
+-2p=Prep -1p=Adv 0.75 8 2
+-2w=me -1p=Prep 0.75 2 0
+supply 0.75 2 0
+-1p=Np 1p=Ving 0.75 5 1
+1w=address 2p=Punc 0.75 2 0
+1w=own 2p=Vs 0.75 2 0
+1w=particular 0.75 2 0
+1w=age 2w='' 0.75 2 0
+-2w=i -1w=beg 0.75 2 0
+-1p=Adj 1w=kitchen 0.75 2 0
+-2p=Pro -1p=Has 0.75 2 0
+1w=face 2p=Pro 0.75 2 0
+sunday 0.75 2 0
+-1w=do 0.75 2 0
+-1p=Np 1w=heart 0.75 2 0
+1w=father 2p=Ns 0.75 2 0
+1w=paper 0.75 2 0
+-1w=before 1p=Adv 0.75 2 0
+-2p=Prep -1w=which 0.75 2 0
+1w=building 2p=V 0.75 2 0
+-2w=what -1p=V 0.75 2 0
+-1p=Vpt 1p=Adv 0.75 2 0
+-1w=will 1p=V 0.75 2 0
+1w=pardon 0.75 2 0
+1w=regular 2p=Ving 0.75 2 0
+-1p=Adj 1p=AdjC 0.75 2 0
+-1p=Vpp 1p=Adv 0.75 2 0
+sufficiently 0.75 2 0
+1p=Ns 2w=; 0.75 2 0
+suddenly 0.75 2 0
+-2w=reported -1w=in 0.75 2 0
+1p=Adv 2p=Vs 0.75 2 0
+-1w=check 1p=Ns 0.75 2 0
+1w=wife 2p=Ns 0.75 2 0
+-1p=Adv 1w=kitchen 0.75 2 0
+1p=Np 2p=Vpp 0.75 5 1
+-2p=Adv -1w=are 0.75 2 0
+-2w=fact -1p=Adv 0.75 2 0
+-2w=, -1w=`` 0.75 0 2
+1p=Ns 2w=room 0.75 2 0
+1w=heart 2w=to 0.75 2 0
+1p=Adj 2w=time 0.75 2 0
+-1p=Prep 1w=hand 0.75 2 0
+-2w=have -1w=itemized 0.75 2 0
+-2w=what -1w=was 0.75 2 0
+1w=life 2p=Md 0.75 2 0
+1w=doing 0.75 0 2
+1w=house 2w=in 0.75 2 0
+-1p=Ving 1w=own 0.75 2 0
+1w=the 0.75 0 2
+-1p=Adj 1w=money 0.75 2 0
+1w=name 2w=. 0.75 2 0
+-2p=Md -1p=Vpp 0.75 2 0
+-2p=Pro -1w=are 0.75 2 0
+studs 0.75 2 0
+-2p=Adj -1w=can 0.75 2 0
+-1p=Pro 1p=Poss 0.75 2 0
+1p=V 2w=has 0.75 2 0
+-2w=would -1p=V 0.75 2 0
+stride 0.75 2 0
+-1w=in 1w=heart 0.75 2 0
+-2w=`` -1p=Vpp 0.75 2 0
+straightening 0.75 2 0
+1w=sins 0.75 2 0
+-1w=in 1w=kitchen 0.75 2 0
+1w=feet 2p=Ns 0.75 2 0
+straighten 0.75 2 0
+-1p=Ns 1w=so 0.75 0 2
+-2p=Conj -1p=Md 0.75 2 0
+-2w=but -1p=Ns 0.75 0 2
+-2p=Vpp -1w=and 0.75 2 0
+1w=return 2w=is 0.75 2 0
+-2p=Md -1w=put 0.75 2 0
+-2p=End -1w=is 0.75 2 0
+1w=components 0.75 2 0
+1w=ideas 0.75 2 0
+1w=heart 2p=Punc 0.75 2 0
+1w=spare 2p=Adj 0.75 2 0
+-2w=size -1p=Prep 0.75 2 0
+1p=Np 2w=had 0.75 2 0
+-1p=V 1w=home 0.75 2 0
+-1w=to 1p=Adv 0.75 2 0
+-2w=do -1w=with 0.75 2 0
+1p=Vs 2w=trembling 0.75 2 0
+1w=whole 2p=Adj 0.75 2 0
+-1w=let 1p=Ns 0.75 2 0
+-1p=Punc 1p=Ving 0.75 0 2
+-2p=Punc -1w=`` 0.75 0 2
+-2p=V -1w=-- 0.75 2 0
+1p=Ns 2w=too 0.75 2 0
+-1p=Ns 1w=components 0.75 2 0
+-1p=V 1w=pick 0.75 2 0
+-1w=all 1p=Adj 0.75 2 0
+-1p=Conj 1w=employee 0.75 2 0
+-2w=`` -1p=Vpt 0.75 2 0
+still 0.75 5 1
+-2w=and -1p=Adv 0.75 2 0
+1w=company 2p=Ns 0.75 2 0
+-2w=him -1p=Adj 0.75 2 0
+-1p=Adj 1w=spare 0.75 2 0
+-1p=Ving 1w=car 0.75 2 0
+steps 0.75 2 0
+-2p=Vpt -1p=Pro 0.75 2 0
+-1p=Ns 1w=children 0.75 2 0
+-2w=you -1p=Adj 0.75 5 1
+1w=neck 2p=Punc 0.75 2 0
+-1w=are 1p=Ns 0.75 2 0
+-1p=Prep 1w=organization 0.75 2 0
+1w=so 0.75 0 2
+-1p=Conj 1w=age 0.75 2 0
+-2p=Adj -1w=all 0.75 2 0
+step 0.75 2 0
+1w=father 2p=Conj 0.75 2 0
+1p=Pro 2w=home 0.75 2 0
+-1w=send 1p=Adj 0.75 2 0
+1p=V 2w=have 0.75 2 0
+1w=government 0.75 2 0
+-2w=know -1p=Adj 0.75 0 2
+-2p=V -1w=off 0.75 2 0
+-2w=that's -1p=Adv 0.75 0 2
+-2p=Adv -1w=enjoy 0.75 2 0
+1w=brains 0.75 2 0
+-1w=can 1p=Adj 0.75 2 0
+-2p=Adv -1w=was 0.75 2 0
+1p=Adv 2w=a 0.75 0 2
+-1w=in 1w=newspapers 0.75 2 0
+1w=experiences 0.75 2 0
+1w=heart 2p=Conj 0.75 2 0
+-1p=Ns 1w=jobs 0.75 2 0
+-2p=Adv -1p=Pro 0.75 8 2
+-1p=Ns 1w=kitchen 0.75 2 0
+1p=Vs 2p=Md 0.75 2 0
+-2p=Adv -1w=make 0.75 2 0
+-2w=objectives -1p=Prep 0.75 2 0
+-2p=Adv -1w=rest 0.75 2 0
+-2p=Adj -1w=was 0.75 2 0
+-2p=Conj -1w=in 0.75 2 0
+-2p=Ns -1w=off 0.75 2 0
+-2p=Ns -1w=itemized 0.75 2 0
+1w=feet 2p=V 0.75 2 0
+-2p=Vpp -1w=that 0.75 2 0
+-1w=think 1p=Adj 0.75 0 2
+-2w=come -1p=Adv 0.75 2 0
+-1w=open 1w=heart 0.75 2 0
+1w=paper 2p=Ns 0.75 2 0
+-1w=cut 1p=Ns 0.75 2 0
+-2w=what -1p=Was 0.75 2 0
+-1p=Adv 1w=doing 0.75 0 2
+-1p=Conj 1w=house 0.75 2 0
+-1p=V 1w=father 0.75 2 0
+-1w=find 1p=V 0.75 2 0
+-1w=send 0.75 2 0
+-1p=Vpt 1w=deductions 0.75 2 0
+-1w=over 1p=V 0.75 2 0
+-1p=Prep 1w=experiences 0.75 2 0
+-2p=V -1w=from 0.75 2 0
+1w=machine 0.75 2 0
+-2p=V -1p=Is 0.75 2 0
+-1w=lose 1p=Ns 0.75 2 0
+-1p=Prep 1w=land 0.75 2 0
+-2p=Does -1p=Prep 0.75 2 0
+1w=builder 0.75 2 0
+-1w=and 1w=family 0.75 2 0
+-2w=i -1w=saw 0.75 2 0
+-1p=Ns 1w=pick 0.75 2 0
+1w=cafeteria 2p=Ns 0.75 2 0
+-1p=Ns 1w=leg 0.75 2 0
+1w=husband 0.75 2 0
+1w=regular 0.75 2 0
+-2w=fact -1p=Adj 0.75 2 0
+-1w=call 1p=Ns 0.75 2 0
+1p=V 2w=income 0.75 2 0
+-2p=Has -1w=itemized 0.75 2 0
+1w=machine 2p=V 0.75 2 0
+1w=hand 2p=Punc 0.75 2 0
+-1p=Ns 1w=family 0.75 2 0
+-1p=Conj 1w=pool 0.75 2 0
+1w=building 2p=Ns 0.75 2 0
+-1w=before 1p=Adj 0.75 2 0
+-2w=all -1p=Adv 0.75 2 0
+1w=building 0.75 2 0
+1w=hands 2p=Ns 0.75 2 0
+-1w=lose 1p=Adj 0.75 2 0
+-1w=beg 1p=V 0.75 2 0
+1p=Ving 2w=room 0.75 2 0
+1w=business 0.75 2 0
+-2p=Ving -1w=to 0.75 2 0
+-1p=Prep 1p=Punc 0.75 2 0
+-1w=over 0.75 2 0
+1p=Np 2w=before 0.75 2 0
+-2w=up -1w=to 0.75 2 0
+1w=feet 2p=Adj 0.75 2 0
+-1p=Ving 1w=cafeteria 0.75 2 0
+standpoint 0.75 2 0
+-2p=Ving -1w=for 0.75 2 0
+-1w=for 1p=Pro 0.75 2 0
+1w=own 2w=home 0.75 2 0
+standard 0.75 2 0
+-1w=insert 0.75 2 0
+-2w=to -1w=rest 0.75 2 0
+1w=problems 2w=, 0.75 2 0
+-1p=Prep 1w=plant 0.75 2 0
+' 0.75 2 0
+-2w=, -1p=Pro 0.75 2 0
+-2w=to -1w=make 0.75 2 0
+1p=Adj 2w=home 0.75 2 0
+-1w=think 1p=V 0.75 0 2
+1p=Ns 2w=on 0.75 5 1
+-2w=look -1p=Conj 0.75 2 0
+1040 0.75 2 0
+1040a 0.75 2 0
+1w=heart 2p=Ns 0.75 2 0
+-1p=Ns 1w=people 0.75 2 0
+-2p=Pro -1w=have 0.75 2 0
+-1w=beg 0.75 2 0
+1w=finger 0.75 2 0
+-1w=show 0.75 2 0
+-1w=does 1p=V 0.75 2 0
+-2w=that -1p=Ns 0.75 2 0
+1w=friends 2p=Ns 0.75 2 0
+abandon 0.75 2 0
+-2p=Adv -1w=can 0.75 2 0
+-1p=Pro 1w=address 0.75 2 0
+-1w=put 1p=Np 0.75 2 0
+accordance 0.75 2 0
+accounting 0.75 2 0
+-2w=know -1p=Conj 0.75 0 2
+adding 0.75 2 0
+additional 0.75 2 0
+address 0.75 2 0
+adjusted 0.75 2 0
+administrative 0.75 2 0
+advertising 0.75 2 0
+1w=hands 2p=V 0.75 2 0
+affection 0.75 2 0
+-1w=about 1p=Np 0.75 2 0
+-2w=fact -1p=Conj 0.75 2 0
+again 0.75 2 0
+-2w=with -1p=Pro 0.75 2 0
+1w=employee 2p=Ns 0.75 2 0
+agency 0.75 2 0
+-1w=take 1w=pick 0.75 2 0
+agreement 0.75 2 0
+ahem 0.75 2 0
+1w=parents 0.75 2 0
+ain't 0.75 2 0
+air 0.75 2 0
+-1p=Adj 1w=fingers 0.75 2 0
+allow 0.75 2 0
+stairs 0.75 2 0
+-1p=Ns 1w=time 0.75 2 0
+-2p=Pro -1w=if 0.75 0 2
+-1p=V 1w=paper 0.75 2 0
+always 0.75 8 2
+stair 0.75 2 0
+-1p=Pro+Has 1p=Adj 0.75 2 0
+1p=Adj 2w=was 0.75 2 0
+anatomy 0.75 2 0
+-2w=number -1p=Prep 0.75 2 0
+-2p=Conj -1p=Vpt 0.75 2 0
+answer 0.75 2 0
+anxious 0.75 0 2
+-1p=Prep 1w=gross 0.75 2 0
+anyway 0.75 2 0
+appears 0.75 2 0
+1w=father 2p=V 0.75 2 0
+april 0.75 2 0
+-2p=Punc -1p=Poss 0.75 2 0
+-1w=if 1p=Vpp 0.75 0 2
+areas 0.75 2 0
+1w=so 2p=Adj 0.75 0 2
+arms 0.75 2 0
+squat 0.75 2 0
+1w=child 2p=Vs 0.75 2 0
+1p=Ns 2p=AdjC 0.75 2 0
+asked 0.75 2 0
+asking 0.75 2 0
+association 0.75 2 0
+assured 0.75 2 0
+1w=house 2p=Adj 0.75 2 0
+1w=return 2p=Conj 0.75 2 0
+attention 0.75 2 0
+attic 0.75 2 0
+-1w=using 1p=Ns 0.75 2 0
+attract 0.75 2 0
+1p=Ns 2w=before 0.75 2 0
+-2p=Pro -1p=Md 0.75 2 0
+-1p=Prep 1w=district 0.75 2 0
+avoid 0.75 2 0
+awaken 0.75 2 0
+1w=mother 2p=Prep 0.75 2 0
+baby 0.75 2 0
+-1w=turn 0.75 2 0
+background 0.75 2 0
+backward 0.75 2 0
+spring 0.75 2 0
+1w=lips 2w=trembling 0.75 2 0
+beach 0.75 2 0
+beat 0.75 2 0
+-2p=End -1w=yet 0.75 2 0
+1w=equipment 0.75 2 0
+-1p=Adv 1w=spare 0.75 2 0
+-1w=`` 1p=Adj 0.75 0 2
+1w=heating 0.75 2 0
+-1w=not 1p=Ns 0.75 2 0
+1p=V 2w=home 0.75 2 0
+beneath 0.75 2 0
+1w=spare 2p=Ns 0.75 2 0
+bent 0.75 2 0
+besides 0.75 2 0
+1w=next 0.75 2 0
+-2p=Vpt -1w=, 0.75 2 0
+-1p=Has 1w=paper 0.75 2 0
+1w=looking 2w=for 0.75 0 2
+bill 0.75 2 0
+-1p=Adj 1w=newspapers 0.75 2 0
+boat 0.75 2 0
+body 0.75 2 0
+1w=return 2p=Punc 0.75 2 0
+-2w=of -1p=Ving 0.75 2 0
+1w=daughter 0.75 2 0
+brains 0.75 2 0
+break 0.75 2 0
+-1w=that 1w=son 0.75 2 0
+build 0.75 2 0
+builder 0.75 2 0
+builders 0.75 2 0
+-1w=lose 0.75 2 0
+bumps 0.75 2 0
+-2w=to -1w=show 0.75 2 0
+busy 0.75 2 0
+something 0.75 5 1
+1w=time 2p=Punc 0.75 2 0
+-2p=Ns -1w=saw 0.75 2 0
+call 0.75 2 0
+-2p=V -1w=upon 0.75 2 0
+1w=pick 0.75 2 0
+can't 0.75 5 1
+capacity 0.75 2 0
+-2p=End -1w=will 0.75 2 0
+1w=father 2p=Adj 0.75 2 0
+carefully 0.75 2 0
+carried 0.75 2 0
+-2p=Vs -1w=for 0.75 2 0
+cars 0.75 2 0
+-1p=Vs 0.75 5 1
+certainly 0.75 2 0
+change 0.75 2 0
+chat 0.75 2 0
+cheaper 0.75 2 0
+1w=fingers 0.75 2 0
+checkbook 0.75 2 0
+-1p=Ving 1p=Pro 0.75 2 0
+1w=house 2p=Conj 0.75 2 0
+small 0.75 2 0
+chill 0.75 2 0
+-2p=V -1w=see 0.75 2 0
+-2p=V -1w=itemized 0.75 2 0
+1w=choice 0.75 2 0
+-1p=Adj 1w=doing 0.75 0 2
+claim 0.75 2 0
+climate 0.75 2 0
+-1p=Adj 1p=Prep 0.75 2 0
+1w=children 0.75 2 0
+-1w=through 1p=Ns 0.75 2 0
+cold 0.75 2 0
+college 0.75 2 0
+-1p=Ns 1w=state 0.75 2 0
+-1w=keep 1p=Ns 0.75 2 0
+1w=jobs 0.75 2 0
+coming 0.75 2 0
+commensurate 0.75 2 0
+communicate 0.75 2 0
+-1p=Adj 1w=face 0.75 2 0
+compensation 0.75 2 0
+completely 0.75 2 0
+components 0.75 2 0
+conference 0.75 2 0
+connecting 0.75 2 0
+-1p=Ns 1p=Conj 0.75 1 5
+considerable 0.75 2 0
+1w=spare 2w=time 0.75 2 0
+construction 0.75 2 0
+contradiction 0.75 2 0
+contribution 0.75 2 0
+conventional 0.75 2 0
+cool 0.75 2 0
+-1w=up 1p=Ns 0.75 2 0
+-1w=over 1p=Ns 0.75 2 0
+1p=Np 2p=Had 0.75 2 0
+-1p=Ns 1w=car 0.75 2 0
+-2w=up -1p=Prep 0.75 2 0
+1p=V 2p=Ving 0.75 5 1
+-1w=what 1p=Ns 0.75 0 2
+credit 0.75 2 0
+-1w=, 1p=Vs 0.75 2 0
+cromwell 0.75 2 0
+cure 0.75 2 0
+curious 0.75 2 0
+customs 0.75 2 0
+-1w=`` 1p=Ving 0.75 0 2
+1p=Pro 2w=. 0.75 2 0
+-2p=Adj -1w=that 0.75 5 1
+-2w=it -1w=on 0.75 2 0
+skillful 0.75 2 0
+-2p=Adv -1w=for 0.75 2 0
+1p=Ns 2w=income 0.75 2 0
+1w=return 2p=Np 0.75 2 0
+-2w=-- -1p=Conj 0.75 2 0
+deductions 0.75 2 0
+-1w=for 1w=employee 0.75 2 0
+definition 0.75 2 0
+delegating 0.75 2 0
+denial 0.75 2 0
+1w=attitude 2p=Punc 0.75 2 0
+depend 0.75 2 0
+-2p=Adv -1p=Was 0.75 2 0
+desired 0.75 2 0
+despite 0.75 2 0
+development 0.75 2 0
+-1w=tell 0.75 2 0
+dig 0.75 2 0
+-2w=him -1p=Ns 0.75 2 0
+dishonored 0.75 2 0
+-2w=i -1p=Vpp 0.75 2 0
+dive 0.75 2 0
+-2w=all -1p=Adj 0.75 2 0
+-1p=Ns 1w=wife 0.75 2 0
+sitting 0.75 2 0
+1w=house 2w=, 0.75 2 0
+sir 0.75 2 0
+-2p=Adv -1w=show 0.75 2 0
+done 0.75 2 0
+door 0.75 2 0
+-1p=Ns 1w=paper 0.75 2 0
+dress 0.75 2 0
+-1p=V 1w=problems 0.75 2 0
+driving 0.75 2 0
+due 0.75 2 0
+easily 0.75 2 0
+easy 0.75 2 0
+-1w=`` 1w=going 0.75 0 2
+effective 0.75 2 0
+effort 0.75 2 0
+-1p=V 1w=arms 0.75 2 0
+-2p=Ving -1p=Conj 0.75 2 0
+-1p=V 1w=money 0.75 2 0
+encourage 0.75 2 0
+encouraged 0.75 2 0
+-1p=Adv 1w=feet 0.75 2 0
+-1w=me 1w=address 0.75 2 0
+1w=editorial 2p=Adj 0.75 2 0
+entitles 0.75 2 0
+entrance 0.75 2 0
+-1w=check 0.75 2 0
+-1w=sure 1p=Ns 0.75 2 0
+europe 0.75 2 0
+-1p=Adv 1w=newspapers 0.75 2 0
+evening 0.75 2 0
+1w=age 0.75 2 0
+-1p=Pro 1w=doing 0.75 0 2
+evidence 0.75 2 0
+evident 0.75 2 0
+example 0.75 2 0
+excess 0.75 2 0
+exemption 0.75 2 0
+expense 0.75 2 0
+expenses 0.75 2 0
+1w=things 0.75 2 0
+-1w=cut 1p=V 0.75 2 0
+-2w=fact -1w=that 0.75 2 0
+extra 0.75 2 0
+exuberant 0.75 2 0
+1w=gross 2w=income 0.75 2 0
+1w=lips 2p=Ving 0.75 2 0
+facing 0.75 2 0
+-1p=Ns 1w=plant 0.75 2 0
+faith 0.75 2 0
+falls 0.75 2 0
+-2w=or -1p=Adj 0.75 2 0
+family's 0.75 2 0
+1w=editorial 2p=Prep 0.75 2 0
+feeding 0.75 2 0
+feel 0.75 2 0
+-1p=V 1w=head 0.75 2 0
+1p=Np 2p=Det 0.75 2 0
+-2w=, -1w=for 0.75 2 0
+-2p=V -1w=all 0.75 2 0
+field 0.75 2 0
+figure 0.75 2 0
+-2w=all -1p=Ns 0.75 2 0
+filed 0.75 2 0
+-2w=come -1p=Prep 0.75 2 0
+financial 0.75 2 0
+-2p=End -1w=in 0.75 2 0
+finger 0.75 2 0
+-1p=Adv 1w=face 0.75 2 0
+-2p=Np -1p=V 0.75 2 0
+-1w=keep 1p=V 0.75 2 0
+firmly 0.75 2 0
+-2w=people -1p=Prep 0.75 2 0
+1p=V 2w=time 0.75 2 0
+fixed 0.75 2 0
+-1p=V 1w=brains 0.75 2 0
+since 0.75 5 1
+-1p=V 1w=whole 0.75 2 0
+force 0.75 2 0
+forecast 0.75 2 0
+forgetting 0.75 2 0
+-1p=Ns 1w=arms 0.75 2 0
+forgiveness 0.75 2 0
+-1w=saying 0.75 0 2
+forsake 0.75 2 0
+-1p=Prep 1w=company 0.75 2 0
+forward 0.75 2 0
+-1w=itemized 1w=deductions 0.75 2 0
+friend 0.75 2 0
+-2p=Pro -1w=as 0.75 2 0
+1w=district 2p=Punc 0.75 2 0
+1w=pick 2p=Punc 0.75 2 0
+1w=pool 2p=Ns 0.75 2 0
+1w=pardon 2p=Punc 0.75 2 0
+1w=insurance 2w=agent 0.75 2 0
+-1p=Ns 1w=group 0.75 2 0
+-1p=Adv 1w=son 0.75 2 0
+girls 0.75 2 0
+1p=Vs 2p=Det 0.75 2 0
+sign 0.75 2 0
+1w=life 2w=will 0.75 2 0
+goes 0.75 2 0
+sides 0.75 2 0
+-1p=V 1w=going 0.75 0 2
+goose 0.75 2 0
+-1p=Adv 1w=father 0.75 2 0
+-1w=open 0.75 2 0
+gratt 0.75 2 0
+-1w=before 1p=Ns 0.75 2 0
+greatest 0.75 2 0
+-2p=Adv -1p=Ving 0.75 8 2
+-1p=Ns 1w=hair 0.75 2 0
+-1p=Prep 1w=next 0.75 2 0
+gun 0.75 2 0
+guns 0.75 2 0
+habits 0.75 2 0
+1w=choice 2p=Punc 0.75 2 0
+1w=heating 2p=Ns 0.75 2 0
+halo 0.75 2 0
+-2w=you -1w=have 0.75 2 0
+1w=business 2p=Punc 0.75 2 0
+hang 0.75 2 0
+-1p=Prep 1w=heating 0.75 2 0
+1p=Adj 2w=room 0.75 2 0
+show 0.75 2 0
+hats 0.75 2 0
+-2p=Prep -1w=when 0.75 0 2
+-1p=Adj 1w=son 0.75 2 0
+-2w=many -1w=of 0.75 2 0
+he's 0.75 2 0
+-1p=Ns 1w=parents 0.75 2 0
+health 0.75 2 0
+hear 0.75 2 0
+1p=Adj 2w=income 0.75 2 0
+-2p=V -1w=because 0.75 2 0
+heater 0.75 2 0
+-2p=Pro+Has -1p=Vpt 0.75 2 0
+height 0.75 2 0
+1w=age 2p=Punc 0.75 2 0
+-1w=keep 1w=hands 0.75 2 0
+-1p=Ns 1w=father 0.75 2 0
+hesperus 0.75 2 0
+high 0.75 2 0
+-1w=position 0.75 2 0
+himself 0.75 2 0
+1w=head 2p=Punc 0.75 2 0
+hit 0.75 2 0
+-1w=through 1p=V 0.75 2 0
+-2w=number -1w=of 0.75 2 0
+-2p=Vpp -1p=Punc 0.75 2 0
+shoulder 0.75 2 0
+hour 0.75 2 0
+1w=day 0.75 2 0
+-1w=think 1p=Ns 0.75 0 2
+-1w=yet 1p=Ns 0.75 2 0
+-1w=use 1p=Vs 0.75 2 0
+-2w=me -1p=V 0.75 2 0
+hurt 0.75 2 0
+shoes 0.75 2 0
+1w=looking 2p=Conj 0.75 0 2
+shimmering 0.75 2 0
+-1p=Ns 1w=gross 0.75 2 0
+1w=particular 2p=Ns 0.75 2 0
+-1w=use 1p=Np 0.75 2 0
+1w=in 2p=Det 0.75 0 2
+shafer 0.75 2 0
+1p=Adj 2p=Was 0.75 2 0
+implore 0.75 2 0
+1w=tax 0.75 2 0
+-2p=Md -1w=have 0.75 2 0
+1w=home 2p=Conj 0.75 2 0
+1w=labor 0.75 2 0
+-2w=to -1w=cut 0.75 2 0
+individuals 0.75 2 0
+inevitable 0.75 2 0
+-2w=can -1w=see 0.75 2 0
+-1w=`` 0.75 0 2
+inside 0.75 2 0
+installing 0.75 2 0
+instead 0.75 2 0
+instructions 0.75 2 0
+-1w=put 1p=Vs 0.75 2 0
+-1w=show 1p=Ns 0.75 2 0
+1w=ranch 0.75 2 0
+-1w=need 0.75 2 0
+1p=Ns 2w=vacation 0.75 2 0
+investigation 0.75 2 0
+1w=machine 2p=Ns 0.75 2 0
+isn't 0.75 2 0
+1w=living 2p=Ns 0.75 2 0
+1p=Prep 2w=the 0.75 0 2
+itemized 0.75 2 0
+1w=time 2p=Prep 0.75 2 0
+jesus 0.75 2 0
+-1p=Prep 1w=marketing 0.75 2 0
+jobs 0.75 2 0
+john 0.75 2 0
+judge 0.75 2 0
+june 0.75 2 0
+1p=Conj 2p=V 0.75 0 2
+-2p=Punc -1w=and 0.75 2 0
+key 0.75 2 0
+1p=V 2w=would 0.75 2 0
+-1w=hold 1w=fire 0.75 2 0
+-1w=yet 0.75 2 0
+knew 0.75 2 0
+service 0.75 2 0
+knowledge 0.75 2 0
+knows 0.75 2 0
+labor 0.75 2 0
+labors 0.75 2 0
+-2w=won't -1p=V 0.75 2 0
+-2w=something -1p=Prep 0.75 2 0
+-1w=if 1w=pool 0.75 2 0
+-1p=Ns 1w=fingers 0.75 2 0
+lean-to 0.75 2 0
+least 0.75 2 0
+-2p=Has -1p=Adj 0.75 2 0
+-2w=`` -1p=Np 0.75 2 0
+-1w=saw 1p=Ns 0.75 2 0
+legs 0.75 2 0
+leisure 0.75 2 0
+seriously 0.75 2 0
+-1w=open 1p=Ns 0.75 2 0
+let's 0.75 2 0
+-1w=position 1p=Np 0.75 2 0
+1w=plant 2p=Punc 0.75 2 0
+lifted 0.75 2 0
+-2p=Adv -1w=get 0.75 2 0
+limbs 0.75 2 0
+limousine 0.75 2 0
+-2w=you -1p=Has 0.75 2 0
+separate 0.75 2 0
+-1p=Pro 1p=Conj 0.75 0 2
+send 0.75 2 0
+literary 0.75 2 0
+little 0.75 5 1
+live 0.75 2 0
+1w=family 2p=Np 0.75 2 0
+-2p=Adj -1p=Pro 0.75 8 2
+locally 0.75 2 0
+1p=V 2w=with 0.75 2 0
+longer 0.75 2 0
+select 0.75 2 0
+seek 0.75 2 0
+lord 0.75 2 0
+1w=company 2p=Vpt 0.75 2 0
+-2w=size -1w=of 0.75 2 0
+lots 0.75 2 0
+-1w=with 1p=Adv 0.75 2 0
+-2w=use -1w=of 0.75 2 0
+-2p=Pro -1w=take 0.75 2 0
+1p=Ving 2w=average 0.75 2 0
+makeup 0.75 2 0
+saw 0.75 2 0
+man 0.75 5 1
+1w=eyes 2p=Adj 0.75 2 0
+1w=own 2w=. 0.75 2 0
+mark 0.75 2 0
+1p=Vpp 2p=V 0.75 5 1
+1p=Adj 2w=vacation 0.75 2 0
+materials 0.75 2 0
+1w=pool 2p=Np 0.75 2 0
+1w=looking 0.75 0 2
+same 0.75 5 1
+-2w=them -1p=Ns 0.75 0 2
+meal 0.75 0 2
+-2p=Ving -1w=up 0.75 2 0
+means 0.75 2 0
+-2p=Vpt -1w=that 0.75 2 0
+mental 0.75 2 0
+midst 0.75 2 0
+-1p=Pro 1w=son 0.75 2 0
+1w=leg 2w=. 0.75 2 0
+minds 0.75 2 0
+mine 0.75 2 0
+minutes 0.75 2 0
+-1p=Prep 1w=age 0.75 2 0
+mission 0.75 2 0
+-1w=if 1p=Pro 0.75 0 2
+1p=Ns 2w=plan 0.75 2 0
+-1w=call 0.75 2 0
+morning 0.75 2 0
+1w=mother 2p=Adv 0.75 2 0
+mother 0.75 8 2
+mouth 0.75 2 0
+movies 0.75 2 0
+moving 0.75 2 0
+mr. 0.75 5 1
+1w=living 0.75 2 0
+murder 0.75 2 0
+music 0.75 2 0
+1w=address 0.75 2 0
+sake 0.75 2 0
+1p=Ns 2w=year 0.75 2 0
+1p=Pro 2p=Vs 0.75 2 0
+nature 0.75 2 0
+-1w=if 1p=Vpt 0.75 0 2
+-2p=Pro -1w=saw 0.75 2 0
+safety 0.75 2 0
+needs 0.75 2 0
+neglecting 0.75 2 0
+-1w=from 1p=V 0.75 2 0
+nervous 0.75 2 0
+nest 0.75 2 0
+never 0.75 2 0
+-1w=with 1w=insurance 0.75 2 0
+newspaper 0.75 2 0
+-1p=Prep 1w=country 0.75 2 0
+next 0.75 5 1
+nice 0.75 2 0
+1w=kitchen 0.75 2 0
+1w=in 0.75 0 2
+nobody 0.75 2 0
+noisy 0.75 2 0
+-2w=would -1p=Ns 0.75 2 0
+-2w=to -1p=Has 0.75 2 0
+now 0.75 14 4
+-2w=with -1p=Adj 0.75 2 0
+nursing 0.75 2 0
+objective 0.75 2 0
+objectives 0.75 2 0
+observe 0.75 2 0
+1p=Ving 2w=around 0.75 0 2
+obviously 0.75 2 0
+occupied 0.75 0 2
+-2p=Vpp -1w=, 0.75 2 0
+-2p=Pro -1w=when 0.75 0 2
+-2p=Punc -1w=keep 0.75 2 0
+-1p=Int 0.75 0 2
+running 0.75 2 0
+-2p=Prep -1w=show 0.75 2 0
+-1p=V 1w=things 0.75 2 0
+1p=Adj 2w=force 0.75 2 0
+-1w=upon 1p=Ns 0.75 2 0
+-1w=on 1w=face 0.75 2 0
+operating 0.75 2 0
+1w=living 2w=room 0.75 2 0
+operational 0.75 2 0
+opinion 0.75 2 0
+-1w=rest 0.75 2 0
+organization 0.75 2 0
+original 0.75 2 0
+1w=heart 2p=Prep 0.75 2 0
+1w=home 2p=Prep 0.75 2 0
+otherwise 0.75 2 0
+1w=first 0.75 2 0
+-1w=need 1p=Ns 0.75 2 0
+outgrow 0.75 2 0
+-2p=Vpt -1w=and 0.75 2 0
+-2w=many -1p=Prep 0.75 2 0
+owe 0.75 2 0
+1w=money 2p=Adv 0.75 2 0
+pa 0.75 2 0
+panel 0.75 2 0
+-2w=but -1p=Conj 0.75 0 2
+pardon 0.75 2 0
+parents 0.75 2 0
+1w=the 2p=Ns 0.75 0 2
+-1w=which 0.75 2 0
+particularly 0.75 2 0
+parts 0.75 2 0
+-2w=reported -1p=Ns 0.75 2 0
+passed 0.75 2 0
+-2w=`` -1p=Poss 0.75 2 0
+peace 0.75 2 0
+1w=whole 2w=life 0.75 2 0
+-2w=use -1p=Prep 0.75 2 0
+permit 0.75 2 0
+person 0.75 2 0
+-2p=Md -1p=Vpt 0.75 2 0
+-1w=and 1p=Np 0.75 2 0
+rippled 0.75 2 0
+pictures 0.75 2 0
+1p=Adv 2w=. 0.75 2 0
+-1p=Adj 1w=gross 0.75 2 0
+-2p=Ns -1w=beg 0.75 2 0
+-2w=`` -1w=how's 0.75 2 0
+-1p=Prep 1w=particular 0.75 2 0
+plant's 0.75 2 0
+pleasure 0.75 2 0
+point 0.75 2 0
+1w=looking 2p=Prep 0.75 0 2
+pool's 0.75 2 0
+1p=V 2w=as 0.75 2 0
+1p=Ns 2p=AdvC 0.75 2 0
+-1w=took 0.75 2 0
+power 0.75 2 0
+practically 0.75 2 0
+-1p=Adj 1w=head 0.75 2 0
+premium 0.75 2 0
+prepared 0.75 2 0
+-1w=will 1p=Adj 0.75 2 0
+1w=gross 2p=Ns 0.75 2 0
+pretty 0.75 0 2
+principal 0.75 2 0
+principles 0.75 2 0
+pristine 0.75 2 0
+1w=heart 2p=Adv 0.75 2 0
+1p=Ns 2w=agent 0.75 2 0
+1w=gross 0.75 2 0
+-1p=Prep 1w=time 0.75 2 0
+1w=pa 0.75 2 0
+property 0.75 2 0
+public 0.75 2 0
+pump 0.75 2 0
+purity 0.75 2 0
+-2w=`` -1p=Pro+Is 0.75 2 0
+putting 0.75 2 0
+questions 0.75 2 0
+quickly 0.75 2 0
+-2w=what -1w=are 0.75 2 0
+race 0.75 2 0
+-2w=all -1p=V 0.75 2 0
+read 0.75 5 1
+1w=deductions 0.75 2 0
+right 0.75 8 2
+-1w=open 1p=V 0.75 2 0
+reasonable 0.75 2 0
+recommend 0.75 2 0
+recorded 0.75 2 0
+-1p=Prep 1w=regular 0.75 2 0
+-1w=of 1w=neck 0.75 2 0
+remainder 0.75 2 0
+replied 0.75 2 0
+report 0.75 2 0
+reported 0.75 2 0
+requesting 0.75 2 0
+requirements 0.75 2 0
+reserve 0.75 2 0
+residence 0.75 2 0
+-1w=for 1w=age 0.75 2 0
+responsibility 0.75 2 0
+reviewing 0.75 2 0
+restaurant 0.75 2 0
+restricting 0.75 2 0
+retracted 0.75 2 0
+-2p=Adj -1w=on 0.75 2 0
+-1w=if 1p=Conj 0.75 0 2
+-2p=Adj -1p=Conj 0.73913 16 5
+-1p=Pro 1p=Ns 0.738095 30 10
+-2p=Ns -1p=Conj 0.736842 41 14
+-2p=End -1p=Conj 0.736842 13 4
+-2p=Pro -1p=Conj 0.736842 13 4
+-1p=Punc 1p=Adj 0.736842 13 4
+then 0.733333 10 3
+-1w=if 1p=Ns 0.733333 10 3
+1p=Adv 2p=Ns 0.733333 21 7
+sure 0.733333 10 3
+-2p=Punc -1p=Conj 0.730769 18 6
+-1p=Ving 1p=Adj 0.727273 7 2
+while 0.727273 7 2
+need 0.727273 7 2
+around 0.727273 7 2
+1p=Vpp 2p=Ns 0.727273 7 2
+-1p=Punc 0.727273 31 11
+-1w=sure 0.714286 4 1
+-1p=Punc 1p=Adv 0.714286 1 4
+picture 0.714286 4 1
+-1w=, 1p=Adv 0.714286 1 4
+-1p=Conj 1p=Prep 0.714286 1 4
+list 0.714286 4 1
+serious 0.714286 4 1
+really 0.714286 4 1
+less 0.714286 4 1
+set 0.714286 4 1
+but 0.714286 24 9
+rest 0.714286 4 1
+imagine 0.714286 1 4
+-2p=Np -1p=Ving 0.714286 4 1
+-2w=`` -1p=Conj 0.714286 4 1
+they're 0.714286 4 1
+old 0.714286 4 1
+check 0.714286 4 1
+-1p=Ns 1p=Prep 0.714286 1 4
+-2p=End -1p=Prep 0.714286 4 1
+-1p=Adj 1p=Adv 0.714286 9 3
+1p=Adj 2p=Vpp 0.714286 4 1
+-2p=Punc -1p=Pro 0.714286 4 1
+full 0.714286 4 1
+boy 0.714286 4 1
+else 0.714286 4 1
+someone 0.714286 4 1
+school 0.714286 4 1
+-2p=V -1p=Pro 0.708333 16 6
+just 0.705882 11 4
+you're 0.705882 11 4
+-2p=V -1p=Conj 0.705882 23 9
+-2p=Ns -1p=Pro 0.702703 25 10
+-2p=Conj -1p=Ns 0.7 13 5
+-2p=Adv -1p=Punc 0.7 6 2
+-2p=Adv -1w=, 0.7 6 2
+where 0.7 6 2
+thing 0.7 6 2
+-1p=Pro 1p=Np 0.7 6 2
+-1w=and 1p=Adj 0.7 6 2
+look 0.7 6 2
+1p=Vpt 2p=Ns 0.7 6 2
+-1p=Pro 0.698413 43 18
+know 0.695652 15 6
+my 0.692308 8 3
+tell 0.692308 8 3
+who 0.692308 8 3
+1p=Adj 2w=to 0.692308 3 8
+when 0.692308 26 11
+said 0.685714 23 10
+1p=Adv 0.676923 43 20
+1p=Vpp 2p=Prep 0.666667 1 3
+1p=Np 2p=Vpt 0.666667 3 1
+won't 0.666667 5 2
+1p=Adj 2w=for 0.666667 3 1
+-2p=Adj -1p=Ving 0.666667 3 1
+it's 0.666667 7 3
+shall 0.666667 3 1
+-2p=Vpp -1p=Conj 0.666667 5 2
+paper 0.666667 3 1
+-2w=you -1p=Adv 0.666667 3 1
+told 0.666667 3 1
+1p=Adv 2p=Prep 0.666667 7 3
+-2w=and -1p=Conj 0.666667 3 1
+i'm 0.666667 2 5
+i'll 0.666667 3 1
+voice 0.666667 3 1
+-2p=Pro -1p=Vs 0.666667 3 1
+-1p=Pro 1p=Ving 0.666667 2 5
+better 0.666667 3 1
+1p=Ns 2w=-- 0.666667 3 1
+between 0.666667 3 1
+-2p=Vs -1p=Conj 0.666667 3 1
+hard 0.666667 3 1
+1p=Adj 2p=Pro 0.666667 3 1
+-2p=Vpt -1p=Conj 0.666667 5 2
+young 0.666667 3 1
+1p=Adj 2p=Vpt 0.666667 3 1
+hot 0.666667 3 1
+1p=Pro 2p=V 0.666667 5 2
+lips 0.666667 3 1
+talk 0.666667 3 1
+ready 0.666667 3 1
+two 0.666667 3 1
+1p=Conj 0.666667 2 5
+-2p=V -1w=when 0.666667 1 3
+-2p=Adj -1p=Punc 0.666667 9 4
+mean 0.666667 3 1
+1p=Ns 2w=to 0.666667 17 8
+-2p=V -1w=that 0.666667 3 1
+-1p=Pro 1p=Adv 0.666667 2 5
+-1p=Adv 1p=Conj 0.666667 1 3
+shut 0.666667 3 1
+1p=Vpt 2p=Prep 0.666667 1 3
+-2w=`` -1p=Adj 0.666667 3 1
+making 0.666667 3 1
+-2p=Conj -1p=Vpp 0.666667 3 1
+-2w=he -1p=Vs 0.666667 3 1
+working 0.666667 3 1
+1p=Prep 2p=Ns 0.666667 1 3
+-1p=V 1p=Adv 0.666667 11 5
+-2w=, -1p=Conj 0.647059 10 5
+-2p=Adj -1w=, 0.642857 8 4
+go 0.642857 8 4
+-2p=Adv -1p=Conj 0.642857 8 4
+-2p=Conj -1p=Conj 0.636364 3 6
+think 0.636364 3 6
+1p=Pro 2p=Adj 0.636364 6 3
+1p=Prep 0.636364 3 6
+-2p=Conj -1p=Adv 0.636364 6 3
+1p=Ving 2p=Pro 0.625 2 4
+being 0.625 4 2
+-1p=Ns 1p=Adv 0.625 19 11
+looking 0.625 4 2
+that's 0.625 4 2
+without 0.625 4 2
+1p=Adv 2p=Ving 0.625 2 4
+-1p=Conj 1p=Vpp 0.625 2 4
+1p=Ns 2p=Det 0.625 2 4
+-1p=V 1p=Ving 0.625 2 4
+-2p=Ns -1w=and 0.625 4 2
+-1p=Conj 1p=Vpt 0.625 2 4
+-1p=Adv 1p=Adv 0.619048 12 7
+-1p=Conj 1p=Adj 0.612245 29 18
+1p=Adv 2p=Adj 0.611111 10 6
+1p=Adj 2p=Prep 0.605263 22 14
+smiling 0.6 2 1
+caught 0.6 2 1
+-2w=not -1p=Ns 0.6 2 1
+children 0.6 2 1
+-1w=if 1p=Np 0.6 2 1
+-1p=Adv 1p=Vpp 0.6 2 1
+-1p=Ns 1p=AdjC 0.6 1 2
+-1w=him 0.6 2 1
+-1p=V 1p=Vpt 0.6 1 2
+-1p=Adv 1p=AdjC 0.6 2 1
+rods 0.6 1 2
+listen 0.6 1 2
+1p=Ns 2w=a 0.6 2 1
+-1w=-- 0.6 2 1
+-2p=Pro -1w=know 0.6 2 1
+-1w=know 1p=Adj 0.6 1 2
+-1w=when 1p=Np 0.6 1 2
+1w=wrong 0.6 1 2
+-2p=End -1p=Adv 0.6 5 3
+hat 0.6 2 1
+therefore 0.6 2 1
+1p=Prep 2p=V 0.6 1 2
+-1w=and 1p=Adv 0.6 2 1
+-2w=or -1p=Adv 0.6 2 1
+-2p=Pro+Is -1p=Adv 0.6 1 2
+they'll 0.6 2 1
+-1p=Adv 1p=Vpt 0.6 2 1
+however 0.6 2 1
+going 0.6 5 8
+-1w=if 0.6 14 9
+-1p=Ns 1p=Vpt 0.6 3 5
+-2p=V -1w=and 0.6 2 1
+1w=right 0.6 1 2
+1p=Adv 2w='' 0.6 1 2
+story 0.6 2 1
+lot 0.6 2 1
+1p=Prep 2p=Adj 0.6 1 2
+-2p=End -1p=Pro 0.6 1 2
+-2w=he -1p=Np 0.6 2 1
+wondering 0.6 2 1
+-1p=End 0.6 2 1
+-1p=Conj 1p=Ving 0.6 5 8
+-1p=Ving 1p=Adv 0.6 2 1
+-2p=Adv -1w=that 0.6 2 1
+we'll 0.6 1 2
+fool 0.6 2 1
+tour 0.6 2 1
+doing 0.6 1 2
+doesn't 0.6 2 1
+says 0.6 2 1
+1w=right 2p=Punc 0.6 1 2
+-1w=if 1p=Adv 0.6 1 2
+allowance 0.6 2 1
+saying 0.6 1 2
+trembling 0.6 2 1
+say 0.6 1 2
+dependent 0.6 1 2
+1p=Conj 2p=Ns 0.6 1 2
+ask 0.6 1 2
+bad 0.6 2 1
+try 0.6 2 1
+soon 0.6 1 2
+dead 0.6 2 1
+-1p=Adv 1p=Ving 0.588235 9 6
+1p=Vpp 0.588235 9 6
+1p=Adv 2p=Punc 0.583333 6 4
+1p=Adv 2p=Adv 0.583333 4 6
+-2w=, -1w=if 0.571429 2 3
+-2p=Conj -1p=Pro 0.571429 2 3
+-2p=Ns -1w=if 0.571429 2 3
+1p=AdjC 0.571429 3 2
+maybe 0.571429 2 3
+1p=Adv 2w=, 0.571429 3 2
+husband 0.571429 3 2
+-1p=Adv 1p=Prep 0.571429 2 3
+-1w=if 1p=Adj 0.571429 3 2
+-1p=Pro 1p=Adj 0.571429 8 11
+1p=Ving 2p=Conj 0.571429 2 3
+1p=Pro 2p=Adv 0.571429 3 2
+-1w=know 0.571429 3 2
+1p=Vpt 0.5625 8 6
+am 0.555556 4 3
+-1p=Conj 1p=Pro 0.555556 4 3
+-2p=Punc -1w=if 0.555556 4 3
+-1p=Ns 1p=Vpp 0.545455 4 5
+1p=Ving 0.54 26 22
+-2w=i -1p=V 0.538462 6 5
+1p=Adj 2w='' 0.538462 5 6
+1p=Ving 2p=Adj 0.533333 6 7
+-1p=Conj 1p=Adv 0.526316 9 8
+-1p=Ns 1p=Ving 0.526316 8 9
+1p=Adj 2p=Adv 0.514286 17 16
+hills 0.5 1 1
+-2p=Np -1p=Pro 0.5 1 1
+-1p=Vpp 1p=Ving 0.5 1 1
+till 0.5 1 1
+1p=Ving 2p=Punc 0.5 2 2
+-1w=but 1p=V 0.5 1 1
+-2p=Pro -1p=Pro 0.5 2 2
+-2w=not -1p=Ving 0.5 1 1
+-1p=Prep 1w=wrong 0.5 1 1
+1p=Vpp 2p=Pro 0.5 1 1
+tooling 0.5 1 1
+hotel 0.5 1 1
+-2w=i -1p=Ns 0.5 4 4
+sequence 0.5 1 1
+louder 0.5 1 1
+love 0.5 1 1
+-2p=Is -1p=Ns 0.5 1 1
+-2p=Ns -1w=come 0.5 1 1
+-2w=they -1p=V 0.5 1 1
+-2w=how -1w=come 0.5 1 1
+-2p=V -1w=if 0.5 2 2
+hunger 0.5 1 1
+hungry 0.5 1 1
+-2w=how -1p=Vpp 0.5 1 1
+anybody 0.5 1 1
+anything 0.5 1 1
+i'd 0.5 1 1
+-2p=Conj -1w=that 0.5 1 1
+married 0.5 1 1
+candy 0.5 1 1
+1p=Ns 2w=up 0.5 1 1
+1p=Vpt 2p=Pro 0.5 1 1
+food 0.5 2 2
+-1w=when 1p=V 0.5 1 1
+-1w=but 1p=Adj 0.5 1 1
+-2p=V -1w=him 0.5 1 1
+-1w=-- 1p=Ns 0.5 1 1
+-2p=Is -1p=Ving 0.5 1 1
+-1w=but 1p=Ns 0.5 1 1
+us 0.5 1 1
+-2w=or -1p=Pro 0.5 1 1
+-2p=Conj -1w=come 0.5 1 1
+1w=dependent 0.5 1 1
+-1p=Conj 1w=dependent 0.5 1 1
+influence 0.5 1 1
+-1w=but 0.5 1 1
+-1p=Adv 1w=right 0.5 1 1
+-1p=Ns 1w=dependent 0.5 1 1
+-1p=Adj 1p=Vpt 0.5 1 1
+sorry 0.5 1 1
+sound 0.5 1 1
+-1w=that 1p=Adj 0.5 1 1
+vocation 0.5 1 1
+-1w=and 1p=Ving 0.5 1 1
+-2p=Ns -1w=till 0.5 1 1
+-1p=Pro 1p=AdjC 0.5 1 1
+christmas 0.5 1 1
+gage 0.5 1 1
+early 0.5 1 1
+getting 0.5 1 1
+gift 0.5 1 1
+ease 0.5 1 1
+-1w=where 0.5 1 1
+attracted 0.5 1 1
+glad 0.5 1 1
+-2w=`` -1p=Pro 0.5 1 1
+-2w=or -1p=Ns 0.5 1 1
+-1w=that 1p=Ving 0.5 1 1
+-1p=Pro 1p=Vpt 0.5 1 1
+club 0.5 1 1
+wearing 0.5 1 1
+-2p=Vs -1p=Pro 0.5 1 1
+able 0.5 1 1
+junior 0.5 1 1
+-1w=cooling 1p=Ns 0.5 1 1
+-1p=Ns 1w=being 0.5 1 1
+combat 0.5 1 1
+-1w=cooling 0.5 1 1
+-1p=Adj 1p=Vpp 0.5 1 1
+wherever 0.5 1 1
+1p=Adv 2p=Pro 0.5 1 1
+bars 0.5 1 1
+guess 0.5 1 1
+1p=Vpt 2p=Adj 0.5 2 2
+-1w=till 0.5 1 1
+1p=Vpp 2p=Adj 0.5 2 2
+beautiful 0.5 1 1
+noble 0.5 1 1
+redhead 0.5 1 1
+-1p=Adj 1p=Ving 0.5 5 5
+-1p=Conj 1p=AdjC 0.5 2 2
+-1p=Pro 1p=Vpp 0.5 1 1
+1p=AdvC 0.5 1 1
+laugh 0.5 1 1
+-1w=know 1p=Ns 0.5 1 1
+learn 0.5 1 1
+happy 0.5 1 1
+woman 0.5 1 1
+temporarily 0.5 1 1
+wonderful 0.5 1 1
+1w=being 0.5 1 1
+exciting 0.5 1 1
+-2p=Prep -1p=Conj 0.5 3 3
+continue 0.5 1 1
+1p=Ving 2w=. 0.5 1 1
+1p=Ving 2p=Np 0.5 1 1
+-1w=come 0.5 1 1
+-2p=V -1w=till 0.5 1 1
+-1p=Pro 1w=dependent 0.5 1 1
+wrong 0.5 2 2
+bets 0.5 1 1
+1w=being 2p=Adj 0.5 1 1
+-1p=Conj 1p=AdvC 0.5 1 1
+ah 0.5 1 1
+-2w=how -1p=V 0.5 1 1
+fair 0.5 1 1
+bit 0.5 1 1
+-1p=Adv 1w=dependent 0.5 1 1
+1p=V 2w=up 0.5 1 1
+-1p=V 1p=Vpp 0.5 2 2
+alive 0.5 1 1
+order 0.5 1 1
+youngster 0.5 1 1
+1p=V 2p=Det 0.5 1 1
