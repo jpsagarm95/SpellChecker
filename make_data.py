@@ -29,7 +29,6 @@ for sen in a:
                 if word == cw:
                     sent_list[cw].append(make_sentence(sen,cw))
                     
-print(sent_list['angel'][2])
 
 for terms in sent_list:
     sent_list[terms] = list(set(sent_list[terms]))
