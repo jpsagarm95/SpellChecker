@@ -101,12 +101,23 @@ for cSet in confusionSet:
                     entropy += 0
             #print("Entropy of %s: %f"%(ctxWord, entropy))
             
-            if entropy > 0.9:
+            if entropy > 0.95:
                 for cWord in confusionSet[cSet]:
                     contextWords[cWord].pop(ctxWord,None)
             
                 #counts.pop(ctxWord, None)
 
+for cSet in confusionSet:
+    set_temp = set()
+    for cWord in confusionSet[cSet]:
+        for ctxWord in contextWords[cWord]:
+            if ctxWord not in set_temp:
+                set_temp.add(ctxWord)
+    
+    for cWord in confusionSet[cSet]:
+        for key in set_temp:
+            if key not in contextWords[cWord]:
+                contextWords[cWord][key] = 0
 
 print(confusionSet)
 for cSet in confusionSet:
