@@ -20,9 +20,9 @@ for cSet in confusionSets:
         priorConf[cWord] = float(confusionSets[cSet][cWord])/float(sum_set)
         confCounts[cWord] = float(confusionSets[cSet][cWord])
 
-for w in priorConf:
-    print(w+ ' '),
-    print(priorConf[w])
+#for w in priorConf:
+#    print(w+ ' '),
+#    print(priorConf[w])
 
 #print(confCounts)
 #print(priorConf)
@@ -56,15 +56,15 @@ while (True):
                     prob[w] *= val
             maxval = 0
             idx = ''
-            for p in prob:
-                print(p + ' '),
-                print(prob[p])
+            #for p in prob:
+            #    print(p + ' '),
+            #    print(prob[p])
                 
             for k in prob:
                 if prob[k] > maxval: 
                     maxval = prob[k]
                     idx = k
-                    print(k)
+            #        print(k)
 
             words[i] = idx
 
