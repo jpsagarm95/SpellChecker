@@ -1,0 +1,114 @@
+import re
+import commands
+import pickle
+import math
+import nltk
+
+files = commands.getoutput('ls | grep "80.occs"')
+files = files.split('\n')
+print(files)
+confusionSet = {}
+collocs_left = {}
+collocs_right = {}
+
+check = 0
+for f in files:
+	
+    lines = {}
+    ite = 0
+    print(f)
+    confusionSetTemp = {}
+    with open(f) as fileobj:
+        for line in fileobj:
+            line = line.lower()
+            lines[ite] = line.replace('\n', '')
+            lines[ite] = re.sub('[^0-9a-zA-Z<> ]+', '', lines[ite])
+            
+            # extracting collocations
+            
+            word_tok = nltk.word_tokenize(lines[ite])
+            pos_tags = nltk.pos_tag(word_tok)
+            
+            
+            
+            a = re.search('<< (.+?) >>', lines[ite])
+            if a:
+                if a.group(1) in confusionSetTemp:
+                    confusionSetTemp[a.group(1)] += 1
+                else:
+                    confusionSetTemp[a.group(1)] = 1
+
+            temp_line = re.sub('[<>]', '', lines[ite])
+            words = temp_line.split()
+            #print(a.group(1))
+            #print(f)
+            loc = words.index(a.group(1))
+            start = max(loc-3,0)
+            end = min(loc+3,len(words)-1)
+            
+            left_seq = ''
+                                
+            for i in range(start,loc):
+                left_seq = left_seq + pos_tags[i][1] + ','
+            
+            if a.group(1) in collocs_left:
+                if left_seq in collocs_left[a.group(1)]:
+                    collocs_left[a.group(1)][left_seq] += 1
+                else:
+                    collocs_left[a.group(1)][left_seq] = 1
+                
+            else:
+                collocs_left[a.group(1)] = {}
+                collocs_left[a.group(1)][left_seq] = 1
+           
+                        
+            right_seq = ''
+            for i in range(loc+1,end+1):
+               right_seq = right_seq + pos_tags[i][1] + ',' 
+           
+            if a.group(1) in collocs_right:
+                            
+                if right_seq in collocs_right[a.group(1)]:
+                    collocs_right[a.group(1)][right_seq] += 1
+                else:
+                    collocs_right[a.group(1)][right_seq] = 1
+                
+            else:
+                collocs_right[a.group(1)] = {}
+                collocs_right[a.group(1)][words[i]] = 1
+              
+                        
+            
+            ite += 1
+    b = re.search('(.+)[-_]',f)
+    if b:
+        confusionSet[b.group(1)] = confusionSetTemp
+
+'''
+for cSet in confusionSet:
+    set_temp = set()
+    for cWord in confusionSet[cSet]:
+        for ctxWord in contextWords[cWord]:
+            if ctxWord not in set_temp:
+                set_temp.add(ctxWord)
+    
+    for cWord in confusionSet[cSet]:
+        for key in set_temp:
+            if key not in contextWords[cWord]:
+                contextWords[cWord][key] = 0
+''' and None
+
+print(confusionSet)
+for cSet in confusionSet:
+    print('++++++++++++++++++++++')
+    for cWord in confusionSet[cSet]:
+        print('-----------------')
+        print(cWord)
+        print('-----------------')
+        print(collocs_left[cWord])
+
+#pickle.dump(confusionSet, open("ConfusionSets.dict", "wb"))
+pickle.dump(collocs_left, open("Collocs_left.dict", "wb"))
+pickle.dump(collocs_right, open("Collocs_right.dict", "wb"))
+
+
