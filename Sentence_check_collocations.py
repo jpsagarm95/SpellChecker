@@ -30,80 +30,99 @@ for cSet in confusionSets:
 #print(confCounts)
 #print(priorConf)
 while (True):
-    line = raw_input('Enter line\n')
+    line = raw_input('Enter line:')
     line = line.lower()
     line = line.replace('\n', '')
     line = re.sub('[^0-9a-zA-Z ]+', '', line)
-    words = line.split(' ')
-    
-    for i in range(0, len(words)):
+    words_ = line.split(' ')
+    set_of_words = []
+    minprob = 1   
+    minidx = 0
+    poss_list = {}
+
+    for i in range(0, len(words_)):
         temp = ''
         maxval = 0
-        poss = text.correctWord(words[i])
+        poss = text.correctWord(words_[i])
         for p in poss:
             if poss[p] > maxval: 
                 maxval = poss[p]
                 temp = p
+        words_[i] = temp
+        if minprob > poss[temp]:
+            minidx = i
+            minprob = poss[temp]
+            poss_list = poss
+    kter = 0
+    for w in poss_list:
+        if (poss_list[w] > 0.2):
+            set_of_words.append([])
+            for wter in words_:
+                set_of_words[kter].append(wter)
 
-        words[i] = temp
+            set_of_words[kter][minidx] = w
+            kter += 1
+    #print(poss_list)
+    for words in set_of_words:
+        #print(words)
     
-    for i in range(0, len(words)):
-        words[i] = words[i].lower()
+	    for i in range(0, len(words)):
+		words[i] = words[i].lower()
 
-    word_tok = nltk.word_tokenize(line)
-    pos_tags = nltk.pos_tag(word_tok)
-    
-    for i in range(0, len(words)):
+	    word_tok = nltk.word_tokenize(line)
+	    pos_tags = nltk.pos_tag(word_tok)
+	    
+	    for i in range(0, len(words)):
 
-        if words[i] in cWords:
-            start = max(0,i-3)
-            end = min(i+3, len(words)-1)
-            
-            left_seq = ''
-                                
-            for j in range(start,i):
-                left_seq = left_seq + pos_tags[j][1] + ','
-                
-            right_seq = ''
-            for j in range(i+1,end+1):
-                right_seq = right_seq + pos_tags[j][1] + ',' 
-               
-            
-            
-            prob = {}
-            
-            confuse = cWords[words[i]]
-            for w in confuse:
-                prob[w] = priorConf[w]
-                if left_seq in collocs_left[w]:
-                    val_l = float(collocs_left[w][left_seq]+1)/(confCounts[w] + len(collocs_left[w]))
-                else:
-                    val_l = 1
-                
-                if right_seq in collocs_right[w]:
-                    val_r = float(collocs_right[w][right_seq]+1)/(confCounts[w] + len(collocs_right[w]))
-                else:
-                    val_r = 1
-                
-                prob[w]*=(val_r*val_l)
-                    
-                
-            maxval = 0
-            idx = ''
-            #for p in prob:
-            #    print(p + ' '),
-            #    print(prob[p])
-                
-            for k in prob:
-                if prob[k] > maxval: 
-                    maxval = prob[k]
-                    idx = k
-            #        print(k)
+		if words[i] in cWords:
+		    start = max(0,i-3)
+		    end = min(i+3, len(words)-1)
+		    
+		    left_seq = ''
+		                        
+		    for j in range(start,i):
+		        left_seq = left_seq + pos_tags[j][1] + ','
+		        
+		    right_seq = ''
+		    for j in range(i+1,end+1):
+		        right_seq = right_seq + pos_tags[j][1] + ',' 
+		       
+		    
+		    
+		    prob = {}
+		    
+		    confuse = cWords[words[i]]
+		    for w in confuse:
+		        prob[w] = priorConf[w]
+		        if left_seq in collocs_left[w]:
+		            val_l = float(collocs_left[w][left_seq]+1)/(confCounts[w] + len(collocs_left[w]))
+		        else:
+		            val_l = 1
+		        
+		        if right_seq in collocs_right[w]:
+		            val_r = float(collocs_right[w][right_seq]+1)/(confCounts[w] + len(collocs_right[w]))
+		        else:
+		            val_r = 1
+		        
+		        prob[w]*=(val_r*val_l)
+		            
+		        
+		    maxval = 0
+		    idx = ''
+		    #for p in prob:
+		    #    print(p + ' '),
+		    #    print(prob[p])
+		        
+		    for k in prob:
+		        if prob[k] > maxval: 
+		            maxval = prob[k]
+		            idx = k
+		    #        print(k)
 
-            words[i] = idx
+		    words[i] = idx
 
-    for i in words:
-        print i+' ',
+	    for i in words:
+		print i+' ',
 
-    print
+	    print
 
