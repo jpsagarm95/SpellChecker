@@ -1,8 +1,0 @@
-import re
-import commands
-import pickle
-import math
-
-contextWords = pickle.load(open('data/brown/ContextWords.dict', 'rb')
-confusionSets = pickle.load(open('data/brown/ConfusionSets.dict', 'rb')
-

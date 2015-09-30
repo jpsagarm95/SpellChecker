@@ -2,6 +2,7 @@ import re
 import commands
 import pickle
 import math
+import text
 
 contextWords = pickle.load(open('data/brown/ContextWords.dict', 'rb'))
 confusionSets = pickle.load(open('data/brown/ConfusionSets.dict', 'rb'))
@@ -32,9 +33,23 @@ while (True):
     line = line.replace('\n', '')
     line = re.sub('[^0-9a-zA-Z ]+', '', line)
     words = line.split(' ')
+   
+    for i in range(0, len(words)):
+        temp = ''
+        maxval = 0
+        poss = text.correctWord(words[i])
+        for p in poss:
+            if poss[p] > maxval: 
+                maxval = poss[p]
+                temp = p
+        print(poss)
+        words[i] = temp
+    
+    for i in range(0, len(words)):
+        words[i] = words[i].lower()
 
     for i in range(0, len(words)):
-
+                
         if words[i] in cWords:
             start = max(0,i-3)
             end = min(i+3, len(words)-1)
@@ -65,9 +80,16 @@ while (True):
                     maxval = prob[k]
                     idx = k
             #        print(k)
+            normalize = 0
+            for k in prob:
+                normalize += prob[k]
 
+            for k in prob:
+                prob[k] /= normalize
+            
+            print(prob)
             words[i] = idx
-
+            
     for i in words:
         print i+' ',
 

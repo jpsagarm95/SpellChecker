@@ -51,7 +51,7 @@ while (True):
                 
             right_seq = ''
             for j in range(i+1,end+1):
-               right_seq = right_seq + pos_tags[j][1] + ',' 
+                right_seq = right_seq + pos_tags[j][1] + ',' 
                
             
             

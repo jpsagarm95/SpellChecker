@@ -3,6 +3,7 @@ import commands
 import pickle
 import math
 import nltk
+import text
 
 collocs_left = pickle.load(open('data/brown/Collocs_left_pruned.dict', 'rb'))
 collocs_right = pickle.load(open('data/brown/Collocs_right_pruned.dict', 'rb'))
@@ -22,9 +23,9 @@ for cSet in confusionSets:
         priorConf[cWord] = float(confusionSets[cSet][cWord])/float(sum_set)
         confCounts[cWord] = float(confusionSets[cSet][cWord])
 
-for w in priorConf:
-    print(w+ ' '),
-    print(priorConf[w])
+#for w in priorConf:
+#    print(w+ ' '),
+#    print(priorConf[w])
 
 #print(confCounts)
 #print(priorConf)
@@ -35,6 +36,20 @@ while (True):
     line = re.sub('[^0-9a-zA-Z ]+', '', line)
     words = line.split(' ')
     
+    for i in range(0, len(words)):
+        temp = ''
+        maxval = 0
+        poss = text.correctWord(words[i])
+        for p in poss:
+            if poss[p] > maxval: 
+                maxval = poss[p]
+                temp = p
+
+        words[i] = temp
+    
+    for i in range(0, len(words)):
+        words[i] = words[i].lower()
+
     word_tok = nltk.word_tokenize(line)
     pos_tags = nltk.pos_tag(word_tok)
     
@@ -75,15 +90,15 @@ while (True):
                 
             maxval = 0
             idx = ''
-            for p in prob:
-                print(p + ' '),
-                print(prob[p])
+            #for p in prob:
+            #    print(p + ' '),
+            #    print(prob[p])
                 
             for k in prob:
                 if prob[k] > maxval: 
                     maxval = prob[k]
                     idx = k
-                    print(k)
+            #        print(k)
 
             words[i] = idx
 
