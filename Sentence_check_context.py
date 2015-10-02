@@ -6,6 +6,15 @@ import text
 
 contextWords = pickle.load(open('data/brown/ContextWords.dict', 'rb'))
 confusionSets = pickle.load(open('data/brown/ConfusionSets.dict', 'rb'))
+fp = open("data/all-words-cleaned.txt", 'r')
+data = fp.read()
+fp.close()
+splitdata = data.split('\n')
+numOfWords = len(splitdata) - 1
+dict = []
+for i in range(0, numOfWords):
+	temp = splitdata[i].upper()
+	dict.append(temp)
 
 cWords = {}
 confCounts = {}
@@ -41,7 +50,11 @@ while (True):
     for i in range(0, len(words_)):
         temp = ''
         maxval = 0
-        poss = text.correctWord(words_[i])
+        poss = {}
+        if words_[i] not in dict:
+	        poss = text.correctWord(words_[i])
+	else:
+        	poss[words_[i]] = 1
         for p in poss:
             if poss[p] > maxval: 
                 maxval = poss[p]
