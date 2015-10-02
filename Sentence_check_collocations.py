@@ -40,7 +40,7 @@ print end - start
 
 #print(confCounts)
 #print(priorConf)
-while (True):
+
     line = raw_input('Enter line:')
     start = time.time()
     line = line.lower()
@@ -94,11 +94,13 @@ while (True):
     end = time.time()
     print "3 " + str(end - start)
     #print(poss_list)
-    start = time.time()
+def collocations(set_of_words):
+    correct = {}
+    line = ""
+    for eve in set_of_words[0]:
+	line = line + " " + eve
     word_tok = nltk.word_tokenize(line)
     pos_tags = nltk.pos_tag(word_tok)
-    end = time.time()
-    print "4 " + str(end - start)
     for words in set_of_words:
         #print(words)
     
@@ -147,16 +149,25 @@ while (True):
 		    #    print(p + ' '),
 		    #    print(prob[p])
 		        
-		    for k in prob:
-		        if prob[k] > maxval: 
-		            maxval = prob[k]
-		            idx = k
+#		    for k in prob:
+#		        if prob[k] > maxval: 
+#		            maxval = prob[k]
+#		            idx = k
+		            
 		    #        print(k)
+		    normalize = 0
+                    for k in prob:
+                         normalize += prob[k]
 
-		    words[i] = idx
-
+                    for k in prob:
+                        prob[k] /= normalize
+                    for eve in prob:
+		    	if eve in correct:
+		    	    correct[eve] += prob[eve]
+		    	else:
+			    correct[eve] = prob[eve]
 	    for i in words:
 		print i+' ',
 
 	    print
-
+    return correct

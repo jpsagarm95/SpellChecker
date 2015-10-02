@@ -36,8 +36,7 @@ for cSet in confusionSets:
 
 #print(confCounts)
 #print(priorConf)
-while (True):
-    line = raw_input('Enter line:')
+def context(line):
     line = line.lower()
     line = line.replace('\n', '')
     line = re.sub('[^0-9a-zA-Z ]+', '', line)
