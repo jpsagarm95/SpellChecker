@@ -173,104 +173,115 @@ for cSet in confusionSets:
 
 #print(confCounts)
 #print(priorConf)
-while(True):
-	line = raw_input('Enter line:')
-	print line + '\t',
-	usedSpell = False
-	line = line.lower()
-	line = line.replace('\n', '')
-	line = re.sub('[^0-9a-zA-Z ]+', '', line)
-	words_ = line.split(' ')
-	set_of_words = []
-	minprob = 1   
-	minidx = 0
-	poss_list = {}
-	maxprob = 0
-	for i in range(0, len(words_)):
-	    temp = ''
-	    maxval = 0
-	    poss = {}
 
-	    if words_[i] not in dicti:
-		#print words_[i]
-		usedSpell = True
-		poss = text.correctWord(words_[i])
+def bayesianCheck(line):
+    #print line + '\t',
+    usedSpell = False
+    line = line.lower()
+    line = line.replace('\n', '')
+    line = re.sub('[^0-9a-zA-Z ]+', '', line)
+    words_ = line.split(' ')
+    set_of_words = []
+    minprob = 1   
+    minidx = 0
+    poss_list = {}
+    maxprob = 0
+    for i in range(0, len(words_)):
+        temp = ''
+        maxval = 0
+        poss = {}
+
+        if words_[i] not in dicti:
+            #print words_[i]
+            usedSpell = True
+            poss = text.correctWord(words_[i])
+        else:
+            poss[words_[i]] = 1
+            continue
+
+        for p in poss:
+            if poss[p] > maxval: 
+                maxval = poss[p]
+                temp = p
+        words_[i] = temp
+        
+        if maxprob < poss[temp]:
+            maxidx = i
+            maxprob = poss[temp]
+            poss_list = poss
+    kter = 0
+    if len(poss_list) == 0:
+        set_of_words.append([])
+        for wter in words_:
+            set_of_words[kter].append(wter)
+    else:
+        for w in poss_list:
+                if (poss_list[w] > 0.2):
+                    set_of_words.append([])
+                    for wter in words_:
+                        set_of_words[kter].append(wter)
+
+                    set_of_words[kter][minidx] = w
+                    kter += 1
+
+
+    con = context(set_of_words)
+    col = collocations(set_of_words)
+    total = {}
+    final = 0
+    for eve in con:
+            total[eve] = con[eve]
+            final += con[eve]
+    for eve in col:
+            if eve not in total:
+                    total[eve] = col[eve]
             else:
-		poss[words_[i]] = 1
-		continue
+                    total[eve] += col[eve]
+            final += con[eve]
+                    
+    for eve in total:
+            total[eve] = total[eve]/final
+    
+    value = 0
+    coreve = ""
+    if usedSpell:
+            for eve in poss_list:
+                    if value < poss_list[eve]:
+                            value = poss_list[eve]
+                            coreve = eve
+            #if coreve in total:
+            #        temp = cWords[coreve]
+            #        for x in temp:
+                            #print x + " " + str(total[x])
+            sorted_p = sorted(poss_list.items(), key=operator.itemgetter(1), reverse = True)
+            counter = 0
+            output = {}
+            for fin in sorted_p:
+                    if counter == 3:
+                            break
+                    #print fin[0] + "\t" + str(fin[1]),
+                    counter += 1
+                    output[fin[0]] = fin[1]
+            return output
+            #print
+    else:
+            for eve in line:
+                    if eve in total:
+                            del total[eve]
+            sorted_t = sorted(total.items(), key=operator.itemgetter(1), reverse = True)
+            #counter = 0
 
-	    for p in poss:
-		if poss[p] > maxval: 
-		    maxval = poss[p]
-		    temp = p
-	    words_[i] = temp
-	    
-	    if maxprob < poss[temp]:
-		maxidx = i
-		maxprob = poss[temp]
-		poss_list = poss
-	kter = 0
-	if len(poss_list) == 0:
-	    set_of_words.append([])
-	    for wter in words_:
-	        set_of_words[kter].append(wter)
-	else:
-	    for w in poss_list:
-		    if (poss_list[w] > 0.2):
-			set_of_words.append([])
-			for wter in words_:
-			    set_of_words[kter].append(wter)
+            output = {}
+            for fin in sorted_t:
+                    if counter == 3:
+                            break
+                    output[fin[0]] = fin[1]
+                    #print fin[0] + "\t" + str(fin[1]),
+                    counter += 1
+            #print
+            return output
 
-			set_of_words[kter][minidx] = w
-			kter += 1
-
-
-	con = context(set_of_words)
-	col = collocations(set_of_words)
-	total = {}
-	final = 0
-	for eve in con:
-		total[eve] = con[eve]
-		final += con[eve]
-	for eve in col:
-		if eve not in total:
-			total[eve] = col[eve]
-		else:
-			total[eve] += col[eve]
-		final += con[eve]
-			
-	for eve in total:
-		total[eve] = total[eve]/final
-	
-	value = 0
-	coreve = ""
-	if usedSpell:
-		for eve in poss_list:
-			if value < poss_list[eve]:
-				value = poss_list[eve]
-				coreve = eve
-		if coreve in total:
-			temp = cWords[coreve]
-			for x in temp:
-				print x + " " + str(total[x])
-		sorted_p = sorted(poss_list.items(), key=operator.itemgetter(1), reverse = True)
-		counter = 0
-		for fin in sorted_p:
-			if counter == 3:
-				break
-			print fin[0] + "\t" + str(fin[1]),
-			counter += 1
-			
-		print
-	else:
-		for eve in line:
-			if eve in total:
-				del total[eve]
-		sorted_t = sorted(total.items(), key=operator.itemgetter(1), reverse = True)
-		counter = 0
-		for fin in sorted_t:
-			if counter == 3:
-				break
-			print fin[0] + "\t" + str(fin[1]),
-			counter += 1
-		print
+#while(True):
+#	line = raw_input('Enter line:')
+#        output = bayesianCheck(line)
+#        print(output)
