@@ -25566,8 +25566,6 @@ harsher
 harshest
 harshly
 harshness
-hart
-harts
 harvest
 harvested
 harvester

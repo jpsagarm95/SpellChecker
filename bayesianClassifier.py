@@ -5,7 +5,7 @@ import math
 import nltk
 import text
 import time
-
+import operator
 
 def collocations(set_of_words):
     global contextWords
@@ -175,6 +175,7 @@ for cSet in confusionSets:
 #print(priorConf)
 while(True):
 	line = raw_input('Enter line:')
+	print line + '\t',
 	usedSpell = False
 	line = line.lower()
 	line = line.replace('\n', '')
@@ -252,9 +253,24 @@ while(True):
 			temp = cWords[coreve]
 			for x in temp:
 				print x + " " + str(total[x])
-		print poss_list
+		sorted_p = sorted(poss_list.items(), key=operator.itemgetter(1), reverse = True)
+		counter = 0
+		for fin in sorted_p:
+			if counter == 3:
+				break
+			print fin[0] + "\t" + str(fin[1]),
+			counter += 1
+			
+		print
 	else:
 		for eve in line:
 			if eve in total:
 				del total[eve]
-		print total
+		sorted_t = sorted(total.items(), key=operator.itemgetter(1), reverse = True)
+		counter = 0
+		for fin in sorted_t:
+			if counter == 3:
+				break
+			print fin[0] + "\t" + str(fin[1]),
+			counter += 1
+		print
