@@ -11,10 +11,10 @@ data = fp.read()
 fp.close()
 splitdata = data.split('\n')
 numOfWords = len(splitdata) - 1
-dict = []
+dicti = []
 for i in range(0, numOfWords):
-	temp = splitdata[i].upper()
-	dict.append(temp)
+	temp = splitdata[i].lower()
+	dicti.append(temp)
 
 cWords = {}
 confCounts = {}
@@ -51,7 +51,7 @@ while (True):
         temp = ''
         maxval = 0
         poss = {}
-        if words_[i] not in dict:
+        if words_[i] not in dicti:
 	        poss = text.correctWord(words_[i])
 	else:
         	poss[words_[i]] = 1
@@ -65,14 +65,19 @@ while (True):
             minprob = poss[temp]
             poss_list = poss
     kter = 0
-    for w in poss_list:
-        if (poss_list[w] > 0.2):
-            set_of_words.append([])
-            for wter in words_:
-                set_of_words[kter].append(wter)
+    if len(poss_list) == 0:
+        set_of_words.append([])
+        for wter in words_:
+            set_of_words[kter].append(wter)
+    else:
+	    for w in poss_list:
+		if (poss_list[w] > 0.2):
+		    set_of_words.append([])
+		    for wter in words_:
+		        set_of_words[kter].append(wter)
 
-            set_of_words[kter][minidx] = w
-            kter += 1
+		    set_of_words[kter][minidx] = w
+		    kter += 1
     #print(poss_list)
     for words in set_of_words:
         #print(words)
