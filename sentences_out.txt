@@ -1,0 +1,34 @@
+from the eath to the moon	each	0.5567362518	earth	0.393977112026	bath	0.021061352511	
+wate fountain at paris	water	0.73717066049	waste	0.209023536354	rate	0.0217934423842	
+roff of the house	ruff	0.481303792008	off	0.353970556807	riff	0.146157912593	
+a geant leap for mankind	giant	0.930898692095	grant	0.0406062616001	meant	0.0168412813441	
+interested in your opinin	opinion	0.999329697333	opining	0.000670300055451	opinions	2.60325279149e-09	
+hope for the futre	future	0.99999999979	futures	1.63205335427e-10	fire	3.31839029992e-11	
+taking an extreem step	extreme	0.999999999829	extremes	1.69891970459e-10	esteem	8.56949388588e-13	
+walking down the aisel	aisle	0.999999996807	diesel	1.35591467911e-09	arise	1.00216618695e-09	
+cops and robers	robes	0.354115401943	robbers	0.279574372964	rovers	0.206667079652	
+presient of united states	president	0.915976647481	present	0.0793999393021	prescient	0.00462341306091	
+a few goode men	good	0.977704387921	goods	0.0150881311007	goody	0.00532469142963	
+a briht sunny day	bright	0.999999999318	right	2.82546513592e-10	birth	2.58314562084e-10	
+rainig cats and doggs	raining	0.999999906924	rating	4.60912483987e-08	racing	4.43023344835e-08	
+chill down the spene	spine	0.685681090755	spent	0.134252822062	spend	0.107972400773	
+broken hart	heart	0.388708327407	hard	0.375279774953	part	0.110185906306	
+coyote fox	
+hand bags	
+footballhalloffame	
+giantcell	giantess	1.0	
+The parliament passed the resoltion to discuss the bil.	resolution	0.99999999939	resolutions	5.89412265595e-10	revolution	2.0294482453e-11	
+Private hopitals to provide frea treatment to the poor.	hospitals	0.999999999818	hospital	1.79598174098e-10	capitals	2.16188559358e-12	
+The fotball match was very interesting.	football	0.999999999965	softball	1.78381258412e-11	footballs	1.69114578239e-11	
+The departments of the institute offer corses, conducted by highly qualified staff.	courses	0.986991024168	curses	0.00538556023913	corsets	0.00371147086225	
+The food served in the restarant was very godd.	restaurant	0.99999999671	restaurants	3.28070544194e-09	restraint	8.20039540199e-12	
+In great powrr lies great responsibility.	power	0.99999999955	porn	1.87449371123e-10	powers	1.37125886339e-10	
+All divisions of the ramed forces participated in the parade.	armed	0.589523259871	named	0.259680896226	rated	0.10176172932	
+To be or to bea is not the question.	be	0.9203349177	bear	0.0338122349499	beta	0.0224662989619	
+The crime raet seems to be under control.	rate	0.996810817635	rat	0.00174715980322	rant	0.00113560108952	
+A great victry has come but at a great cort.	victory	0.999999999939	victor	5.7324804938e-11	viceroy	1.63087010965e-12	
+You cannot handel the truth.	handle	0.983134079283	handed	0.0168659188147	handled	8.61783038701e-10	
+The powre has now shifted to the east.	power	0.998646206645	pore	0.00135378928459	powered	3.75974575473e-09	
+Keep your frinds close, and your enemis closer.	enemies	0.999939255505	enemas	6.07435863099e-05	enemy	8.91973407634e-10	
+The best part of the stiry is yet to come.	story	0.992064633183	stir	0.00767127433717	stirs	0.000264091678568	
+Who said it is difficult, it is impossile.	impossible	0.999999999941	impossibly	5.49315597558e-11	impossibles	3.33995063359e-12	

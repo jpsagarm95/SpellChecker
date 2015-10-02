@@ -203,12 +203,16 @@ def bayesianCheck(line):
             if poss[p] > maxval: 
                 maxval = poss[p]
                 temp = p
-        words_[i] = temp
+        if len(temp) == 0:
+            temp = words_[i]
+            #poss[temp] = 1
         
-        if maxprob < poss[temp]:
-            maxidx = i
-            maxprob = poss[temp]
-            poss_list = poss
+        else:
+            words_[i] = temp
+            if maxprob < poss[temp]:
+                maxidx = i
+                maxprob = poss[temp]
+                poss_list = poss
     kter = 0
     if len(poss_list) == 0:
         set_of_words.append([])
@@ -254,15 +258,15 @@ def bayesianCheck(line):
             #        for x in temp:
                             #print x + " " + str(total[x])
             sorted_p = sorted(poss_list.items(), key=operator.itemgetter(1), reverse = True)
-            counter = 0
-            output = {}
-            for fin in sorted_p:
-                    if counter == 3:
-                            break
+            #counter = 0
+            #output = {}
+            #for fin in sorted_p:
+            #        if counter == 3:
+            #                break
                     #print fin[0] + "\t" + str(fin[1]),
-                    counter += 1
-                    output[fin[0]] = fin[1]
-            return output
+            #        counter += 1
+            #        output[fin[0]] = fin[1]
+            return sorted_p 
             #print
     else:
             for eve in line:
@@ -271,15 +275,16 @@ def bayesianCheck(line):
             sorted_t = sorted(total.items(), key=operator.itemgetter(1), reverse = True)
             #counter = 0
 
-            output = {}
-            for fin in sorted_t:
-                    if counter == 3:
-                            break
-                    output[fin[0]] = fin[1]
+            return sorted_t
+            #output = {}
+            #for fin in sorted_t:
+            #        if counter == 3:
+            #                break
+            #        output[fin[0]] = fin[1]
                     #print fin[0] + "\t" + str(fin[1]),
-                    counter += 1
+            #        counter += 1
             #print
-            return output
+            #return output
 
 #while(True):
 #	line = raw_input('Enter line:')
