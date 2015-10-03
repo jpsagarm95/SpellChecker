@@ -10,6 +10,7 @@ import operator
 def collocations(set_of_words):
     global contextWords
     correct = {}
+    correctset = {}
     line = ""
     for eve in set_of_words[0]:
         line = line + " " + eve
@@ -72,21 +73,42 @@ def collocations(set_of_words):
 		    normalize = 0
 		    for k in prob:
 		         normalize += prob[k]
-
+		    maxvalue = 0
+		    maxword = ""
 		    for k in prob:
-		        prob[k] /= normalize
+			if maxvalue < prob[k]:
+			    maxvalue = prob[k]
+			    maxword = k
+			prob[k] /= normalize
+                    correctset[maxword] = maxvalue
 		    for eve in prob:
 		        if eve in correct:
 		            correct[eve] += prob[eve]
 		        else:
 		            correct[eve] = prob[eve]
-    return correct
+    minvalue = 1000
+    minword = ""
+    actual = {}
+    if len(correct) > 0:
+	    for eve in correctset:
+	    	if minvalue > correct[eve]:
+	    		minvalue = correct[eve]
+	    		minword = eve
+	    actuallist = cWords[minword]
+	    for eve in actuallist:
+	    	actual[eve] = correct[eve]
+    else:
+    	actual = correct
+
+    #print actual
+    return actual
 
 
 
 def context(set_of_words):
     global contextWords
     correct = {}
+    correctset = {}
     for words in set_of_words:
 
         for i in range(0, len(words)):
@@ -127,17 +149,36 @@ def context(set_of_words):
                 normalize = 0
                 for k in prob:
                     normalize += prob[k]
-
+		maxvalue = 0
+		maxword = ""
                 for k in prob:
+                    if maxvalue < prob[k]:
+                    	maxvalue = prob[k]
+                    	maxword = k
                     prob[k] /= normalize
+                correctset[maxword] = maxvalue
                 for eve in prob:
                     if eve in correct:
                         correct[eve] += prob[eve]
                     else:
                         correct[eve] = prob[eve]
                 
+    minvalue = 1000
+    minword = ""
+    actual = {}
+    if len(correct) > 0:
+	    for eve in correctset:
+	    	if minvalue > correct[eve]:
+	    		minvalue = correct[eve]
+	    		minword = eve
+	    actuallist = cWords[minword]
+	    for eve in actuallist:
+	    	actual[eve] = correct[eve]
+    else:
+    	actual = correct
 
-    return correct
+    #print actual
+    return actual
 
 contextWords = pickle.load(open('data/brown/ContextWords.dict', 'rb'))
 collocs_left = pickle.load(open('data/brown/Collocs_left_pruned.dict', 'rb'))
@@ -231,6 +272,9 @@ def bayesianCheck(line):
 
     con = context(set_of_words)
     col = collocations(set_of_words)
+    #print con
+    #print col
+    #print "One Done #########################################"
     total = {}
     final = 0
     for eve in con:
@@ -241,7 +285,7 @@ def bayesianCheck(line):
                     total[eve] = col[eve]
             else:
                     total[eve] += col[eve]
-            final += con[eve]
+            final += col[eve]
                     
     for eve in total:
             total[eve] = total[eve]/final
@@ -269,9 +313,6 @@ def bayesianCheck(line):
             return sorted_p 
             #print
     else:
-            for eve in line:
-                    if eve in total:
-                            del total[eve]
             sorted_t = sorted(total.items(), key=operator.itemgetter(1), reverse = True)
             #counter = 0
 
