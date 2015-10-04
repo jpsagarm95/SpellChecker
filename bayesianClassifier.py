@@ -253,11 +253,18 @@ def bayesianCheck(line):
                     if value < poss_list[eve]:
                             value = poss_list[eve]
                             coreve = eve
+            new = {}
+            for x in poss_list:
+            	x = x.lower()
+            	if x in total:
+            		new[x] = total[x]
+            if len(new) == 0:
+            	new = poss_list
             #if coreve in total:
             #        temp = cWords[coreve]
             #        for x in temp:
                             #print x + " " + str(total[x])
-            sorted_p = sorted(poss_list.items(), key=operator.itemgetter(1), reverse = True)
+            sorted_p = sorted(new.items(), key=operator.itemgetter(1), reverse = True)
             #counter = 0
             #output = {}
             #for fin in sorted_p:
@@ -269,7 +276,7 @@ def bayesianCheck(line):
             return sorted_p 
             #print
     else:
-            for eve in line:
+            for eve in line.split():
                     if eve in total:
                             del total[eve]
             sorted_t = sorted(total.items(), key=operator.itemgetter(1), reverse = True)
